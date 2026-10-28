@@ -8,6 +8,7 @@
     "dev": "vite",
     "build": "vite build && cross-env NODE_ENV=production node scripts/prerender.mjs",
     "preview": "vite preview",
+    "sanity:seed-public-copy": "node scripts/seed-public-page-copy.mjs",
     "type-check": "tsc --project tsconfig.json --noEmit",
     "lint": "biome lint ."
   },

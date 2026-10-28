@@ -48,14 +48,14 @@ export default function Contact() {
                     <span className="flex h-9 w-9 shrink-0 items-center justify-center rounded-card bg-mist text-moss">
                       <FaPhoneAlt className="text-xs" />
                     </span>
-                    <span className="pt-2">+86 (0)10 5094 3499<br />+86 (0)185 1451 5612</span>
+                    <span className="pt-2">{t("+86 (0)10 5094 3499")}<br />{t("+86 (0)185 1451 5612")}</span>
                   </li>
                   <li className="flex items-start gap-3">
                     <span className="flex h-9 w-9 shrink-0 items-center justify-center rounded-card bg-mist text-moss">
                       <FaEnvelope className="text-xs" />
                     </span>
-                    <a href="mailto:east@inflink.cn" className="pt-2 transition-colors hover:text-forest">
-                      east@inflink.cn
+                    <a href={`mailto:${t("east@inflink.cn")}`} className="pt-2 transition-colors hover:text-forest">
+                      {t("east@inflink.cn")}
                     </a>
                   </li>
                   <li className="flex items-start gap-3">

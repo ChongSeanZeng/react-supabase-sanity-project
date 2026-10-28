@@ -59,23 +59,23 @@ export function QualificationWall() {
             />
           </a>
           <div className="text-center md:text-left">
-            <p className="text-base font-bold text-forest">FSC®N002971 www.fsc.org</p>
+            <p className="text-base font-bold text-forest">{t("FSC®N002971 www.fsc.org")}</p>
             <p className="mt-1 text-sm text-moss">{t("选择 FSC®，支持负责任采购")}</p>
             <p className="mt-4 text-xs leading-relaxed text-inksoft/80">
-              {language === "en" ? fscDisclaimer.en : fscDisclaimer.zh}
+              {t(fscDisclaimer.zh)}
             </p>
           </div>
         </div>
       </Reveal>
 
       <div className="mt-8 grid gap-5 sm:grid-cols-2 lg:grid-cols-3">
-        {tiles.map((t, i) => (
-          <Reveal key={t.id} delay={i * 90}>
+        {tiles.map((tile, i) => (
+          <Reveal key={tile.id} delay={i * 90}>
             <button
               type="button"
               onClick={() => openViewer(i)}
               className="group flex h-full w-full flex-col overflow-hidden rounded-card border border-line bg-white text-left shadow-[0_2px_10px_rgba(27,67,50,0.05)] transition-all duration-300 hover:-translate-y-1.5 hover:border-moss hover:shadow-[0_18px_38px_rgba(27,67,50,0.16)]"
-              aria-label={language === "en" ? `View ${t.nameEn}` : `查看${t.name}大图`}
+              aria-label={language === "en" ? `View ${tile.nameEn}` : `查看${tile.name}大图`}
             >
               <span className="relative block w-full overflow-hidden bg-mist/70 p-4">
                 <span
@@ -83,8 +83,8 @@ export function QualificationWall() {
                   style={{ aspectRatio: qualificationTileCrop.aspectRatio }}
                 >
                   <img
-                    src={assetUrl(t.image)}
-                    alt={language === "en" ? t.nameEn : t.name}
+                    src={assetUrl(tile.image)}
+                    alt={t(tile.name)}
                     loading="lazy"
                     className="h-full w-full object-contain p-1"
                   />
@@ -98,7 +98,7 @@ export function QualificationWall() {
                 <FaCertificate className="mt-0.5 shrink-0 text-moss" />
                 <span>
                   <span className="block text-sm font-bold leading-snug text-forest">
-                    {language === "en" ? t.nameEn : t.name}
+                    {t(tile.name)}
                   </span>
                 </span>
               </span>
@@ -116,7 +116,7 @@ export function QualificationWall() {
         >
           <div className="flex items-center justify-between gap-4 border-b border-white/15 px-5 py-4">
             <p className="text-sm font-semibold text-white">
-              {language === "en" ? current.nameEn : current.name}
+              {t(current.name)}
             </p>
             <div className="flex items-center gap-2">
               <button
@@ -161,7 +161,7 @@ export function QualificationWall() {
                 >
                   <img
                     src={assetUrl(current.image)}
-                    alt={language === "en" ? current.nameEn : current.name}
+                    alt={t(current.name)}
                     className="h-full w-full object-contain"
                   />
                 </span>

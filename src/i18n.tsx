@@ -4,11 +4,17 @@ import { languageForPath } from "@/lib/localized-path"
 
 export type Language = "zh" | "en"
 
+export interface LocalizedCopy {
+  zh: string
+  en: string
+}
+
 interface LanguageContextValue {
   language: Language
   setLanguage: (language: Language) => void
   toggleLanguage: () => void
   t: (text: string) => string
+  setPageCopy: (copy: Record<string, LocalizedCopy>) => void
 }
 
 const LanguageContext = createContext<LanguageContextValue | null>(null)
@@ -25,6 +31,7 @@ export function LanguageProvider({
       typeof window === "undefined" ? "zh" : languageForPath(window.location.pathname)
     ),
   )
+  const [pageCopy, setPageCopy] = useState<Record<string, LocalizedCopy>>({})
 
   useEffect(() => {
     document.documentElement.lang = language === "en" ? "en" : "zh-CN"
@@ -39,7 +46,12 @@ export function LanguageProvider({
     language,
     setLanguage,
     toggleLanguage: () => setLanguage((current) => current === "zh" ? "en" : "zh"),
-    t: (text) => language === "en" ? translations[text] ?? text : text,
+    t: (text) => {
+      const localizedCopy = pageCopy[text]
+      if (localizedCopy) return language === "en" ? localizedCopy.en : localizedCopy.zh
+      return language === "en" ? translations[text] ?? text : text
+    },
+    setPageCopy,
   }
 
   return <LanguageContext.Provider value={value}>{children}</LanguageContext.Provider>

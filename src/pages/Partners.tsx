@@ -46,8 +46,8 @@ export default function Partners() {
                   />
                   <FaExternalLinkAlt className="absolute right-5 top-5 text-xs text-inksoft/40 transition-colors duration-300 group-hover:text-moss" />
                   <div className="relative">
-                    <p data-no-translate className="text-2xl font-bold text-forest">{p.name}</p>
-                    <p data-no-translate className="mt-3 text-sm leading-relaxed text-inksoft">{p.full}</p>
+                    <p data-no-translate className="text-2xl font-bold text-forest">{t(p.name)}</p>
+                    <p data-no-translate className="mt-3 text-sm leading-relaxed text-inksoft">{t(p.full)}</p>
                   </div>
                   <span className="relative mt-6 inline-block h-[2px] w-10 bg-sprout transition-all duration-300 group-hover:w-16" />
                 </a>

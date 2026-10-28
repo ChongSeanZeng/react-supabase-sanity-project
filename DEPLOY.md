@@ -39,6 +39,31 @@ The public site only uses Sanity's read-only public API and does not require an
 API token. In the Sanity project settings, allow the deployed site's origin for
 the dataset's CORS configuration, with credentials enabled for Studio sign-in.
 
+### Public page copy
+
+The Chinese and English homepage remain prerendered from the Vite build.
+Published copy for About, Sustainability, Training, Verification, Partners, and
+Contact is fetched from Sanity when a visitor opens or revisits those routes;
+publishing these documents does not require a site rebuild. Deploy the site
+once with the new Studio schema and runtime reader before using this workflow.
+Existing image URLs and login, admin, and learner data remain outside this
+content workflow.
+
+After adding the new schema, seed each page's existing copy once from a local
+environment that has a rotated, write-capable `SANITY_API_TOKEN` and the
+Sanity project variables configured:
+
+```powershell
+bun run sanity:seed-public-copy --dry-run
+bun run sanity:seed-public-copy
+```
+
+The seed command creates only missing page drafts and never overwrites an
+existing draft or published document. Review and publish each page under
+**内容管理 → 网站页面文案** in Studio. The browser reads published documents without a token, so the Sanity
+dataset must permit public reads and the deployed origin must be allowed in
+Sanity CORS settings. Do not expose `SANITY_API_TOKEN` through a `VITE_` variable.
+
 Each record includes the DDS reference number, report holder/company, on-site
 verification date, report validity end date, product type, the first four HS
 Code digits, tree species, and conclusion. Visitors can search by company name
