@@ -1,0 +1,37 @@
+alter table public.profiles
+  add column if not exists auth_confirmed_at timestamptz;
+
+create or replace function public.create_profile_for_auth_user()
+returns trigger
+language plpgsql
+security definer
+set search_path = public, pg_temp
+as $$
+begin
+  insert into public.profiles (id, phone, email, display_name, auth_confirmed_at)
+  values (
+    new.id,
+    new.phone,
+    new.email,
+    nullif(new.raw_user_meta_data ->> 'display_name', ''),
+    new.confirmed_at
+  )
+  on conflict (id) do update
+    set phone = excluded.phone,
+        email = excluded.email,
+        display_name = coalesce(excluded.display_name, profiles.display_name),
+        auth_confirmed_at = excluded.auth_confirmed_at;
+  return new;
+end;
+$$;
+
+drop trigger if exists on_auth_user_created_profile on auth.users;
+create trigger on_auth_user_created_profile
+  after insert or update of phone, email, confirmed_at on auth.users
+  for each row execute procedure public.create_profile_for_auth_user();
+
+update public.profiles as profile
+set auth_confirmed_at = auth_user.confirmed_at
+from auth.users as auth_user
+where auth_user.id = profile.id
+  and profile.auth_confirmed_at is distinct from auth_user.confirmed_at;

@@ -1,0 +1,62 @@
+/spa.txt
+  Content-Type: text/html; charset=utf-8
+
+/about
+  Content-Type: text/html; charset=utf-8
+
+/sustainability
+  Content-Type: text/html; charset=utf-8
+
+/training
+  Content-Type: text/html; charset=utf-8
+
+/courses
+  Content-Type: text/html; charset=utf-8
+
+/login
+  Content-Type: text/html; charset=utf-8
+
+/admin
+  Content-Type: text/html; charset=utf-8
+
+/verification
+  Content-Type: text/html; charset=utf-8
+
+/partners
+  Content-Type: text/html; charset=utf-8
+
+/contact
+  Content-Type: text/html; charset=utf-8
+
+/en/about
+  Content-Type: text/html; charset=utf-8
+
+/en/sustainability
+  Content-Type: text/html; charset=utf-8
+
+/en/training
+  Content-Type: text/html; charset=utf-8
+
+/en/courses
+  Content-Type: text/html; charset=utf-8
+
+/en/login
+  Content-Type: text/html; charset=utf-8
+
+/en/admin
+  Content-Type: text/html; charset=utf-8
+
+/en/verification
+  Content-Type: text/html; charset=utf-8
+
+/en/partners
+  Content-Type: text/html; charset=utf-8
+
+/en/contact
+  Content-Type: text/html; charset=utf-8
+
+/studio
+  Content-Type: text/html; charset=utf-8
+
+/studio/*
+  Content-Type: text/html; charset=utf-8

@@ -1,0 +1,707 @@
+# About East Inflink关于林扬东方  
+
+# Company Profile公司简介  
+
+林扬东方（北京）科技有限公司成立于 2018年，核心团队深耕林业、环境治理、质量检测与国际商务领域，专注为进出口企业提供全链条合规与可持续发展解决方案。我们以专业能力为根基，以生态守护为责任，以全球链接为视野，为企业提供精准高效的合规服务，助力贸易合规与生态价值共赢。  
+
+![732868085cd7f73e346c189b3913112f.jpg](http://docmind-api-cn-hangzhou.oss-cn-hangzhou.aliyuncs.com/1648345570663959/publicDocStreamStructure/docmind-20260929-1bfa79a83dcc427da50cc83567d37b98/732868085cd7f73e346c189b3913112f.jpeg?Expires=1790692657&OSSAccessKeyId=STS.NY8oS7EZpQZS3Z77jEK1WyMWk&Signature=PqvP3S%2FJC9p4M0wrhhRRHkc8EyY%3D&security-token=CAIS1QJ1q6Ft5B2yfSjIr5qNJOmDqIVR5pi4MXyG02oQR757loj8iTz2IHhMeHVhCe4Ytfs1nmxX7voZlrh6SJtIXleCbMdo9JNJ8A%2BsedJNEQEDC%2BBW5qe%2BEE2%2FVjTZvqaLEcibIfrZfvCyESOm8gZ43br9cxi7QlWhKufnoJV7b9MRLGLaBHg8c7UwHAZ5r9IAPnb8LOukNgWQ4lDdF011oAFx%2BwgdgOadupTGu0aF1wOllL9P%2Bd6vecKeApMybMslYbCcx%2Fdrc6fN6ilU5iVR%2Bb1%2B5K4%2Bom%2Bf4o3MUwcPuErcabaLqoE0Nn14arB%2FF6lPqfn6mbhgs%2FbImsGtk0wQePlPVDRfr0NSPAUKcgnAFqHaFd6TUxylurgEJoN2I%2B5yGjuduFf%2Fn3b1tr2UnSZtE1f0Y8aMs3OxaQz4UPPmm%2Fp9ipE%2Bojulg5zkbjbgTd1ZnhhyZvdUBxqAAamF6NHIXUiBenlZi1XJamzP8HWvekXkDGJ8PKY4ZvF8KZ79%2Bmc2CmAEmWCj5JqNevzIfV2W2qYcrafolkDbiaFtDzzopTy3QaEPVTi%2FQYh0UMyDNy53cT0PNaLD%2Fsy9UQOwPXj4GBl0Fvt9Oak9eeqXT8ciDWLT%2FhVQRku5JpQEIAA%3D)  
+
+# Team林扬团队  
+
+![596a303915e61f7ca0945bbc9e04c0ab.jpg](http://docmind-api-cn-hangzhou.oss-cn-hangzhou.aliyuncs.com/1648345570663959/publicDocStreamStructure/docmind-20260929-1bfa79a83dcc427da50cc83567d37b98/596a303915e61f7ca0945bbc9e04c0ab.jpeg?Expires=1790692655&OSSAccessKeyId=STS.NY8oS7EZpQZS3Z77jEK1WyMWk&Signature=53D5Ik5VYuqlByg5hkmtue3KxDI%3D&security-token=CAIS1QJ1q6Ft5B2yfSjIr5qNJOmDqIVR5pi4MXyG02oQR757loj8iTz2IHhMeHVhCe4Ytfs1nmxX7voZlrh6SJtIXleCbMdo9JNJ8A%2BsedJNEQEDC%2BBW5qe%2BEE2%2FVjTZvqaLEcibIfrZfvCyESOm8gZ43br9cxi7QlWhKufnoJV7b9MRLGLaBHg8c7UwHAZ5r9IAPnb8LOukNgWQ4lDdF011oAFx%2BwgdgOadupTGu0aF1wOllL9P%2Bd6vecKeApMybMslYbCcx%2Fdrc6fN6ilU5iVR%2Bb1%2B5K4%2Bom%2Bf4o3MUwcPuErcabaLqoE0Nn14arB%2FF6lPqfn6mbhgs%2FbImsGtk0wQePlPVDRfr0NSPAUKcgnAFqHaFd6TUxylurgEJoN2I%2B5yGjuduFf%2Fn3b1tr2UnSZtE1f0Y8aMs3OxaQz4UPPmm%2Fp9ipE%2Bojulg5zkbjbgTd1ZnhhyZvdUBxqAAamF6NHIXUiBenlZi1XJamzP8HWvekXkDGJ8PKY4ZvF8KZ79%2Bmc2CmAEmWCj5JqNevzIfV2W2qYcrafolkDbiaFtDzzopTy3QaEPVTi%2FQYh0UMyDNy53cT0PNaLD%2Fsy9UQOwPXj4GBl0Fvt9Oak9eeqXT8ciDWLT%2FhVQRku5JpQEIAA%3D)  
+
+Canna Lee  
+
+创始人&总经理|15+年国际认证项目经验  
+
+Founder& General Manager|15+ Years in International  
+
+Certification Field  
+
+With over 15 years of experience in international  
+
+certification covering multiple schemes, such as  
+
+FSC/PEFC, CE Marking, CARB/EPA, GECA, etc, she has  
+
+contributed to FSC Chain of Custody standard revisions,  
+
+and has contributed to FSC and PEFC COC    auditors  
+
+training as qualified trainer. She also advises the China  
+
+Entr y-Exit Ins p ection&Q uarantine Association,  
+
+s p ecializin g in international com p liance and sustainable  
+
+development for forest and wood p roducts.  
+
+拥有 15年以上国际认证项目经验，具备多项国际认证体系检查  
+
+员资质，参与 FSC产销监管链主标准修订工作，多次担任 FSC  
+
+及 PEFC森林认证审核员培训师。兼任中国出入境检验检疫协会  
+
+智库专家，专注于林产品、木制品的国际合规与可持续发展。  
+
+![a205862ad915b15c21d4f7d1b941ca3d.jpg](http://docmind-api-cn-hangzhou.oss-cn-hangzhou.aliyuncs.com/1648345570663959/publicDocStreamStructure/docmind-20260929-1bfa79a83dcc427da50cc83567d37b98/a205862ad915b15c21d4f7d1b941ca3d.jpeg?Expires=1790692656&OSSAccessKeyId=STS.NY8oS7EZpQZS3Z77jEK1WyMWk&Signature=9dvTT7rSD%2BBlXO%2F9ol8KJ1Z54%2Fs%3D&security-token=CAIS1QJ1q6Ft5B2yfSjIr5qNJOmDqIVR5pi4MXyG02oQR757loj8iTz2IHhMeHVhCe4Ytfs1nmxX7voZlrh6SJtIXleCbMdo9JNJ8A%2BsedJNEQEDC%2BBW5qe%2BEE2%2FVjTZvqaLEcibIfrZfvCyESOm8gZ43br9cxi7QlWhKufnoJV7b9MRLGLaBHg8c7UwHAZ5r9IAPnb8LOukNgWQ4lDdF011oAFx%2BwgdgOadupTGu0aF1wOllL9P%2Bd6vecKeApMybMslYbCcx%2Fdrc6fN6ilU5iVR%2Bb1%2B5K4%2Bom%2Bf4o3MUwcPuErcabaLqoE0Nn14arB%2FF6lPqfn6mbhgs%2FbImsGtk0wQePlPVDRfr0NSPAUKcgnAFqHaFd6TUxylurgEJoN2I%2B5yGjuduFf%2Fn3b1tr2UnSZtE1f0Y8aMs3OxaQz4UPPmm%2Fp9ipE%2Bojulg5zkbjbgTd1ZnhhyZvdUBxqAAamF6NHIXUiBenlZi1XJamzP8HWvekXkDGJ8PKY4ZvF8KZ79%2Bmc2CmAEmWCj5JqNevzIfV2W2qYcrafolkDbiaFtDzzopTy3QaEPVTi%2FQYh0UMyDNy53cT0PNaLD%2Fsy9UQOwPXj4GBl0Fvt9Oak9eeqXT8ciDWLT%2FhVQRku5JpQEIAA%3D)  
+
+Laurel Fu  
+
+# 业务合伙人&市场总监|15年+可持续发展领域工作经验  
+
+Business Partner& Marketing Director|15+ Years in  
+
+# Sustainability Field  
+
+Leads marketing and new business development, with  
+
+extensive experience in ESG, EPD, and EUDR compliance  
+
+solutions. Drives emerging areas including circular  
+
+economy, low-carbon initiatives, sustainable and  
+
+responsible supply chains. Expertising in resource  
+
+integration and building international networks to  
+
+deliver sustainable business value for clients.  
+
+主导市场规划与新业务拓展，在 ESG、EPD、EUDR合规解决方  
+
+案等方面拥有丰富实践经验，推动循环、低碳、可持续、负责任  
+
+供应链等新兴板块，擅长整合资源、搭建国际合作网络，为客户  
+
+创造可持续的商业价值。  
+
+![30fcf630d35bb40a9524a6a2d060935b.jpg](http://docmind-api-cn-hangzhou.oss-cn-hangzhou.aliyuncs.com/1648345570663959/publicDocStreamStructure/docmind-20260929-1bfa79a83dcc427da50cc83567d37b98/30fcf630d35bb40a9524a6a2d060935b.jpeg?Expires=1790692656&OSSAccessKeyId=STS.NY8oS7EZpQZS3Z77jEK1WyMWk&Signature=nepD2x4wi2HfQreDBkoOaZ88wC0%3D&security-token=CAIS1QJ1q6Ft5B2yfSjIr5qNJOmDqIVR5pi4MXyG02oQR757loj8iTz2IHhMeHVhCe4Ytfs1nmxX7voZlrh6SJtIXleCbMdo9JNJ8A%2BsedJNEQEDC%2BBW5qe%2BEE2%2FVjTZvqaLEcibIfrZfvCyESOm8gZ43br9cxi7QlWhKufnoJV7b9MRLGLaBHg8c7UwHAZ5r9IAPnb8LOukNgWQ4lDdF011oAFx%2BwgdgOadupTGu0aF1wOllL9P%2Bd6vecKeApMybMslYbCcx%2Fdrc6fN6ilU5iVR%2Bb1%2B5K4%2Bom%2Bf4o3MUwcPuErcabaLqoE0Nn14arB%2FF6lPqfn6mbhgs%2FbImsGtk0wQePlPVDRfr0NSPAUKcgnAFqHaFd6TUxylurgEJoN2I%2B5yGjuduFf%2Fn3b1tr2UnSZtE1f0Y8aMs3OxaQz4UPPmm%2Fp9ipE%2Bojulg5zkbjbgTd1ZnhhyZvdUBxqAAamF6NHIXUiBenlZi1XJamzP8HWvekXkDGJ8PKY4ZvF8KZ79%2Bmc2CmAEmWCj5JqNevzIfV2W2qYcrafolkDbiaFtDzzopTy3QaEPVTi%2FQYh0UMyDNy53cT0PNaLD%2Fsy9UQOwPXj4GBl0Fvt9Oak9eeqXT8ciDWLT%2FhVQRku5JpQEIAA%3D)  
+
+# 李晓然    Ric Lee  
+
+PEFC项目经理|10年+建材及家居行业审核与合规管理经验  
+
+PEFC Pro j ect Mana g er|10+y ears of ex p erience in  
+
+auditin g and com p liancemana g ementforbuildin g  
+
+materials andhomefurnishin g industries  
+
+PEFCAuditorand CE Auditor,dee  
+
+p  
+
+l  
+
+y  
+
+involvedin EUDR  
+
+andFSCrelatedwork. Familiar with PEFC, FSC,CE, EUDR  
+
+and other international standards and compliance  
+
+requirements. Familiar with green building material  
+
+product certification and green building assessment  
+
+systems. Skilled in providing enterprises with full-chain compliance support from raw material traceability to  
+
+market access.  
+
+PEFC检查员及 CE检查员，深度参与 EUDR与 FSC相关工作，  
+
+熟悉 PEFC、FSC、CE、EUDR等国际标准及合规要求，熟悉绿  
+
+色建材产品认证与绿色建筑评价体系。擅长为企业提供从原料溯  
+
+源到市场准入的全链条合规支持。  
+
+![948d603f4c79e24f52b91db9678c6f8c.jpg](http://docmind-api-cn-hangzhou.oss-cn-hangzhou.aliyuncs.com/1648345570663959/publicDocStreamStructure/docmind-20260929-1bfa79a83dcc427da50cc83567d37b98/948d603f4c79e24f52b91db9678c6f8c.jpeg?Expires=1790692658&OSSAccessKeyId=STS.NY8oS7EZpQZS3Z77jEK1WyMWk&Signature=CpJ%2BjbFmh1IIzdx%2BphknazJU8Ik%3D&security-token=CAIS1QJ1q6Ft5B2yfSjIr5qNJOmDqIVR5pi4MXyG02oQR757loj8iTz2IHhMeHVhCe4Ytfs1nmxX7voZlrh6SJtIXleCbMdo9JNJ8A%2BsedJNEQEDC%2BBW5qe%2BEE2%2FVjTZvqaLEcibIfrZfvCyESOm8gZ43br9cxi7QlWhKufnoJV7b9MRLGLaBHg8c7UwHAZ5r9IAPnb8LOukNgWQ4lDdF011oAFx%2BwgdgOadupTGu0aF1wOllL9P%2Bd6vecKeApMybMslYbCcx%2Fdrc6fN6ilU5iVR%2Bb1%2B5K4%2Bom%2Bf4o3MUwcPuErcabaLqoE0Nn14arB%2FF6lPqfn6mbhgs%2FbImsGtk0wQePlPVDRfr0NSPAUKcgnAFqHaFd6TUxylurgEJoN2I%2B5yGjuduFf%2Fn3b1tr2UnSZtE1f0Y8aMs3OxaQz4UPPmm%2Fp9ipE%2Bojulg5zkbjbgTd1ZnhhyZvdUBxqAAamF6NHIXUiBenlZi1XJamzP8HWvekXkDGJ8PKY4ZvF8KZ79%2Bmc2CmAEmWCj5JqNevzIfV2W2qYcrafolkDbiaFtDzzopTy3QaEPVTi%2FQYh0UMyDNy53cT0PNaLD%2Fsy9UQOwPXj4GBl0Fvt9Oak9eeqXT8ciDWLT%2FhVQRku5JpQEIAA%3D)  
+
+# 高秀梅 Xiumei Gao  
+
+行政负责人  |10年+德企制造业工作经验  
+
+Admini Mana g er|10+ Years of Admin Ex p erience.  
+
+With over 10y ears of ex p erience in German  
+
+manufacturin  
+
+g  
+
+com  
+
+p  
+
+anies, backed b  
+
+y  
+
+hands-on  
+
+q  
+
+ualit  
+
+y  
+
+control back  
+
+g  
+
+round and internal auditor  
+
+q  
+
+ualification.  
+
+Skilled in establishin  
+
+g  
+
+HR and administration s  
+
+y  
+
+stems,  
+
+ensurin  
+
+g  
+
+com  
+
+p  
+
+liance and le  
+
+g  
+
+al o  
+
+p  
+
+eration, and drivin  
+
+g  
+
+p rocess o p timization.Su pp orts efficient com p an y  
+
+o p erations throu g h meticulous andrefined  
+
+mana g ement.  
+
+10年+德企制造业经验，具备质量控制实操背景及内审员资质。  
+
+擅长人事行政体系搭建、合规运营与流程优化，以精细化运营支  
+
+撑公司高效运转。  
+
+![eff1d956a2d3d4a3370394be00a8ba17.jpg](http://docmind-api-cn-hangzhou.oss-cn-hangzhou.aliyuncs.com/1648345570663959/publicDocStreamStructure/docmind-20260929-1bfa79a83dcc427da50cc83567d37b98/eff1d956a2d3d4a3370394be00a8ba17.jpeg?Expires=1790692656&OSSAccessKeyId=STS.NY8oS7EZpQZS3Z77jEK1WyMWk&Signature=wAf4ntmBw9rRY1FZyxu%2B2%2BGxjsc%3D&security-token=CAIS1QJ1q6Ft5B2yfSjIr5qNJOmDqIVR5pi4MXyG02oQR757loj8iTz2IHhMeHVhCe4Ytfs1nmxX7voZlrh6SJtIXleCbMdo9JNJ8A%2BsedJNEQEDC%2BBW5qe%2BEE2%2FVjTZvqaLEcibIfrZfvCyESOm8gZ43br9cxi7QlWhKufnoJV7b9MRLGLaBHg8c7UwHAZ5r9IAPnb8LOukNgWQ4lDdF011oAFx%2BwgdgOadupTGu0aF1wOllL9P%2Bd6vecKeApMybMslYbCcx%2Fdrc6fN6ilU5iVR%2Bb1%2B5K4%2Bom%2Bf4o3MUwcPuErcabaLqoE0Nn14arB%2FF6lPqfn6mbhgs%2FbImsGtk0wQePlPVDRfr0NSPAUKcgnAFqHaFd6TUxylurgEJoN2I%2B5yGjuduFf%2Fn3b1tr2UnSZtE1f0Y8aMs3OxaQz4UPPmm%2Fp9ipE%2Bojulg5zkbjbgTd1ZnhhyZvdUBxqAAamF6NHIXUiBenlZi1XJamzP8HWvekXkDGJ8PKY4ZvF8KZ79%2Bmc2CmAEmWCj5JqNevzIfV2W2qYcrafolkDbiaFtDzzopTy3QaEPVTi%2FQYh0UMyDNy53cT0PNaLD%2Fsy9UQOwPXj4GBl0Fvt9Oak9eeqXT8ciDWLT%2FhVQRku5JpQEIAA%3D)  
+
+吴金绒 Ava Wu  
+
+产品技术经理  |10年+家居建材行业和产品认证经验  
+
+Mainly responsible for technology transfer and  
+
+international product certification development. Serves as an auditor for CE, Carb/EPA, GECA, PEFC, and FSC, as well as a trainee auditor for CFCC. Also handles JIS certification consulting. Familiar with relevant standards and certification requirements, p rovidin g enter prises with one-stop audit p lannin g solutions.主要负责技术转化及国际产品认证开发，CE、Carb/EPA、GECA、PEFC、FSC检查员，CFCC实习检查员，同时还负责 JIS认证咨询工作。熟悉相关标准及认证要求，为企业提供一站式审核策划方案。  
+
+![c626a17e1be8b7cedb0a25950c97bf78.jpg](http://docmind-api-cn-hangzhou.oss-cn-hangzhou.aliyuncs.com/1648345570663959/publicDocStreamStructure/docmind-20260929-1bfa79a83dcc427da50cc83567d37b98/c626a17e1be8b7cedb0a25950c97bf78.jpeg?Expires=1790692656&OSSAccessKeyId=STS.NY8oS7EZpQZS3Z77jEK1WyMWk&Signature=w%2BRtt%2FZO6FicQBrnYprg4B94Wl8%3D&security-token=CAIS1QJ1q6Ft5B2yfSjIr5qNJOmDqIVR5pi4MXyG02oQR757loj8iTz2IHhMeHVhCe4Ytfs1nmxX7voZlrh6SJtIXleCbMdo9JNJ8A%2BsedJNEQEDC%2BBW5qe%2BEE2%2FVjTZvqaLEcibIfrZfvCyESOm8gZ43br9cxi7QlWhKufnoJV7b9MRLGLaBHg8c7UwHAZ5r9IAPnb8LOukNgWQ4lDdF011oAFx%2BwgdgOadupTGu0aF1wOllL9P%2Bd6vecKeApMybMslYbCcx%2Fdrc6fN6ilU5iVR%2Bb1%2B5K4%2Bom%2Bf4o3MUwcPuErcabaLqoE0Nn14arB%2FF6lPqfn6mbhgs%2FbImsGtk0wQePlPVDRfr0NSPAUKcgnAFqHaFd6TUxylurgEJoN2I%2B5yGjuduFf%2Fn3b1tr2UnSZtE1f0Y8aMs3OxaQz4UPPmm%2Fp9ipE%2Bojulg5zkbjbgTd1ZnhhyZvdUBxqAAamF6NHIXUiBenlZi1XJamzP8HWvekXkDGJ8PKY4ZvF8KZ79%2Bmc2CmAEmWCj5JqNevzIfV2W2qYcrafolkDbiaFtDzzopTy3QaEPVTi%2FQYh0UMyDNy53cT0PNaLD%2Fsy9UQOwPXj4GBl0Fvt9Oak9eeqXT8ciDWLT%2FhVQRku5JpQEIAA%3D)  
+
+马娇龙 An y a Ma  
+
+国内项目经理  |10年+质量相关工作经验  
+
+DomesticPro j ect-CCCWater-basedInterior Paint Pro j ectMana g er. Proficientin relevant standards and full-p rocesshands-on work. Hel p s domestic clients p re p areforbids, hel p sinternationalclients ex p andin  
+
+global markets, and boosts companies' core  
+
+competitiveness both at home and abroad.  
+
+国内项目・CCC水性内墙漆项目经理，精通相关标准及全流程  
+
+实操，为国内客户赋能竞标筹备，为国外客户助力国际市场布局，  
+
+提升企业海内外核心竞争力。  
+
+![8b828f6d5f0ea7277d996c4adcb8a9aa.jpg](http://docmind-api-cn-hangzhou.oss-cn-hangzhou.aliyuncs.com/1648345570663959/publicDocStreamStructure/docmind-20260929-1bfa79a83dcc427da50cc83567d37b98/8b828f6d5f0ea7277d996c4adcb8a9aa.jpeg?Expires=1790692655&OSSAccessKeyId=STS.NY8oS7EZpQZS3Z77jEK1WyMWk&Signature=RZIqWkZoGCiYHSqTbZnLFb%2B49vQ%3D&security-token=CAIS1QJ1q6Ft5B2yfSjIr5qNJOmDqIVR5pi4MXyG02oQR757loj8iTz2IHhMeHVhCe4Ytfs1nmxX7voZlrh6SJtIXleCbMdo9JNJ8A%2BsedJNEQEDC%2BBW5qe%2BEE2%2FVjTZvqaLEcibIfrZfvCyESOm8gZ43br9cxi7QlWhKufnoJV7b9MRLGLaBHg8c7UwHAZ5r9IAPnb8LOukNgWQ4lDdF011oAFx%2BwgdgOadupTGu0aF1wOllL9P%2Bd6vecKeApMybMslYbCcx%2Fdrc6fN6ilU5iVR%2Bb1%2B5K4%2Bom%2Bf4o3MUwcPuErcabaLqoE0Nn14arB%2FF6lPqfn6mbhgs%2FbImsGtk0wQePlPVDRfr0NSPAUKcgnAFqHaFd6TUxylurgEJoN2I%2B5yGjuduFf%2Fn3b1tr2UnSZtE1f0Y8aMs3OxaQz4UPPmm%2Fp9ipE%2Bojulg5zkbjbgTd1ZnhhyZvdUBxqAAamF6NHIXUiBenlZi1XJamzP8HWvekXkDGJ8PKY4ZvF8KZ79%2Bmc2CmAEmWCj5JqNevzIfV2W2qYcrafolkDbiaFtDzzopTy3QaEPVTi%2FQYh0UMyDNy53cT0PNaLD%2Fsy9UQOwPXj4GBl0Fvt9Oak9eeqXT8ciDWLT%2FhVQRku5JpQEIAA%3D)  
+
+# 韩琳  Helia Han  
+
+# FSC项目经理  |3年+国际森林合规运营工作经验  
+
+# Certified Auditor for CE, CARB/EPA projects and  
+
+# EUDR/EUTR Assessor. Extensive experience in Forest  
+
+Management(FM), proficient in developing business  
+
+operation plans. Also responsible for coordinatin g and  
+
+mana g in g FSC forest certification p ro j ects. Dedicated  
+
+to p rovidin g clients with solutions that meet  
+
+international standards and market access  
+
+re q uirements, thereb y enhancin g their sustainable  
+
+com p etitiveness.  
+
+拥有 CE、EUDR/EUTR、CARB/EPA项目经验，深耕 FM相  
+
+关工作，熟悉经营方案编制，同时负责 FSC森林项目协调管理  
+
+工作，为客户提供符合国际标准与市场准入要求的解决方案，助  
+
+力企业提升可持续竞争力。  
+
+![1cf5eff97409bc8e393371ae8b761c2f.jpg](http://docmind-api-cn-hangzhou.oss-cn-hangzhou.aliyuncs.com/1648345570663959/publicDocStreamStructure/docmind-20260929-1bfa79a83dcc427da50cc83567d37b98/1cf5eff97409bc8e393371ae8b761c2f.jpeg?Expires=1790692657&OSSAccessKeyId=STS.NY8oS7EZpQZS3Z77jEK1WyMWk&Signature=XrY3LAEV3LzfBHkHbVit7CMrNwg%3D&security-token=CAIS1QJ1q6Ft5B2yfSjIr5qNJOmDqIVR5pi4MXyG02oQR757loj8iTz2IHhMeHVhCe4Ytfs1nmxX7voZlrh6SJtIXleCbMdo9JNJ8A%2BsedJNEQEDC%2BBW5qe%2BEE2%2FVjTZvqaLEcibIfrZfvCyESOm8gZ43br9cxi7QlWhKufnoJV7b9MRLGLaBHg8c7UwHAZ5r9IAPnb8LOukNgWQ4lDdF011oAFx%2BwgdgOadupTGu0aF1wOllL9P%2Bd6vecKeApMybMslYbCcx%2Fdrc6fN6ilU5iVR%2Bb1%2B5K4%2Bom%2Bf4o3MUwcPuErcabaLqoE0Nn14arB%2FF6lPqfn6mbhgs%2FbImsGtk0wQePlPVDRfr0NSPAUKcgnAFqHaFd6TUxylurgEJoN2I%2B5yGjuduFf%2Fn3b1tr2UnSZtE1f0Y8aMs3OxaQz4UPPmm%2Fp9ipE%2Bojulg5zkbjbgTd1ZnhhyZvdUBxqAAamF6NHIXUiBenlZi1XJamzP8HWvekXkDGJ8PKY4ZvF8KZ79%2Bmc2CmAEmWCj5JqNevzIfV2W2qYcrafolkDbiaFtDzzopTy3QaEPVTi%2FQYh0UMyDNy53cT0PNaLD%2Fsy9UQOwPXj4GBl0Fvt9Oak9eeqXT8ciDWLT%2FhVQRku5JpQEIAA%3D)  
+
+张弘释 Ian Zhang  
+
+# 森林项目经理  |3年+森林经营相关工作经验  
+
+# Serving as an auditor for CE and EUDR/EUTR, with  
+
+# active involvement in FSC, CE, and EUDR/EUTR related  
+
+projects. Possesses solid experience in enterprise  
+
+quality control management.Deeply specialized in  
+
+Forest Management(FM) operations, with expertise in  
+
+the formulation of management plans. Provides expert  
+
+FM consulting services to forest management units,  
+
+dedicated to enhancing product added value for  
+
+clients.  
+
+拥有 CE、EUDR/EUTR项目经验，参与 FSC、CE、EUDR/EUTR  
+
+相关工作，具有企业质量控制管理经验。深耕 FM相关工作，熟  
+
+悉经营方案编制，为森林经营单位提供森林经营管理指导，协助  
+
+客户提高产品附加值。  
+
+![c5f686278a582ed979ff14fd678ce7e6.jpg](http://docmind-api-cn-hangzhou.oss-cn-hangzhou.aliyuncs.com/1648345570663959/publicDocStreamStructure/docmind-20260929-1bfa79a83dcc427da50cc83567d37b98/c5f686278a582ed979ff14fd678ce7e6.jpeg?Expires=1790692657&OSSAccessKeyId=STS.NY8oS7EZpQZS3Z77jEK1WyMWk&Signature=EctH3A40t8MtbmxgGCZxjycjERU%3D&security-token=CAIS1QJ1q6Ft5B2yfSjIr5qNJOmDqIVR5pi4MXyG02oQR757loj8iTz2IHhMeHVhCe4Ytfs1nmxX7voZlrh6SJtIXleCbMdo9JNJ8A%2BsedJNEQEDC%2BBW5qe%2BEE2%2FVjTZvqaLEcibIfrZfvCyESOm8gZ43br9cxi7QlWhKufnoJV7b9MRLGLaBHg8c7UwHAZ5r9IAPnb8LOukNgWQ4lDdF011oAFx%2BwgdgOadupTGu0aF1wOllL9P%2Bd6vecKeApMybMslYbCcx%2Fdrc6fN6ilU5iVR%2Bb1%2B5K4%2Bom%2Bf4o3MUwcPuErcabaLqoE0Nn14arB%2FF6lPqfn6mbhgs%2FbImsGtk0wQePlPVDRfr0NSPAUKcgnAFqHaFd6TUxylurgEJoN2I%2B5yGjuduFf%2Fn3b1tr2UnSZtE1f0Y8aMs3OxaQz4UPPmm%2Fp9ipE%2Bojulg5zkbjbgTd1ZnhhyZvdUBxqAAamF6NHIXUiBenlZi1XJamzP8HWvekXkDGJ8PKY4ZvF8KZ79%2Bmc2CmAEmWCj5JqNevzIfV2W2qYcrafolkDbiaFtDzzopTy3QaEPVTi%2FQYh0UMyDNy53cT0PNaLD%2Fsy9UQOwPXj4GBl0Fvt9Oak9eeqXT8ciDWLT%2FhVQRku5JpQEIAA%3D)  
+
+# 杨振宇 Max Yan g  
+
+项目总监|10年+认证咨询及可持续供应链相关工作经验  
+
+Pro j ectDirector|10+ YearsinCertification&  
+
+Sustainable Su pp l y Chains  
+
+S p ecializesin EUDR/EUTR, FSC,andPEFC, with  
+
+hands-onex  
+
+p  
+
+erienceinsustainable su  
+
+pp  
+
+l  
+
+y  
+
+chainsfor  
+
+| |timber, wood products, pulp& paper, palm oil, and<br>rubber. Skilled in due diligence, legality verification,<br>system certification, professional consulting, and<br>training. Focused on enhancing supply chain value,<br>empowering companies, and supporting sustainable<br>business growth.<br>深耕 EUDR/EUTR、FSC/PEFC领域，具备木材及木制品、纸<br>浆造纸、棕榈油、橡胶等大宗商品的可持续供应链实战经验，擅<br>长尽职调查、合法性追溯、体系认证、专业咨询与培训。聚焦企<br>业供应链价值提升，为企业赋能，助力企业稳健发展。|
+| ---|---|  
+
+# Mile stone发展历程  
+
+![d25a5dc34472713795c9fd0a32650f8c.jpg](http://docmind-api-cn-hangzhou.oss-cn-hangzhou.aliyuncs.com/1648345570663959/publicDocStreamStructure/docmind-20260929-1bfa79a83dcc427da50cc83567d37b98/d25a5dc34472713795c9fd0a32650f8c.jpeg?Expires=1790692657&OSSAccessKeyId=STS.NY8oS7EZpQZS3Z77jEK1WyMWk&Signature=RC%2F2XbjgFhwO6j1ie46ZJ0Dn2Pg%3D&security-token=CAIS1QJ1q6Ft5B2yfSjIr5qNJOmDqIVR5pi4MXyG02oQR757loj8iTz2IHhMeHVhCe4Ytfs1nmxX7voZlrh6SJtIXleCbMdo9JNJ8A%2BsedJNEQEDC%2BBW5qe%2BEE2%2FVjTZvqaLEcibIfrZfvCyESOm8gZ43br9cxi7QlWhKufnoJV7b9MRLGLaBHg8c7UwHAZ5r9IAPnb8LOukNgWQ4lDdF011oAFx%2BwgdgOadupTGu0aF1wOllL9P%2Bd6vecKeApMybMslYbCcx%2Fdrc6fN6ilU5iVR%2Bb1%2B5K4%2Bom%2Bf4o3MUwcPuErcabaLqoE0Nn14arB%2FF6lPqfn6mbhgs%2FbImsGtk0wQePlPVDRfr0NSPAUKcgnAFqHaFd6TUxylurgEJoN2I%2B5yGjuduFf%2Fn3b1tr2UnSZtE1f0Y8aMs3OxaQz4UPPmm%2Fp9ipE%2Bojulg5zkbjbgTd1ZnhhyZvdUBxqAAamF6NHIXUiBenlZi1XJamzP8HWvekXkDGJ8PKY4ZvF8KZ79%2Bmc2CmAEmWCj5JqNevzIfV2W2qYcrafolkDbiaFtDzzopTy3QaEPVTi%2FQYh0UMyDNy53cT0PNaLD%2Fsy9UQOwPXj4GBl0Fvt9Oak9eeqXT8ciDWLT%2FhVQRku5JpQEIAA%3D)  
+
+Advantages公司优势  
+
+凭借专业实力与良好口碑，我们赢得了众多企业的长期信赖与合作。我们致力于提供快速、可靠、  
+
+高质量的解决方案，在提升服务体验的同时有效降低成本，陪伴客户在全球市场稳健发展。  
+
+![a2d66d4f1b6cec21a755bcdab7e2884e.jpg](http://docmind-api-cn-hangzhou.oss-cn-hangzhou.aliyuncs.com/1648345570663959/publicDocStreamStructure/docmind-20260929-1bfa79a83dcc427da50cc83567d37b98/a2d66d4f1b6cec21a755bcdab7e2884e.jpeg?Expires=1790692657&OSSAccessKeyId=STS.NY8oS7EZpQZS3Z77jEK1WyMWk&Signature=GiYA9eOLK7l4BrEumT8RJG3mSpo%3D&security-token=CAIS1QJ1q6Ft5B2yfSjIr5qNJOmDqIVR5pi4MXyG02oQR757loj8iTz2IHhMeHVhCe4Ytfs1nmxX7voZlrh6SJtIXleCbMdo9JNJ8A%2BsedJNEQEDC%2BBW5qe%2BEE2%2FVjTZvqaLEcibIfrZfvCyESOm8gZ43br9cxi7QlWhKufnoJV7b9MRLGLaBHg8c7UwHAZ5r9IAPnb8LOukNgWQ4lDdF011oAFx%2BwgdgOadupTGu0aF1wOllL9P%2Bd6vecKeApMybMslYbCcx%2Fdrc6fN6ilU5iVR%2Bb1%2B5K4%2Bom%2Bf4o3MUwcPuErcabaLqoE0Nn14arB%2FF6lPqfn6mbhgs%2FbImsGtk0wQePlPVDRfr0NSPAUKcgnAFqHaFd6TUxylurgEJoN2I%2B5yGjuduFf%2Fn3b1tr2UnSZtE1f0Y8aMs3OxaQz4UPPmm%2Fp9ipE%2Bojulg5zkbjbgTd1ZnhhyZvdUBxqAAamF6NHIXUiBenlZi1XJamzP8HWvekXkDGJ8PKY4ZvF8KZ79%2Bmc2CmAEmWCj5JqNevzIfV2W2qYcrafolkDbiaFtDzzopTy3QaEPVTi%2FQYh0UMyDNy53cT0PNaLD%2Fsy9UQOwPXj4GBl0Fvt9Oak9eeqXT8ciDWLT%2FhVQRku5JpQEIAA%3D)  
+
+# Qualifications& Authorities资质&授权  
+
+![472ddce6598d848a14910ff59766174d.jpeg](http://docmind-api-cn-hangzhou.oss-cn-hangzhou.aliyuncs.com/1648345570663959/publicDocStreamStructure/docmind-20260929-1bfa79a83dcc427da50cc83567d37b98/9.png?Expires=1790692657&OSSAccessKeyId=STS.NY8oS7EZpQZS3Z77jEK1WyMWk&Signature=jXx11MGxhgYuj02ueGOSMKLwFiE%3D&x-oss-process=image%2Fcrop%2Cx_435%2Cy_521%2Cw_423%2Ch_488&security-token=CAIS1QJ1q6Ft5B2yfSjIr5qNJOmDqIVR5pi4MXyG02oQR757loj8iTz2IHhMeHVhCe4Ytfs1nmxX7voZlrh6SJtIXleCbMdo9JNJ8A%2BsedJNEQEDC%2BBW5qe%2BEE2%2FVjTZvqaLEcibIfrZfvCyESOm8gZ43br9cxi7QlWhKufnoJV7b9MRLGLaBHg8c7UwHAZ5r9IAPnb8LOukNgWQ4lDdF011oAFx%2BwgdgOadupTGu0aF1wOllL9P%2Bd6vecKeApMybMslYbCcx%2Fdrc6fN6ilU5iVR%2Bb1%2B5K4%2Bom%2Bf4o3MUwcPuErcabaLqoE0Nn14arB%2FF6lPqfn6mbhgs%2FbImsGtk0wQePlPVDRfr0NSPAUKcgnAFqHaFd6TUxylurgEJoN2I%2B5yGjuduFf%2Fn3b1tr2UnSZtE1f0Y8aMs3OxaQz4UPPmm%2Fp9ipE%2Bojulg5zkbjbgTd1ZnhhyZvdUBxqAAamF6NHIXUiBenlZi1XJamzP8HWvekXkDGJ8PKY4ZvF8KZ79%2Bmc2CmAEmWCj5JqNevzIfV2W2qYcrafolkDbiaFtDzzopTy3QaEPVTi%2FQYh0UMyDNy53cT0PNaLD%2Fsy9UQOwPXj4GBl0Fvt9Oak9eeqXT8ciDWLT%2FhVQRku5JpQEIAA%3D)  
+
+FSC®N002971  
+
+www.fsc.org  
+
+# 选择 FSC®，支持负责任采购  
+
+Choose FSC® to su pp ort res p onsible p rocurement  
+
+FSC®不对林扬东方（北京）科技有限公司所提供的任何培训/咨询/服务内容承担责任。  
+
+FSC® is not responsiblefor the content of anytraining/consultation/services offered b East InfLink(Beijing) Science TechnologyCo., Ltd.  
+
+y  
+
+![f456eba737179db5d845b0a972464d1d.jpeg](http://docmind-api-cn-hangzhou.oss-cn-hangzhou.aliyuncs.com/1648345570663959/publicDocStreamStructure/docmind-20260929-1bfa79a83dcc427da50cc83567d37b98/10.png?Expires=1790692657&OSSAccessKeyId=STS.NY8oS7EZpQZS3Z77jEK1WyMWk&Signature=b8edAkI8b%2BzlbEtGXw2MXk%2FFfYY%3D&x-oss-process=image%2Fcrop%2Cx_176%2Cy_164%2Cw_1001%2Ch_1323&security-token=CAIS1QJ1q6Ft5B2yfSjIr5qNJOmDqIVR5pi4MXyG02oQR757loj8iTz2IHhMeHVhCe4Ytfs1nmxX7voZlrh6SJtIXleCbMdo9JNJ8A%2BsedJNEQEDC%2BBW5qe%2BEE2%2FVjTZvqaLEcibIfrZfvCyESOm8gZ43br9cxi7QlWhKufnoJV7b9MRLGLaBHg8c7UwHAZ5r9IAPnb8LOukNgWQ4lDdF011oAFx%2BwgdgOadupTGu0aF1wOllL9P%2Bd6vecKeApMybMslYbCcx%2Fdrc6fN6ilU5iVR%2Bb1%2B5K4%2Bom%2Bf4o3MUwcPuErcabaLqoE0Nn14arB%2FF6lPqfn6mbhgs%2FbImsGtk0wQePlPVDRfr0NSPAUKcgnAFqHaFd6TUxylurgEJoN2I%2B5yGjuduFf%2Fn3b1tr2UnSZtE1f0Y8aMs3OxaQz4UPPmm%2Fp9ipE%2Bojulg5zkbjbgTd1ZnhhyZvdUBxqAAamF6NHIXUiBenlZi1XJamzP8HWvekXkDGJ8PKY4ZvF8KZ79%2Bmc2CmAEmWCj5JqNevzIfV2W2qYcrafolkDbiaFtDzzopTy3QaEPVTi%2FQYh0UMyDNy53cT0PNaLD%2Fsy9UQOwPXj4GBl0Fvt9Oak9eeqXT8ciDWLT%2FhVQRku5JpQEIAA%3D)  
+
+# Sustainability可持续项目  
+
+# Forest Certification森林认证  
+
+森林认证（FSC、PEFC、CFCC）是林扬的核心业务，已助力 500+客户实现合规化进出口。我们将合规转化为企业战略基石，支持市场准入与可持续发展。  
+
+随着中国企业全球化布局，我们的服务已从中国本土扩展至东南亚、欧洲及非洲市场，推动客户从“Made in China”迈向“Made by Chinese”，建立可持续的全球竞争优势。  
+
+![c85b813376e627487a65897e45815d58.jpeg](http://docmind-api-cn-hangzhou.oss-cn-hangzhou.aliyuncs.com/1648345570663959/publicDocStreamStructure/docmind-20260929-1bfa79a83dcc427da50cc83567d37b98/11.png?Expires=1790692658&OSSAccessKeyId=STS.NY8oS7EZpQZS3Z77jEK1WyMWk&Signature=9qSSqGlm7BNmMFAm4Cyll1hy8Qo%3D&x-oss-process=image%2Fcrop%2Cx_185%2Cy_660%2Cw_996%2Ch_268&security-token=CAIS1QJ1q6Ft5B2yfSjIr5qNJOmDqIVR5pi4MXyG02oQR757loj8iTz2IHhMeHVhCe4Ytfs1nmxX7voZlrh6SJtIXleCbMdo9JNJ8A%2BsedJNEQEDC%2BBW5qe%2BEE2%2FVjTZvqaLEcibIfrZfvCyESOm8gZ43br9cxi7QlWhKufnoJV7b9MRLGLaBHg8c7UwHAZ5r9IAPnb8LOukNgWQ4lDdF011oAFx%2BwgdgOadupTGu0aF1wOllL9P%2Bd6vecKeApMybMslYbCcx%2Fdrc6fN6ilU5iVR%2Bb1%2B5K4%2Bom%2Bf4o3MUwcPuErcabaLqoE0Nn14arB%2FF6lPqfn6mbhgs%2FbImsGtk0wQePlPVDRfr0NSPAUKcgnAFqHaFd6TUxylurgEJoN2I%2B5yGjuduFf%2Fn3b1tr2UnSZtE1f0Y8aMs3OxaQz4UPPmm%2Fp9ipE%2Bojulg5zkbjbgTd1ZnhhyZvdUBxqAAamF6NHIXUiBenlZi1XJamzP8HWvekXkDGJ8PKY4ZvF8KZ79%2Bmc2CmAEmWCj5JqNevzIfV2W2qYcrafolkDbiaFtDzzopTy3QaEPVTi%2FQYh0UMyDNy53cT0PNaLD%2Fsy9UQOwPXj4GBl0Fvt9Oak9eeqXT8ciDWLT%2FhVQRku5JpQEIAA%3D)  
+
+是否可以把图表设置成超级链接  
+
+设置成鼠标点击其中的图片跳转具体内容？  
+
+# 1.    FSC  
+
+FSC认证英文全称 Forest Stewardshi p Council运用市场机制来促进森林可持续经营，实现生态、社会和经济目标的工具。FSC森林认证包括森林经营认证(Forest Mana gement, FM)和产销监管链认证(Chain of Custody, COC)。  
+
+1)  FSC-FM     森林经营认证，针对森林经营单位  
+
+森林经营认证(Forest Management, FM)，也称森林可持续经营认证或简称 FSC森林认证，它是针对森林经营单位，由独立的第三方 FSC森林认证机构根据所制定的森林经营标准，按照公认的原则和标准，对森林经营绩效进行审核，以证明其达到可持续经营的要求的过程。  
+
+![1541517fa4670431a8144cf8124d2a88.jpg](http://docmind-api-cn-hangzhou.oss-cn-hangzhou.aliyuncs.com/1648345570663959/publicDocStreamStructure/docmind-20260929-1bfa79a83dcc427da50cc83567d37b98/1541517fa4670431a8144cf8124d2a88.jpeg?Expires=1790692658&OSSAccessKeyId=STS.NY8oS7EZpQZS3Z77jEK1WyMWk&Signature=Xasvgtl5aobRiTGscC7IKp5qisg%3D&security-token=CAIS1QJ1q6Ft5B2yfSjIr5qNJOmDqIVR5pi4MXyG02oQR757loj8iTz2IHhMeHVhCe4Ytfs1nmxX7voZlrh6SJtIXleCbMdo9JNJ8A%2BsedJNEQEDC%2BBW5qe%2BEE2%2FVjTZvqaLEcibIfrZfvCyESOm8gZ43br9cxi7QlWhKufnoJV7b9MRLGLaBHg8c7UwHAZ5r9IAPnb8LOukNgWQ4lDdF011oAFx%2BwgdgOadupTGu0aF1wOllL9P%2Bd6vecKeApMybMslYbCcx%2Fdrc6fN6ilU5iVR%2Bb1%2B5K4%2Bom%2Bf4o3MUwcPuErcabaLqoE0Nn14arB%2FF6lPqfn6mbhgs%2FbImsGtk0wQePlPVDRfr0NSPAUKcgnAFqHaFd6TUxylurgEJoN2I%2B5yGjuduFf%2Fn3b1tr2UnSZtE1f0Y8aMs3OxaQz4UPPmm%2Fp9ipE%2Bojulg5zkbjbgTd1ZnhhyZvdUBxqAAamF6NHIXUiBenlZi1XJamzP8HWvekXkDGJ8PKY4ZvF8KZ79%2Bmc2CmAEmWCj5JqNevzIfV2W2qYcrafolkDbiaFtDzzopTy3QaEPVTi%2FQYh0UMyDNy53cT0PNaLD%2Fsy9UQOwPXj4GBl0Fvt9Oak9eeqXT8ciDWLT%2FhVQRku5JpQEIAA%3D)  
+
+2)  FSC-COC产销监管链认证，追踪产品流向  
+
+产销监管链认证(Chain of Custody,COC)是对木材加工企业的各个生产环节，包括从原木的运输、加工到流通整个链条进行评估，以确保最终产品源自于经过认证的经营良好的森林。通过认证后，企业有权在其产品上标明认证体系的名称和商标，即森林产品认证的标签。  
+
+![3e1828149010b138a1412b10b9b5044a.jpg](http://docmind-api-cn-hangzhou.oss-cn-hangzhou.aliyuncs.com/1648345570663959/publicDocStreamStructure/docmind-20260929-1bfa79a83dcc427da50cc83567d37b98/3e1828149010b138a1412b10b9b5044a.jpeg?Expires=1790692658&OSSAccessKeyId=STS.NY8oS7EZpQZS3Z77jEK1WyMWk&Signature=JxJ4W76u%2BEG9Yaw1OingRB6on4Q%3D&security-token=CAIS1QJ1q6Ft5B2yfSjIr5qNJOmDqIVR5pi4MXyG02oQR757loj8iTz2IHhMeHVhCe4Ytfs1nmxX7voZlrh6SJtIXleCbMdo9JNJ8A%2BsedJNEQEDC%2BBW5qe%2BEE2%2FVjTZvqaLEcibIfrZfvCyESOm8gZ43br9cxi7QlWhKufnoJV7b9MRLGLaBHg8c7UwHAZ5r9IAPnb8LOukNgWQ4lDdF011oAFx%2BwgdgOadupTGu0aF1wOllL9P%2Bd6vecKeApMybMslYbCcx%2Fdrc6fN6ilU5iVR%2Bb1%2B5K4%2Bom%2Bf4o3MUwcPuErcabaLqoE0Nn14arB%2FF6lPqfn6mbhgs%2FbImsGtk0wQePlPVDRfr0NSPAUKcgnAFqHaFd6TUxylurgEJoN2I%2B5yGjuduFf%2Fn3b1tr2UnSZtE1f0Y8aMs3OxaQz4UPPmm%2Fp9ipE%2Bojulg5zkbjbgTd1ZnhhyZvdUBxqAAamF6NHIXUiBenlZi1XJamzP8HWvekXkDGJ8PKY4ZvF8KZ79%2Bmc2CmAEmWCj5JqNevzIfV2W2qYcrafolkDbiaFtDzzopTy3QaEPVTi%2FQYh0UMyDNy53cT0PNaLD%2Fsy9UQOwPXj4GBl0Fvt9Oak9eeqXT8ciDWLT%2FhVQRku5JpQEIAA%3D)  
+
+# 2.    PEFC  
+
+PEFC（森林认证体系认可计划）是全球领先的森林认证非营利组织，致力于通过独立的第三方认证推动全球森林的可持续经营。该体系采用“国家标准+国际互认”机制，与包括中国 CFCC在内的多国体系互认，确保木材来源合法且符合生态、社会与经济平衡的高标准。PEFC认证是林产品进入国际绿色供应链、证明其源自负责任管理森林的重要市场通行证。  
+
+# 3.    CFCC  
+
+CFCC（中国森林认证委员会）是中国国家森林认证体系的最高管理机构，致力于依据国家标准推动森林的可持续经营。该体系通过森林经营（FM）与产销监管链（CoC）认证，确保林产品从源头到市场的全过程合法且环保。自 2014年与国际 PEFC体系实现互认后，CFCC认证已成为国产林产品获取国际市场“绿色通行证”的重要凭证。  
+
+# Industrial Consulting产业咨询  
+
+# 1. WWF-FSC Sustainable Project可持续项目  
+
+旨在帮助中国企业激活认证产能、降低采购成本、对接国际市场。林扬作为 WWF-FSC多个可持续项目的合作方，致力于打通 FSC认证从原材料到成品的交易瓶颈。  
+
+项目通过深入工厂走访、对接上下游资源、推动集体采购与数字化协同，帮助中国企业激活认证产能，降低采购成本，提升认证产品国际市场竞争力。我们致力于构建更透明、高效、可信赖的 FSC供应链，助力负责任木材贸易落地。  
+
+2. FSC Match-Making Events绿色可持续木材产业供需对接  
+
+自 2025年起作为 FSC中国区的资源供需对接会我国，聚焦绿色可持续木材产业供需对接，一站直达认证原料和目标客户群，联动产业链上下游共建可持续绿色供应链，助力中国 FSC生态稳步发展。  
+
+（轮播图片形式？）  
+
+3.  
+
+![3164cd6140926e7bf9ade643f42dcead.jpg](http://docmind-api-cn-hangzhou.oss-cn-hangzhou.aliyuncs.com/1648345570663959/publicDocStreamStructure/docmind-20260929-1bfa79a83dcc427da50cc83567d37b98/3164cd6140926e7bf9ade643f42dcead.jpeg?Expires=1790692656&OSSAccessKeyId=STS.NY8oS7EZpQZS3Z77jEK1WyMWk&Signature=2xgZQetYBFrKY%2BT67qj89tt3tG0%3D&security-token=CAIS1QJ1q6Ft5B2yfSjIr5qNJOmDqIVR5pi4MXyG02oQR757loj8iTz2IHhMeHVhCe4Ytfs1nmxX7voZlrh6SJtIXleCbMdo9JNJ8A%2BsedJNEQEDC%2BBW5qe%2BEE2%2FVjTZvqaLEcibIfrZfvCyESOm8gZ43br9cxi7QlWhKufnoJV7b9MRLGLaBHg8c7UwHAZ5r9IAPnb8LOukNgWQ4lDdF011oAFx%2BwgdgOadupTGu0aF1wOllL9P%2Bd6vecKeApMybMslYbCcx%2Fdrc6fN6ilU5iVR%2Bb1%2B5K4%2Bom%2Bf4o3MUwcPuErcabaLqoE0Nn14arB%2FF6lPqfn6mbhgs%2FbImsGtk0wQePlPVDRfr0NSPAUKcgnAFqHaFd6TUxylurgEJoN2I%2B5yGjuduFf%2Fn3b1tr2UnSZtE1f0Y8aMs3OxaQz4UPPmm%2Fp9ipE%2Bojulg5zkbjbgTd1ZnhhyZvdUBxqAAamF6NHIXUiBenlZi1XJamzP8HWvekXkDGJ8PKY4ZvF8KZ79%2Bmc2CmAEmWCj5JqNevzIfV2W2qYcrafolkDbiaFtDzzopTy3QaEPVTi%2FQYh0UMyDNy53cT0PNaLD%2Fsy9UQOwPXj4GBl0Fvt9Oak9eeqXT8ciDWLT%2FhVQRku5JpQEIAA%3D)  
+
+![210f1a4658a23ea8afdb20cecd1420a1.jpg](http://docmind-api-cn-hangzhou.oss-cn-hangzhou.aliyuncs.com/1648345570663959/publicDocStreamStructure/docmind-20260929-1bfa79a83dcc427da50cc83567d37b98/210f1a4658a23ea8afdb20cecd1420a1.jpeg?Expires=1790692658&OSSAccessKeyId=STS.NY8oS7EZpQZS3Z77jEK1WyMWk&Signature=rSaZjanLLH3UVmL0%2F%2BOWLw5OOS4%3D&security-token=CAIS1QJ1q6Ft5B2yfSjIr5qNJOmDqIVR5pi4MXyG02oQR757loj8iTz2IHhMeHVhCe4Ytfs1nmxX7voZlrh6SJtIXleCbMdo9JNJ8A%2BsedJNEQEDC%2BBW5qe%2BEE2%2FVjTZvqaLEcibIfrZfvCyESOm8gZ43br9cxi7QlWhKufnoJV7b9MRLGLaBHg8c7UwHAZ5r9IAPnb8LOukNgWQ4lDdF011oAFx%2BwgdgOadupTGu0aF1wOllL9P%2Bd6vecKeApMybMslYbCcx%2Fdrc6fN6ilU5iVR%2Bb1%2B5K4%2Bom%2Bf4o3MUwcPuErcabaLqoE0Nn14arB%2FF6lPqfn6mbhgs%2FbImsGtk0wQePlPVDRfr0NSPAUKcgnAFqHaFd6TUxylurgEJoN2I%2B5yGjuduFf%2Fn3b1tr2UnSZtE1f0Y8aMs3OxaQz4UPPmm%2Fp9ipE%2Bojulg5zkbjbgTd1ZnhhyZvdUBxqAAamF6NHIXUiBenlZi1XJamzP8HWvekXkDGJ8PKY4ZvF8KZ79%2Bmc2CmAEmWCj5JqNevzIfV2W2qYcrafolkDbiaFtDzzopTy3QaEPVTi%2FQYh0UMyDNy53cT0PNaLD%2Fsy9UQOwPXj4GBl0Fvt9Oak9eeqXT8ciDWLT%2FhVQRku5JpQEIAA%3D)  
+
+![d0d97caf158bba57b562557244d34519.jpg](http://docmind-api-cn-hangzhou.oss-cn-hangzhou.aliyuncs.com/1648345570663959/publicDocStreamStructure/docmind-20260929-1bfa79a83dcc427da50cc83567d37b98/d0d97caf158bba57b562557244d34519.jpeg?Expires=1790692658&OSSAccessKeyId=STS.NY8oS7EZpQZS3Z77jEK1WyMWk&Signature=etASDaogd6ZxJ7Ivn6ojlv%2FLYuk%3D&security-token=CAIS1QJ1q6Ft5B2yfSjIr5qNJOmDqIVR5pi4MXyG02oQR757loj8iTz2IHhMeHVhCe4Ytfs1nmxX7voZlrh6SJtIXleCbMdo9JNJ8A%2BsedJNEQEDC%2BBW5qe%2BEE2%2FVjTZvqaLEcibIfrZfvCyESOm8gZ43br9cxi7QlWhKufnoJV7b9MRLGLaBHg8c7UwHAZ5r9IAPnb8LOukNgWQ4lDdF011oAFx%2BwgdgOadupTGu0aF1wOllL9P%2Bd6vecKeApMybMslYbCcx%2Fdrc6fN6ilU5iVR%2Bb1%2B5K4%2Bom%2Bf4o3MUwcPuErcabaLqoE0Nn14arB%2FF6lPqfn6mbhgs%2FbImsGtk0wQePlPVDRfr0NSPAUKcgnAFqHaFd6TUxylurgEJoN2I%2B5yGjuduFf%2Fn3b1tr2UnSZtE1f0Y8aMs3OxaQz4UPPmm%2Fp9ipE%2Bojulg5zkbjbgTd1ZnhhyZvdUBxqAAamF6NHIXUiBenlZi1XJamzP8HWvekXkDGJ8PKY4ZvF8KZ79%2Bmc2CmAEmWCj5JqNevzIfV2W2qYcrafolkDbiaFtDzzopTy3QaEPVTi%2FQYh0UMyDNy53cT0PNaLD%2Fsy9UQOwPXj4GBl0Fvt9Oak9eeqXT8ciDWLT%2FhVQRku5JpQEIAA%3D)  
+
+# Climate气候变化  
+
+林扬提供覆盖 ISCC、国际 EPD体系、Verra、GCC等国际标准的一站式碳管理服务，助力企业完成碳合规、生命周期评估与可持续发展报告，将碳管理转化为全球业务增长的核心竞争力。  
+
+![9cbe660668848711cd54b066a02dde75.jpeg](http://docmind-api-cn-hangzhou.oss-cn-hangzhou.aliyuncs.com/1648345570663959/publicDocStreamStructure/docmind-20260929-1bfa79a83dcc427da50cc83567d37b98/14.png?Expires=1790692658&OSSAccessKeyId=STS.NY8oS7EZpQZS3Z77jEK1WyMWk&Signature=vRopU1EgIP5TZXH51g3W5bSleCI%3D&x-oss-process=image%2Fcrop%2Cx_200%2Cy_1607%2Cw_964%2Ch_79&security-token=CAIS1QJ1q6Ft5B2yfSjIr5qNJOmDqIVR5pi4MXyG02oQR757loj8iTz2IHhMeHVhCe4Ytfs1nmxX7voZlrh6SJtIXleCbMdo9JNJ8A%2BsedJNEQEDC%2BBW5qe%2BEE2%2FVjTZvqaLEcibIfrZfvCyESOm8gZ43br9cxi7QlWhKufnoJV7b9MRLGLaBHg8c7UwHAZ5r9IAPnb8LOukNgWQ4lDdF011oAFx%2BwgdgOadupTGu0aF1wOllL9P%2Bd6vecKeApMybMslYbCcx%2Fdrc6fN6ilU5iVR%2Bb1%2B5K4%2Bom%2Bf4o3MUwcPuErcabaLqoE0Nn14arB%2FF6lPqfn6mbhgs%2FbImsGtk0wQePlPVDRfr0NSPAUKcgnAFqHaFd6TUxylurgEJoN2I%2B5yGjuduFf%2Fn3b1tr2UnSZtE1f0Y8aMs3OxaQz4UPPmm%2Fp9ipE%2Bojulg5zkbjbgTd1ZnhhyZvdUBxqAAamF6NHIXUiBenlZi1XJamzP8HWvekXkDGJ8PKY4ZvF8KZ79%2Bmc2CmAEmWCj5JqNevzIfV2W2qYcrafolkDbiaFtDzzopTy3QaEPVTi%2FQYh0UMyDNy53cT0PNaLD%2Fsy9UQOwPXj4GBl0Fvt9Oak9eeqXT8ciDWLT%2FhVQRku5JpQEIAA%3D)  
+
+# 1. ISCC  
+
+ISCC，全称国际可持续性和碳认证（International Sustainability and Carbon Certification）是全球领先的可持续性认证体系，通过构建可持续的供应链，验证负责任采购、可追溯和无森林砍伐的实践，分为 ISCC EU（欧盟生物能源强制认证）、ISCC Plus（自愿认证）、ISCC CORSIA（航空燃料认证）三大体系，已涵盖 140多个国家。  
+
+2.国际 EPD体系  
+
+EPD，全称环境产品声明（Environmental Product Declaration），是全球广泛认可的基于生命周期评价（LCA）的 III型环境标签，通过依据 ISO 14025国际标准，透明地量化并披露产品从原材料获取、生产、使用到最终废弃处理的全生命周期环境影响数据，已广泛应用于建筑、制造、消费电子等领域，成为企业传递环境绩效、突破绿色贸易壁垒的核心工具。  
+
+# 3. VCS  
+
+VCS（Verified Carbon Standard）是由非营利组织 Verra制定的全球领先自愿碳减排认证体系，通过严格的方法学及第三方审定核证，将能源、林业、农业等领域的温室气体减排量转化为可交易的碳信用（VCU），助力企业实现碳中和目标，覆盖超 1600个项目并签发超 10亿吨碳信用。  
+
+# 4. GCC  
+
+GCC（GlobalCarbonCouncil）则由海湾研究与发展组织（GORD）创立，是聚焦海湾地区的自愿碳抵消计划，通过审核并认证减排项目，发放海湾碳信用（ACC），推  
+
+动区域低碳经济转型与气候行动，确保项目合规性并促进国际合作。二者分别作为国际与区域标杆，为全球碳市场提供标准化减排认证与区域化气候解决方案。  
+
+# Circular循环经济  
+
+![a19c87df8376fde226eee0fa789b35c1.jpg](http://docmind-api-cn-hangzhou.oss-cn-hangzhou.aliyuncs.com/1648345570663959/publicDocStreamStructure/docmind-20260929-1bfa79a83dcc427da50cc83567d37b98/a19c87df8376fde226eee0fa789b35c1.jpeg?Expires=1790692656&OSSAccessKeyId=STS.NY8oS7EZpQZS3Z77jEK1WyMWk&Signature=TvW20K1z3pfUq2nZqw6FMJJ%2FHow%3D&security-token=CAIS1QJ1q6Ft5B2yfSjIr5qNJOmDqIVR5pi4MXyG02oQR757loj8iTz2IHhMeHVhCe4Ytfs1nmxX7voZlrh6SJtIXleCbMdo9JNJ8A%2BsedJNEQEDC%2BBW5qe%2BEE2%2FVjTZvqaLEcibIfrZfvCyESOm8gZ43br9cxi7QlWhKufnoJV7b9MRLGLaBHg8c7UwHAZ5r9IAPnb8LOukNgWQ4lDdF011oAFx%2BwgdgOadupTGu0aF1wOllL9P%2Bd6vecKeApMybMslYbCcx%2Fdrc6fN6ilU5iVR%2Bb1%2B5K4%2Bom%2Bf4o3MUwcPuErcabaLqoE0Nn14arB%2FF6lPqfn6mbhgs%2FbImsGtk0wQePlPVDRfr0NSPAUKcgnAFqHaFd6TUxylurgEJoN2I%2B5yGjuduFf%2Fn3b1tr2UnSZtE1f0Y8aMs3OxaQz4UPPmm%2Fp9ipE%2Bojulg5zkbjbgTd1ZnhhyZvdUBxqAAamF6NHIXUiBenlZi1XJamzP8HWvekXkDGJ8PKY4ZvF8KZ79%2Bmc2CmAEmWCj5JqNevzIfV2W2qYcrafolkDbiaFtDzzopTy3QaEPVTi%2FQYh0UMyDNy53cT0PNaLD%2Fsy9UQOwPXj4GBl0Fvt9Oak9eeqXT8ciDWLT%2FhVQRku5JpQEIAA%3D)  
+
+PPWR（《包装和包装废弃物法规》）是欧盟 2025年生效的强制法规，旨在减少包装废弃物、推动循环经济。它覆盖全材质和场景包装，要求材料符合有害物质限制、具备可回收性设计，并强制实施生产者责任延伸（EPR），违规将面临重罚。企业需通过合规设计、申报及追溯体系应对，影响所有欧盟市场参与者。  
+
+# ESG社会责任  
+
+ESG是环境（Environment）、社会（Social）和治理（Governance）的缩写，是衡量企业可持续发展与社会责任表现的重要框架。环境关注能源消耗、排放控制与生态保护；社会聚焦员工权益、社区参与和客户关系；治理涉及董事会结构、风险管理与合规经营。ESG要求企业制定战略、披露绩效数据并提升评级，已成为绿色供应链、监管合规及品牌声誉的核心驱动力。  
+
+# Training培训  
+
+# EUDR Training EUDR培训  
+
+为企业及行业提供系统化、体系化合规培训服务。课程兼具专业性与实操性，内容贴合企业实际业务场景，线上线下双模式授课，形式灵活。支持根据企业产品类型、供应链结构定制专属培训内容，并提供长期持续的技术支持与合规答疑，全方位保障企业 EUDR落地合规。  
+
+内容涵盖：深度解读 EUDR零毁林法规核心条款、DDS尽职调查体系框架及监管要点，信息核验与供应链资料梳理，供应链全链条可追溯体系搭建、实操落地等专项实战培训。  
+
+![a4a72820ec43e4734678dd6e206af67a.jpeg](http://docmind-api-cn-hangzhou.oss-cn-hangzhou.aliyuncs.com/1648345570663959/publicDocStreamStructure/docmind-20260929-1bfa79a83dcc427da50cc83567d37b98/18.png?Expires=1790692657&OSSAccessKeyId=STS.NY8oS7EZpQZS3Z77jEK1WyMWk&Signature=JjJeVzq%2FTZ3T82TApuM4wPZSGtY%3D&x-oss-process=image%2Fcrop%2Cx_202%2Cy_1084%2Cw_960%2Ch_418&security-token=CAIS1QJ1q6Ft5B2yfSjIr5qNJOmDqIVR5pi4MXyG02oQR757loj8iTz2IHhMeHVhCe4Ytfs1nmxX7voZlrh6SJtIXleCbMdo9JNJ8A%2BsedJNEQEDC%2BBW5qe%2BEE2%2FVjTZvqaLEcibIfrZfvCyESOm8gZ43br9cxi7QlWhKufnoJV7b9MRLGLaBHg8c7UwHAZ5r9IAPnb8LOukNgWQ4lDdF011oAFx%2BwgdgOadupTGu0aF1wOllL9P%2Bd6vecKeApMybMslYbCcx%2Fdrc6fN6ilU5iVR%2Bb1%2B5K4%2Bom%2Bf4o3MUwcPuErcabaLqoE0Nn14arB%2FF6lPqfn6mbhgs%2FbImsGtk0wQePlPVDRfr0NSPAUKcgnAFqHaFd6TUxylurgEJoN2I%2B5yGjuduFf%2Fn3b1tr2UnSZtE1f0Y8aMs3OxaQz4UPPmm%2Fp9ipE%2Bojulg5zkbjbgTd1ZnhhyZvdUBxqAAamF6NHIXUiBenlZi1XJamzP8HWvekXkDGJ8PKY4ZvF8KZ79%2Bmc2CmAEmWCj5JqNevzIfV2W2qYcrafolkDbiaFtDzzopTy3QaEPVTi%2FQYh0UMyDNy53cT0PNaLD%2Fsy9UQOwPXj4GBl0Fvt9Oak9eeqXT8ciDWLT%2FhVQRku5JpQEIAA%3D)  
+
+![f10d1aa31e3f51b59de5cfbd447be784.jpg](http://docmind-api-cn-hangzhou.oss-cn-hangzhou.aliyuncs.com/1648345570663959/publicDocStreamStructure/docmind-20260929-1bfa79a83dcc427da50cc83567d37b98/f10d1aa31e3f51b59de5cfbd447be784.jpeg?Expires=1790692656&OSSAccessKeyId=STS.NY8oS7EZpQZS3Z77jEK1WyMWk&Signature=%2BAeXSXqRzjhhmS3CN0TXN6sOEy8%3D&security-token=CAIS1QJ1q6Ft5B2yfSjIr5qNJOmDqIVR5pi4MXyG02oQR757loj8iTz2IHhMeHVhCe4Ytfs1nmxX7voZlrh6SJtIXleCbMdo9JNJ8A%2BsedJNEQEDC%2BBW5qe%2BEE2%2FVjTZvqaLEcibIfrZfvCyESOm8gZ43br9cxi7QlWhKufnoJV7b9MRLGLaBHg8c7UwHAZ5r9IAPnb8LOukNgWQ4lDdF011oAFx%2BwgdgOadupTGu0aF1wOllL9P%2Bd6vecKeApMybMslYbCcx%2Fdrc6fN6ilU5iVR%2Bb1%2B5K4%2Bom%2Bf4o3MUwcPuErcabaLqoE0Nn14arB%2FF6lPqfn6mbhgs%2FbImsGtk0wQePlPVDRfr0NSPAUKcgnAFqHaFd6TUxylurgEJoN2I%2B5yGjuduFf%2Fn3b1tr2UnSZtE1f0Y8aMs3OxaQz4UPPmm%2Fp9ipE%2Bojulg5zkbjbgTd1ZnhhyZvdUBxqAAamF6NHIXUiBenlZi1XJamzP8HWvekXkDGJ8PKY4ZvF8KZ79%2Bmc2CmAEmWCj5JqNevzIfV2W2qYcrafolkDbiaFtDzzopTy3QaEPVTi%2FQYh0UMyDNy53cT0PNaLD%2Fsy9UQOwPXj4GBl0Fvt9Oak9eeqXT8ciDWLT%2FhVQRku5JpQEIAA%3D)  
+
+# FSC Training FSC培训  
+
+1. Auditor Training Course FSC审核员培训课程  
+
+![b607badc2fb4255a472d12893aed9a34.jpg](http://docmind-api-cn-hangzhou.oss-cn-hangzhou.aliyuncs.com/1648345570663959/publicDocStreamStructure/docmind-20260929-1bfa79a83dcc427da50cc83567d37b98/b607badc2fb4255a472d12893aed9a34.jpeg?Expires=1790692656&OSSAccessKeyId=STS.NY8oS7EZpQZS3Z77jEK1WyMWk&Signature=XARFlqkUTQHl4TV58IdZg9rxEvc%3D&security-token=CAIS1QJ1q6Ft5B2yfSjIr5qNJOmDqIVR5pi4MXyG02oQR757loj8iTz2IHhMeHVhCe4Ytfs1nmxX7voZlrh6SJtIXleCbMdo9JNJ8A%2BsedJNEQEDC%2BBW5qe%2BEE2%2FVjTZvqaLEcibIfrZfvCyESOm8gZ43br9cxi7QlWhKufnoJV7b9MRLGLaBHg8c7UwHAZ5r9IAPnb8LOukNgWQ4lDdF011oAFx%2BwgdgOadupTGu0aF1wOllL9P%2Bd6vecKeApMybMslYbCcx%2Fdrc6fN6ilU5iVR%2Bb1%2B5K4%2Bom%2Bf4o3MUwcPuErcabaLqoE0Nn14arB%2FF6lPqfn6mbhgs%2FbImsGtk0wQePlPVDRfr0NSPAUKcgnAFqHaFd6TUxylurgEJoN2I%2B5yGjuduFf%2Fn3b1tr2UnSZtE1f0Y8aMs3OxaQz4UPPmm%2Fp9ipE%2Bojulg5zkbjbgTd1ZnhhyZvdUBxqAAamF6NHIXUiBenlZi1XJamzP8HWvekXkDGJ8PKY4ZvF8KZ79%2Bmc2CmAEmWCj5JqNevzIfV2W2qYcrafolkDbiaFtDzzopTy3QaEPVTi%2FQYh0UMyDNy53cT0PNaLD%2Fsy9UQOwPXj4GBl0Fvt9Oak9eeqXT8ciDWLT%2FhVQRku5JpQEIAA%3D)  
+
+英国知名认证机构 Soil Association在中国举办的 FSC-COC产销监管链审核员培训，参加培训课程是成为 FSC审核员的必备条件之一。  
+
+自 2022年以来，已成功举办 15场+专业培训，累计培养 300余人次学员覆盖全国多地，持续为行业输送具备实战能力的审核专业人才。  
+
+![cf1a9ff195c47faec511434bc529b964.jpg](http://docmind-api-cn-hangzhou.oss-cn-hangzhou.aliyuncs.com/1648345570663959/publicDocStreamStructure/docmind-20260929-1bfa79a83dcc427da50cc83567d37b98/cf1a9ff195c47faec511434bc529b964.jpeg?Expires=1790692658&OSSAccessKeyId=STS.NY8oS7EZpQZS3Z77jEK1WyMWk&Signature=h8nc5NG%2F2TowOkYe3UQJNJUl048%3D&security-token=CAIS1QJ1q6Ft5B2yfSjIr5qNJOmDqIVR5pi4MXyG02oQR757loj8iTz2IHhMeHVhCe4Ytfs1nmxX7voZlrh6SJtIXleCbMdo9JNJ8A%2BsedJNEQEDC%2BBW5qe%2BEE2%2FVjTZvqaLEcibIfrZfvCyESOm8gZ43br9cxi7QlWhKufnoJV7b9MRLGLaBHg8c7UwHAZ5r9IAPnb8LOukNgWQ4lDdF011oAFx%2BwgdgOadupTGu0aF1wOllL9P%2Bd6vecKeApMybMslYbCcx%2Fdrc6fN6ilU5iVR%2Bb1%2B5K4%2Bom%2Bf4o3MUwcPuErcabaLqoE0Nn14arB%2FF6lPqfn6mbhgs%2FbImsGtk0wQePlPVDRfr0NSPAUKcgnAFqHaFd6TUxylurgEJoN2I%2B5yGjuduFf%2Fn3b1tr2UnSZtE1f0Y8aMs3OxaQz4UPPmm%2Fp9ipE%2Bojulg5zkbjbgTd1ZnhhyZvdUBxqAAamF6NHIXUiBenlZi1XJamzP8HWvekXkDGJ8PKY4ZvF8KZ79%2Bmc2CmAEmWCj5JqNevzIfV2W2qYcrafolkDbiaFtDzzopTy3QaEPVTi%2FQYh0UMyDNy53cT0PNaLD%2Fsy9UQOwPXj4GBl0Fvt9Oak9eeqXT8ciDWLT%2FhVQRku5JpQEIAA%3D)  
+
+# 请扫描下方二维码报名咨询（联系人：高老师）  
+
+![4fcc7d73e123cf257c83817233096de8.jpg](http://docmind-api-cn-hangzhou.oss-cn-hangzhou.aliyuncs.com/1648345570663959/publicDocStreamStructure/docmind-20260929-1bfa79a83dcc427da50cc83567d37b98/4fcc7d73e123cf257c83817233096de8.jpeg?Expires=1790692658&OSSAccessKeyId=STS.NY8oS7EZpQZS3Z77jEK1WyMWk&Signature=6BZcfztj%2Bt6sa0sr3ufCcve%2By30%3D&security-token=CAIS1QJ1q6Ft5B2yfSjIr5qNJOmDqIVR5pi4MXyG02oQR757loj8iTz2IHhMeHVhCe4Ytfs1nmxX7voZlrh6SJtIXleCbMdo9JNJ8A%2BsedJNEQEDC%2BBW5qe%2BEE2%2FVjTZvqaLEcibIfrZfvCyESOm8gZ43br9cxi7QlWhKufnoJV7b9MRLGLaBHg8c7UwHAZ5r9IAPnb8LOukNgWQ4lDdF011oAFx%2BwgdgOadupTGu0aF1wOllL9P%2Bd6vecKeApMybMslYbCcx%2Fdrc6fN6ilU5iVR%2Bb1%2B5K4%2Bom%2Bf4o3MUwcPuErcabaLqoE0Nn14arB%2FF6lPqfn6mbhgs%2FbImsGtk0wQePlPVDRfr0NSPAUKcgnAFqHaFd6TUxylurgEJoN2I%2B5yGjuduFf%2Fn3b1tr2UnSZtE1f0Y8aMs3OxaQz4UPPmm%2Fp9ipE%2Bojulg5zkbjbgTd1ZnhhyZvdUBxqAAamF6NHIXUiBenlZi1XJamzP8HWvekXkDGJ8PKY4ZvF8KZ79%2Bmc2CmAEmWCj5JqNevzIfV2W2qYcrafolkDbiaFtDzzopTy3QaEPVTi%2FQYh0UMyDNy53cT0PNaLD%2Fsy9UQOwPXj4GBl0Fvt9Oak9eeqXT8ciDWLT%2FhVQRku5JpQEIAA%3D)  
+
+![6549002052fbceccb9ed683e019221ed.jpg](http://docmind-api-cn-hangzhou.oss-cn-hangzhou.aliyuncs.com/1648345570663959/publicDocStreamStructure/docmind-20260929-1bfa79a83dcc427da50cc83567d37b98/6549002052fbceccb9ed683e019221ed.jpeg?Expires=1790692658&OSSAccessKeyId=STS.NY8oS7EZpQZS3Z77jEK1WyMWk&Signature=PF2cglt4CN9c%2Foiwj7iOSqYzO4A%3D&security-token=CAIS1QJ1q6Ft5B2yfSjIr5qNJOmDqIVR5pi4MXyG02oQR757loj8iTz2IHhMeHVhCe4Ytfs1nmxX7voZlrh6SJtIXleCbMdo9JNJ8A%2BsedJNEQEDC%2BBW5qe%2BEE2%2FVjTZvqaLEcibIfrZfvCyESOm8gZ43br9cxi7QlWhKufnoJV7b9MRLGLaBHg8c7UwHAZ5r9IAPnb8LOukNgWQ4lDdF011oAFx%2BwgdgOadupTGu0aF1wOllL9P%2Bd6vecKeApMybMslYbCcx%2Fdrc6fN6ilU5iVR%2Bb1%2B5K4%2Bom%2Bf4o3MUwcPuErcabaLqoE0Nn14arB%2FF6lPqfn6mbhgs%2FbImsGtk0wQePlPVDRfr0NSPAUKcgnAFqHaFd6TUxylurgEJoN2I%2B5yGjuduFf%2Fn3b1tr2UnSZtE1f0Y8aMs3OxaQz4UPPmm%2Fp9ipE%2Bojulg5zkbjbgTd1ZnhhyZvdUBxqAAamF6NHIXUiBenlZi1XJamzP8HWvekXkDGJ8PKY4ZvF8KZ79%2Bmc2CmAEmWCj5JqNevzIfV2W2qYcrafolkDbiaFtDzzopTy3QaEPVTi%2FQYh0UMyDNy53cT0PNaLD%2Fsy9UQOwPXj4GBl0Fvt9Oak9eeqXT8ciDWLT%2FhVQRku5JpQEIAA%3D)  
+
+![0d4ba8b399dbc112488ab7a786fd039f.jpg](http://docmind-api-cn-hangzhou.oss-cn-hangzhou.aliyuncs.com/1648345570663959/publicDocStreamStructure/docmind-20260929-1bfa79a83dcc427da50cc83567d37b98/0d4ba8b399dbc112488ab7a786fd039f.jpeg?Expires=1790692657&OSSAccessKeyId=STS.NY8oS7EZpQZS3Z77jEK1WyMWk&Signature=dnnk1nOaCOdLXUkX0e6aC7ldGaE%3D&security-token=CAIS1QJ1q6Ft5B2yfSjIr5qNJOmDqIVR5pi4MXyG02oQR757loj8iTz2IHhMeHVhCe4Ytfs1nmxX7voZlrh6SJtIXleCbMdo9JNJ8A%2BsedJNEQEDC%2BBW5qe%2BEE2%2FVjTZvqaLEcibIfrZfvCyESOm8gZ43br9cxi7QlWhKufnoJV7b9MRLGLaBHg8c7UwHAZ5r9IAPnb8LOukNgWQ4lDdF011oAFx%2BwgdgOadupTGu0aF1wOllL9P%2Bd6vecKeApMybMslYbCcx%2Fdrc6fN6ilU5iVR%2Bb1%2B5K4%2Bom%2Bf4o3MUwcPuErcabaLqoE0Nn14arB%2FF6lPqfn6mbhgs%2FbImsGtk0wQePlPVDRfr0NSPAUKcgnAFqHaFd6TUxylurgEJoN2I%2B5yGjuduFf%2Fn3b1tr2UnSZtE1f0Y8aMs3OxaQz4UPPmm%2Fp9ipE%2Bojulg5zkbjbgTd1ZnhhyZvdUBxqAAamF6NHIXUiBenlZi1XJamzP8HWvekXkDGJ8PKY4ZvF8KZ79%2Bmc2CmAEmWCj5JqNevzIfV2W2qYcrafolkDbiaFtDzzopTy3QaEPVTi%2FQYh0UMyDNy53cT0PNaLD%2Fsy9UQOwPXj4GBl0Fvt9Oak9eeqXT8ciDWLT%2FhVQRku5JpQEIAA%3D)  
+
+# 2.Online COC Course FSC企业线上公开课  
+
+随着全球可持续供应链需求不断提升，FSC认证已成为企业进入国际绿色市场、增强品牌信任度的核心准入凭证。  
+
+为帮助企业快速掌握 FSC认证核心要求，我们基于小鹅通平台，正式推出 FSC产销监管链（CoC）通用标准线上课程。  
+
+课程支持随报随学、灵活安排，可按需定制企业专属内容，并实现员工学习进度统一管理与跟踪，高效支撑企业认证筹备与内部培训落地。  
+
+![d43adb5af61425974a8130c8930e3c4c.jpeg](http://docmind-api-cn-hangzhou.oss-cn-hangzhou.aliyuncs.com/1648345570663959/publicDocStreamStructure/docmind-20260929-1bfa79a83dcc427da50cc83567d37b98/22.png?Expires=1790692658&OSSAccessKeyId=STS.NY8oS7EZpQZS3Z77jEK1WyMWk&Signature=2UNitEAEuMUrgKnfck3H3dTQySs%3D&x-oss-process=image%2Fcrop%2Cx_319%2Cy_254%2Cw_754%2Ch_242&security-token=CAIS1QJ1q6Ft5B2yfSjIr5qNJOmDqIVR5pi4MXyG02oQR757loj8iTz2IHhMeHVhCe4Ytfs1nmxX7voZlrh6SJtIXleCbMdo9JNJ8A%2BsedJNEQEDC%2BBW5qe%2BEE2%2FVjTZvqaLEcibIfrZfvCyESOm8gZ43br9cxi7QlWhKufnoJV7b9MRLGLaBHg8c7UwHAZ5r9IAPnb8LOukNgWQ4lDdF011oAFx%2BwgdgOadupTGu0aF1wOllL9P%2Bd6vecKeApMybMslYbCcx%2Fdrc6fN6ilU5iVR%2Bb1%2B5K4%2Bom%2Bf4o3MUwcPuErcabaLqoE0Nn14arB%2FF6lPqfn6mbhgs%2FbImsGtk0wQePlPVDRfr0NSPAUKcgnAFqHaFd6TUxylurgEJoN2I%2B5yGjuduFf%2Fn3b1tr2UnSZtE1f0Y8aMs3OxaQz4UPPmm%2Fp9ipE%2Bojulg5zkbjbgTd1ZnhhyZvdUBxqAAamF6NHIXUiBenlZi1XJamzP8HWvekXkDGJ8PKY4ZvF8KZ79%2Bmc2CmAEmWCj5JqNevzIfV2W2qYcrafolkDbiaFtDzzopTy3QaEPVTi%2FQYh0UMyDNy53cT0PNaLD%2Fsy9UQOwPXj4GBl0Fvt9Oak9eeqXT8ciDWLT%2FhVQRku5JpQEIAA%3D)  
+
+![b55382e4baaedc33170c8412cf6aa18a.jpeg](http://docmind-api-cn-hangzhou.oss-cn-hangzhou.aliyuncs.com/1648345570663959/publicDocStreamStructure/docmind-20260929-1bfa79a83dcc427da50cc83567d37b98/22.png?Expires=1790692658&OSSAccessKeyId=STS.NY8oS7EZpQZS3Z77jEK1WyMWk&Signature=v3ioauw38G7oU%2FObX%2BH3xyLpitM%3D&x-oss-process=image%2Fcrop%2Cx_206%2Cy_276%2Cw_226%2Ch_221&security-token=CAIS1QJ1q6Ft5B2yfSjIr5qNJOmDqIVR5pi4MXyG02oQR757loj8iTz2IHhMeHVhCe4Ytfs1nmxX7voZlrh6SJtIXleCbMdo9JNJ8A%2BsedJNEQEDC%2BBW5qe%2BEE2%2FVjTZvqaLEcibIfrZfvCyESOm8gZ43br9cxi7QlWhKufnoJV7b9MRLGLaBHg8c7UwHAZ5r9IAPnb8LOukNgWQ4lDdF011oAFx%2BwgdgOadupTGu0aF1wOllL9P%2Bd6vecKeApMybMslYbCcx%2Fdrc6fN6ilU5iVR%2Bb1%2B5K4%2Bom%2Bf4o3MUwcPuErcabaLqoE0Nn14arB%2FF6lPqfn6mbhgs%2FbImsGtk0wQePlPVDRfr0NSPAUKcgnAFqHaFd6TUxylurgEJoN2I%2B5yGjuduFf%2Fn3b1tr2UnSZtE1f0Y8aMs3OxaQz4UPPmm%2Fp9ipE%2Bojulg5zkbjbgTd1ZnhhyZvdUBxqAAamF6NHIXUiBenlZi1XJamzP8HWvekXkDGJ8PKY4ZvF8KZ79%2Bmc2CmAEmWCj5JqNevzIfV2W2qYcrafolkDbiaFtDzzopTy3QaEPVTi%2FQYh0UMyDNy53cT0PNaLD%2Fsy9UQOwPXj4GBl0Fvt9Oak9eeqXT8ciDWLT%2FhVQRku5JpQEIAA%3D)  
+
+度管理  
+
+# Standard Training标准培训  
+
+林扬东方提供国内标准、CCC认证、绿色产品认证及 QEO三体系一站式合规服务。专注服务海外企业进入中国市场。紧跟 2026新版认证规则，提供全流程技术支持，助力企业高效合规、提升竞争力，顺利拓展国内外市场。  
+
+![10220f9b4bf59e3525ed8d53528e0d89.jpeg](http://docmind-api-cn-hangzhou.oss-cn-hangzhou.aliyuncs.com/1648345570663959/publicDocStreamStructure/docmind-20260929-1bfa79a83dcc427da50cc83567d37b98/23.png?Expires=1790692658&OSSAccessKeyId=STS.NY8oS7EZpQZS3Z77jEK1WyMWk&Signature=xUd8KZjDc%2FdnOSodBHI8q7%2FrXs4%3D&x-oss-process=image%2Fcrop%2Cx_195%2Cy_469%2Cw_976%2Ch_135&security-token=CAIS1QJ1q6Ft5B2yfSjIr5qNJOmDqIVR5pi4MXyG02oQR757loj8iTz2IHhMeHVhCe4Ytfs1nmxX7voZlrh6SJtIXleCbMdo9JNJ8A%2BsedJNEQEDC%2BBW5qe%2BEE2%2FVjTZvqaLEcibIfrZfvCyESOm8gZ43br9cxi7QlWhKufnoJV7b9MRLGLaBHg8c7UwHAZ5r9IAPnb8LOukNgWQ4lDdF011oAFx%2BwgdgOadupTGu0aF1wOllL9P%2Bd6vecKeApMybMslYbCcx%2Fdrc6fN6ilU5iVR%2Bb1%2B5K4%2Bom%2Bf4o3MUwcPuErcabaLqoE0Nn14arB%2FF6lPqfn6mbhgs%2FbImsGtk0wQePlPVDRfr0NSPAUKcgnAFqHaFd6TUxylurgEJoN2I%2B5yGjuduFf%2Fn3b1tr2UnSZtE1f0Y8aMs3OxaQz4UPPmm%2Fp9ipE%2Bojulg5zkbjbgTd1ZnhhyZvdUBxqAAamF6NHIXUiBenlZi1XJamzP8HWvekXkDGJ8PKY4ZvF8KZ79%2Bmc2CmAEmWCj5JqNevzIfV2W2qYcrafolkDbiaFtDzzopTy3QaEPVTi%2FQYh0UMyDNy53cT0PNaLD%2Fsy9UQOwPXj4GBl0Fvt9Oak9eeqXT8ciDWLT%2FhVQRku5JpQEIAA%3D)  
+
+是否可以把图表设置成超级链接  
+
+设置成鼠标点击其中的图片跳转具体内容？  
+
+# 1.国内标准  
+
+国内标准具备极强的权威性与通用性，是企业合规经营、产品生产的核心依据，既能统一行业生产服务规范、严控产品质量，更能助力企业满足各类客户合作要求，顺利参与项目竞标、拓展合作渠道，同时夯实企业合规底气，规避各类经营风险。  
+
+2.水性内墙涂料 CCC认证  
+
+水性内墙涂料 CCC认证，是海外相关产品进入中国市场进口、销售的法定强制准入凭证，自 2025年 7月 1日起，未获认证产品严禁入市流通。  
+
+林扬东方专注该项认证专项培训，已成功助力德国、波兰、荷兰等多个欧洲进口商高效获证，实现产品快速合规上市，同时提供全周期认证配套跟进服务，全程护航海外企业落地中国市场。  
+
+# 3.绿色产品  
+
+绿色产品认证贴合国家低碳环保政策导向，属于优质环保产品官方认可标识，能大幅提升产品品牌竞争力，助力企业抢占绿色消费市场，同时可享受相关绿色政策扶持，满足  
+
+# 企业绿色转型升级需求。  
+
+| 序号|标准编号|标准名称|认证目录| |
+| ---|---|---|---|---|
+| 1|GB/T 35601-2017|绿色产品评价人造板和木质地板|人造板和木质地板| |
+| 2|GB/T35602-2017|绿色产品评价涂料|涂料| |
+| 3|GB/T35603-2017|绿色产品评价卫生陶瓷|卫生陶瓷| |
+| 4|GB/T 35604-2017|绿色产品评价建筑玻璃|建筑玻璃| |
+| 5|GB/T 35606-2017|绿色产品评价太阳能热水系统|太阳能热水系统| |
+| 6|GB/T 35607-2017|绿色产品评价家具|家具| |
+| 7|GB/T35608-2017|绿色产品评价绝热材料|绝热材料| |
+| 8|GB/T 35609-2017|绿色产品评价防水与密封材料|防水与密封材料| |
+| 9|GB/T 35610-2017|绿色产品评价陶瓷砖(板)|陶瓷砖|(板)|
+| 10|GB/T 35611-2017|绿色产品评价纺织产品|纺织产品| |
+| |GB/T 35612-2017|绿色产品评价木塑制品|木塑制品| |
+| |GB/T 35613-2017|绿色产品评价纸和纸制品|纸和纸制品| |
+| 13|GB/T37866-2019|绿色产品评价塑料制品|塑料制品| |
+| 14|GB/T 39020-2020|绿色产品评价洗涤用品|洗涤用品| |
+| |GB/T 39761.1-2021|绿色产品评价家用电器第1部分:电冰箱、空调器和洗衣机|电冰箱、空调器和洗衣机| |
+| 16|GB/T 40718-2021|绿色产品评价轮胎|轮胎| |
+| 17|GB/T42065-2022|绿色产品评价厨卫五金产品|厨卫五金产品| |
+| 18|GB/T42169-2022|绿色产品评价家用燃气用具|家用燃气用具| |  
+
+11  
+
+12  
+
+15  
+
+林扬深耕绿色产品认证领域，凭借本地化深耕与全国化服务的专业积淀，为企业开展定制化认证专业培训，以专业授课赋能企业掌握认证核心要点，助力产品实现绿色合规落地，稳步提升市场竞争力  
+
+# 4. QEO管理体系  
+
+整合质量、环境、职业健康安全三大体系，简化流程、降低成本，是企业招投标与资质评审的重要加分项。林扬提供从体系策划到审核对接的全流程服务，为企业提供从体系策划、文件编制、现场辅导到审核对接的全流程定制化技术服务。  
+
+2026年新版认证规则已全面实施，审核要求更严、合规门槛更高，我们可精准适配新规，助力企业顺利通过认证。  
+
+# VERIFICATION符合性验证  
+
+# 1. EUDR/EUTR/UKTR验证  
+
+2023年 6月 29日，EUDR（欧盟零毁林法案，Regulation(EU) 2023/1115）正式生效，标志着 2013年 3月 3日起正式强制实施的，全球首个强制禁止非法木材进入欧盟市场的法规，EUTR（欧盟木材法规，Regulation(EU) No 995/2010）时代的终结进入倒计时。EUDR不仅将管控范围由木材扩展至大豆、牛肉、棕榈油等七大类商品，更确立了极其严格的“零毁林”标准。  
+
+>覆盖范围：  
+
+![26f982827f85883f7cb82968cfa6b7b7.jpg](http://docmind-api-cn-hangzhou.oss-cn-hangzhou.aliyuncs.com/1648345570663959/publicDocStreamStructure/docmind-20260929-1bfa79a83dcc427da50cc83567d37b98/26f982827f85883f7cb82968cfa6b7b7.jpeg?Expires=1790692657&OSSAccessKeyId=STS.NY8oS7EZpQZS3Z77jEK1WyMWk&Signature=QTqi3LaSHMF86%2BjYmFEnBYF%2F7fE%3D&security-token=CAIS1QJ1q6Ft5B2yfSjIr5qNJOmDqIVR5pi4MXyG02oQR757loj8iTz2IHhMeHVhCe4Ytfs1nmxX7voZlrh6SJtIXleCbMdo9JNJ8A%2BsedJNEQEDC%2BBW5qe%2BEE2%2FVjTZvqaLEcibIfrZfvCyESOm8gZ43br9cxi7QlWhKufnoJV7b9MRLGLaBHg8c7UwHAZ5r9IAPnb8LOukNgWQ4lDdF011oAFx%2BwgdgOadupTGu0aF1wOllL9P%2Bd6vecKeApMybMslYbCcx%2Fdrc6fN6ilU5iVR%2Bb1%2B5K4%2Bom%2Bf4o3MUwcPuErcabaLqoE0Nn14arB%2FF6lPqfn6mbhgs%2FbImsGtk0wQePlPVDRfr0NSPAUKcgnAFqHaFd6TUxylurgEJoN2I%2B5yGjuduFf%2Fn3b1tr2UnSZtE1f0Y8aMs3OxaQz4UPPmm%2Fp9ipE%2Bojulg5zkbjbgTd1ZnhhyZvdUBxqAAamF6NHIXUiBenlZi1XJamzP8HWvekXkDGJ8PKY4ZvF8KZ79%2Bmc2CmAEmWCj5JqNevzIfV2W2qYcrafolkDbiaFtDzzopTy3QaEPVTi%2FQYh0UMyDNy53cT0PNaLD%2Fsy9UQOwPXj4GBl0Fvt9Oak9eeqXT8ciDWLT%2FhVQRku5JpQEIAA%3D)  
+
+![abd17d099002b6df1435bed57ed3fdce.jpeg](http://docmind-api-cn-hangzhou.oss-cn-hangzhou.aliyuncs.com/1648345570663959/publicDocStreamStructure/docmind-20260929-1bfa79a83dcc427da50cc83567d37b98/25.png?Expires=1790692657&OSSAccessKeyId=STS.NY8oS7EZpQZS3Z77jEK1WyMWk&Signature=tFMRSa1VJa9tVHZ2EKUEUI7M9Eg%3D&x-oss-process=image%2Fcrop%2Cx_738%2Cy_801%2Cw_115%2Ch_113&security-token=CAIS1QJ1q6Ft5B2yfSjIr5qNJOmDqIVR5pi4MXyG02oQR757loj8iTz2IHhMeHVhCe4Ytfs1nmxX7voZlrh6SJtIXleCbMdo9JNJ8A%2BsedJNEQEDC%2BBW5qe%2BEE2%2FVjTZvqaLEcibIfrZfvCyESOm8gZ43br9cxi7QlWhKufnoJV7b9MRLGLaBHg8c7UwHAZ5r9IAPnb8LOukNgWQ4lDdF011oAFx%2BwgdgOadupTGu0aF1wOllL9P%2Bd6vecKeApMybMslYbCcx%2Fdrc6fN6ilU5iVR%2Bb1%2B5K4%2Bom%2Bf4o3MUwcPuErcabaLqoE0Nn14arB%2FF6lPqfn6mbhgs%2FbImsGtk0wQePlPVDRfr0NSPAUKcgnAFqHaFd6TUxylurgEJoN2I%2B5yGjuduFf%2Fn3b1tr2UnSZtE1f0Y8aMs3OxaQz4UPPmm%2Fp9ipE%2Bojulg5zkbjbgTd1ZnhhyZvdUBxqAAamF6NHIXUiBenlZi1XJamzP8HWvekXkDGJ8PKY4ZvF8KZ79%2Bmc2CmAEmWCj5JqNevzIfV2W2qYcrafolkDbiaFtDzzopTy3QaEPVTi%2FQYh0UMyDNy53cT0PNaLD%2Fsy9UQOwPXj4GBl0Fvt9Oak9eeqXT8ciDWLT%2FhVQRku5JpQEIAA%3D)  
+
+![a4bb6b76c26214cc95d9c29b22f79c4c.jpeg](http://docmind-api-cn-hangzhou.oss-cn-hangzhou.aliyuncs.com/1648345570663959/publicDocStreamStructure/docmind-20260929-1bfa79a83dcc427da50cc83567d37b98/25.png?Expires=1790692657&OSSAccessKeyId=STS.NY8oS7EZpQZS3Z77jEK1WyMWk&Signature=QFjtGCEx3OAtkVKlJPFP%2Be2hCpU%3D&x-oss-process=image%2Fcrop%2Cx_873%2Cy_815%2Cw_110%2Ch_98&security-token=CAIS1QJ1q6Ft5B2yfSjIr5qNJOmDqIVR5pi4MXyG02oQR757loj8iTz2IHhMeHVhCe4Ytfs1nmxX7voZlrh6SJtIXleCbMdo9JNJ8A%2BsedJNEQEDC%2BBW5qe%2BEE2%2FVjTZvqaLEcibIfrZfvCyESOm8gZ43br9cxi7QlWhKufnoJV7b9MRLGLaBHg8c7UwHAZ5r9IAPnb8LOukNgWQ4lDdF011oAFx%2BwgdgOadupTGu0aF1wOllL9P%2Bd6vecKeApMybMslYbCcx%2Fdrc6fN6ilU5iVR%2Bb1%2B5K4%2Bom%2Bf4o3MUwcPuErcabaLqoE0Nn14arB%2FF6lPqfn6mbhgs%2FbImsGtk0wQePlPVDRfr0NSPAUKcgnAFqHaFd6TUxylurgEJoN2I%2B5yGjuduFf%2Fn3b1tr2UnSZtE1f0Y8aMs3OxaQz4UPPmm%2Fp9ipE%2Bojulg5zkbjbgTd1ZnhhyZvdUBxqAAamF6NHIXUiBenlZi1XJamzP8HWvekXkDGJ8PKY4ZvF8KZ79%2Bmc2CmAEmWCj5JqNevzIfV2W2qYcrafolkDbiaFtDzzopTy3QaEPVTi%2FQYh0UMyDNy53cT0PNaLD%2Fsy9UQOwPXj4GBl0Fvt9Oak9eeqXT8ciDWLT%2FhVQRku5JpQEIAA%3D)  
+
+![7f3cca1ee75f4fa94679202c0bded556.jpeg](http://docmind-api-cn-hangzhou.oss-cn-hangzhou.aliyuncs.com/1648345570663959/publicDocStreamStructure/docmind-20260929-1bfa79a83dcc427da50cc83567d37b98/25.png?Expires=1790692657&OSSAccessKeyId=STS.NY8oS7EZpQZS3Z77jEK1WyMWk&Signature=G%2Bxc%2ByBU8un1S5PH4Nm20cU8EBw%3D&x-oss-process=image%2Fcrop%2Cx_610%2Cy_809%2Cw_105%2Ch_101&security-token=CAIS1QJ1q6Ft5B2yfSjIr5qNJOmDqIVR5pi4MXyG02oQR757loj8iTz2IHhMeHVhCe4Ytfs1nmxX7voZlrh6SJtIXleCbMdo9JNJ8A%2BsedJNEQEDC%2BBW5qe%2BEE2%2FVjTZvqaLEcibIfrZfvCyESOm8gZ43br9cxi7QlWhKufnoJV7b9MRLGLaBHg8c7UwHAZ5r9IAPnb8LOukNgWQ4lDdF011oAFx%2BwgdgOadupTGu0aF1wOllL9P%2Bd6vecKeApMybMslYbCcx%2Fdrc6fN6ilU5iVR%2Bb1%2B5K4%2Bom%2Bf4o3MUwcPuErcabaLqoE0Nn14arB%2FF6lPqfn6mbhgs%2FbImsGtk0wQePlPVDRfr0NSPAUKcgnAFqHaFd6TUxylurgEJoN2I%2B5yGjuduFf%2Fn3b1tr2UnSZtE1f0Y8aMs3OxaQz4UPPmm%2Fp9ipE%2Bojulg5zkbjbgTd1ZnhhyZvdUBxqAAamF6NHIXUiBenlZi1XJamzP8HWvekXkDGJ8PKY4ZvF8KZ79%2Bmc2CmAEmWCj5JqNevzIfV2W2qYcrafolkDbiaFtDzzopTy3QaEPVTi%2FQYh0UMyDNy53cT0PNaLD%2Fsy9UQOwPXj4GBl0Fvt9Oak9eeqXT8ciDWLT%2FhVQRku5JpQEIAA%3D)  
+
+![281cc5eebb62753720d69a6e9a3711eb.jpeg](http://docmind-api-cn-hangzhou.oss-cn-hangzhou.aliyuncs.com/1648345570663959/publicDocStreamStructure/docmind-20260929-1bfa79a83dcc427da50cc83567d37b98/25.png?Expires=1790692657&OSSAccessKeyId=STS.NY8oS7EZpQZS3Z77jEK1WyMWk&Signature=FT1Gx8Z14dovyulye9bi8zYYl%2Fk%3D&x-oss-process=image%2Fcrop%2Cx_480%2Cy_806%2Cw_107%2Ch_107&security-token=CAIS1QJ1q6Ft5B2yfSjIr5qNJOmDqIVR5pi4MXyG02oQR757loj8iTz2IHhMeHVhCe4Ytfs1nmxX7voZlrh6SJtIXleCbMdo9JNJ8A%2BsedJNEQEDC%2BBW5qe%2BEE2%2FVjTZvqaLEcibIfrZfvCyESOm8gZ43br9cxi7QlWhKufnoJV7b9MRLGLaBHg8c7UwHAZ5r9IAPnb8LOukNgWQ4lDdF011oAFx%2BwgdgOadupTGu0aF1wOllL9P%2Bd6vecKeApMybMslYbCcx%2Fdrc6fN6ilU5iVR%2Bb1%2B5K4%2Bom%2Bf4o3MUwcPuErcabaLqoE0Nn14arB%2FF6lPqfn6mbhgs%2FbImsGtk0wQePlPVDRfr0NSPAUKcgnAFqHaFd6TUxylurgEJoN2I%2B5yGjuduFf%2Fn3b1tr2UnSZtE1f0Y8aMs3OxaQz4UPPmm%2Fp9ipE%2Bojulg5zkbjbgTd1ZnhhyZvdUBxqAAamF6NHIXUiBenlZi1XJamzP8HWvekXkDGJ8PKY4ZvF8KZ79%2Bmc2CmAEmWCj5JqNevzIfV2W2qYcrafolkDbiaFtDzzopTy3QaEPVTi%2FQYh0UMyDNy53cT0PNaLD%2Fsy9UQOwPXj4GBl0Fvt9Oak9eeqXT8ciDWLT%2FhVQRku5JpQEIAA%3D)  
+
+COCOA      COFFEE         BEEF        RUBBER  
+
+执行时间：  
+
+●大中型企业：强制执行日期由原定的 2024年底推迟至 2026年 12月 30日。  
+
+●微型和小型企业：获得更长的过渡期，拟于 2027年 6月 30日起全面执行林扬东方服务：  
+
+深耕 EUTR十多年，在木材合规验证上有丰富的经验，曾为国内及欧洲多个木制品类客户完成EUTR验证服务。在 EUTR上的实践经验，能帮助在木制品领域客户顺利过渡至 EUDR。  
+
+·采伐地地理坐标绘制  
+
+●   DDS落地验证服务  
+
+●  批次性符合声明  
+
+# 2.  CE Marking  
+
+![d56b58c98ed32127cc520958a311c161.jpg](http://docmind-api-cn-hangzhou.oss-cn-hangzhou.aliyuncs.com/1648345570663959/publicDocStreamStructure/docmind-20260929-1bfa79a83dcc427da50cc83567d37b98/d56b58c98ed32127cc520958a311c161.jpeg?Expires=1790692657&OSSAccessKeyId=STS.NY8oS7EZpQZS3Z77jEK1WyMWk&Signature=CFnjl9i3GAbdxUtfUtKtLz28lPg%3D&security-token=CAIS1QJ1q6Ft5B2yfSjIr5qNJOmDqIVR5pi4MXyG02oQR757loj8iTz2IHhMeHVhCe4Ytfs1nmxX7voZlrh6SJtIXleCbMdo9JNJ8A%2BsedJNEQEDC%2BBW5qe%2BEE2%2FVjTZvqaLEcibIfrZfvCyESOm8gZ43br9cxi7QlWhKufnoJV7b9MRLGLaBHg8c7UwHAZ5r9IAPnb8LOukNgWQ4lDdF011oAFx%2BwgdgOadupTGu0aF1wOllL9P%2Bd6vecKeApMybMslYbCcx%2Fdrc6fN6ilU5iVR%2Bb1%2B5K4%2Bom%2Bf4o3MUwcPuErcabaLqoE0Nn14arB%2FF6lPqfn6mbhgs%2FbImsGtk0wQePlPVDRfr0NSPAUKcgnAFqHaFd6TUxylurgEJoN2I%2B5yGjuduFf%2Fn3b1tr2UnSZtE1f0Y8aMs3OxaQz4UPPmm%2Fp9ipE%2Bojulg5zkbjbgTd1ZnhhyZvdUBxqAAamF6NHIXUiBenlZi1XJamzP8HWvekXkDGJ8PKY4ZvF8KZ79%2Bmc2CmAEmWCj5JqNevzIfV2W2qYcrafolkDbiaFtDzzopTy3QaEPVTi%2FQYh0UMyDNy53cT0PNaLD%2Fsy9UQOwPXj4GBl0Fvt9Oak9eeqXT8ciDWLT%2FhVQRku5JpQEIAA%3D)  
+
+CE（Conformite Europeenne）标识是欧盟法律对产品提出的一种强制性安全标识，凡是符合欧盟指令的基本要求并且经过适宜的符合性评定程序的产品均可贴 CE标识。  
+
+CE的认证范围非常广泛，大部分产品进入欧盟都需要进行 CE认证。CE的常见指令、法规和产品适用范围有：个人防护设备法规（PPE）、建筑产品法规（CPR）、电磁兼容指令（EMC）、低电压指令（LVD）、机械指令（MD）、玩具安全指令（TOY）等。目前，我们的主要是对 CPR法规的建筑产品发证。按照 AVCP的等级，决定工厂与认证机构的职责。定价因素与 AVCP控制等级、胶水类型、产品类别及数量、是否有实验室等因素有关。  
+
+![d66573604f2c05bf44ee42a8a762afa3.jpg](http://docmind-api-cn-hangzhou.oss-cn-hangzhou.aliyuncs.com/1648345570663959/publicDocStreamStructure/docmind-20260929-1bfa79a83dcc427da50cc83567d37b98/d66573604f2c05bf44ee42a8a762afa3.jpeg?Expires=1790692657&OSSAccessKeyId=STS.NY8oS7EZpQZS3Z77jEK1WyMWk&Signature=LkaS5e%2FX081JP2k36y0pwaa8Rbo%3D&security-token=CAIS1QJ1q6Ft5B2yfSjIr5qNJOmDqIVR5pi4MXyG02oQR757loj8iTz2IHhMeHVhCe4Ytfs1nmxX7voZlrh6SJtIXleCbMdo9JNJ8A%2BsedJNEQEDC%2BBW5qe%2BEE2%2FVjTZvqaLEcibIfrZfvCyESOm8gZ43br9cxi7QlWhKufnoJV7b9MRLGLaBHg8c7UwHAZ5r9IAPnb8LOukNgWQ4lDdF011oAFx%2BwgdgOadupTGu0aF1wOllL9P%2Bd6vecKeApMybMslYbCcx%2Fdrc6fN6ilU5iVR%2Bb1%2B5K4%2Bom%2Bf4o3MUwcPuErcabaLqoE0Nn14arB%2FF6lPqfn6mbhgs%2FbImsGtk0wQePlPVDRfr0NSPAUKcgnAFqHaFd6TUxylurgEJoN2I%2B5yGjuduFf%2Fn3b1tr2UnSZtE1f0Y8aMs3OxaQz4UPPmm%2Fp9ipE%2Bojulg5zkbjbgTd1ZnhhyZvdUBxqAAamF6NHIXUiBenlZi1XJamzP8HWvekXkDGJ8PKY4ZvF8KZ79%2Bmc2CmAEmWCj5JqNevzIfV2W2qYcrafolkDbiaFtDzzopTy3QaEPVTi%2FQYh0UMyDNy53cT0PNaLD%2Fsy9UQOwPXj4GBl0Fvt9Oak9eeqXT8ciDWLT%2FhVQRku5JpQEIAA%3D)  
+
+# 3.   Carb/EPA  
+
+| CARB出口到美国加州地区的产品需满足CARB的要求CARB认证美国加州空气资源委员会(California Air Resources Board)实施,2007年4月27日,批准了"空中传播有毒物质的控制措施(Airborne Toxic Control Measure, 简称ATCM)",以减少产品的甲醛释放量,改善居住环境的空气质量,木制品就是其中一种。 EPA是进入美国(除加州地区)的强制性要求EPA认证美国环保署(Environmental Protection Agency) 管理, 基于CARB的标准进行扩展,适用于全美范围。2018年,EPA发布了《有毒物质控制法》第六章(TSCA Title VI),要求所有进口、制造、销售的复合木制品必须符合低甲醛排放标准。|
+| ---|  
+
+# 认证流程：  
+
+# 限值要求：  
+
+| 产品名称|硬木胶合板（HWPW）|刨花板（PB）|中密度纤维板<br>（MDF）|薄密度板<br>（Thin MDF）|
+| ---|---|---|---|---|
+| 甲醛释放量限值（ppm）|0.05|0.09|0.11|0.13|  
+
+认证范围：  
+
+![1ea2498b375c69e0aa57aad7c41c0077.jpg](http://docmind-api-cn-hangzhou.oss-cn-hangzhou.aliyuncs.com/1648345570663959/publicDocStreamStructure/docmind-20260929-1bfa79a83dcc427da50cc83567d37b98/1ea2498b375c69e0aa57aad7c41c0077.jpeg?Expires=1790692658&OSSAccessKeyId=STS.NY8oS7EZpQZS3Z77jEK1WyMWk&Signature=XSj17xyF%2Fa%2B9z9TuXerdJzqV7Zs%3D&security-token=CAIS1QJ1q6Ft5B2yfSjIr5qNJOmDqIVR5pi4MXyG02oQR757loj8iTz2IHhMeHVhCe4Ytfs1nmxX7voZlrh6SJtIXleCbMdo9JNJ8A%2BsedJNEQEDC%2BBW5qe%2BEE2%2FVjTZvqaLEcibIfrZfvCyESOm8gZ43br9cxi7QlWhKufnoJV7b9MRLGLaBHg8c7UwHAZ5r9IAPnb8LOukNgWQ4lDdF011oAFx%2BwgdgOadupTGu0aF1wOllL9P%2Bd6vecKeApMybMslYbCcx%2Fdrc6fN6ilU5iVR%2Bb1%2B5K4%2Bom%2Bf4o3MUwcPuErcabaLqoE0Nn14arB%2FF6lPqfn6mbhgs%2FbImsGtk0wQePlPVDRfr0NSPAUKcgnAFqHaFd6TUxylurgEJoN2I%2B5yGjuduFf%2Fn3b1tr2UnSZtE1f0Y8aMs3OxaQz4UPPmm%2Fp9ipE%2Bojulg5zkbjbgTd1ZnhhyZvdUBxqAAamF6NHIXUiBenlZi1XJamzP8HWvekXkDGJ8PKY4ZvF8KZ79%2Bmc2CmAEmWCj5JqNevzIfV2W2qYcrafolkDbiaFtDzzopTy3QaEPVTi%2FQYh0UMyDNy53cT0PNaLD%2Fsy9UQOwPXj4GBl0Fvt9Oak9eeqXT8ciDWLT%2FhVQRku5JpQEIAA%3D)  
+
+# 贴面产品  
+
+![ca2ab830fa9b2572639ad861f41da58a.jpg](http://docmind-api-cn-hangzhou.oss-cn-hangzhou.aliyuncs.com/1648345570663959/publicDocStreamStructure/docmind-20260929-1bfa79a83dcc427da50cc83567d37b98/ca2ab830fa9b2572639ad861f41da58a.jpeg?Expires=1790692658&OSSAccessKeyId=STS.NY8oS7EZpQZS3Z77jEK1WyMWk&Signature=%2FoeOdKUV12nNltcmn%2BvWqpgnYeY%3D&security-token=CAIS1QJ1q6Ft5B2yfSjIr5qNJOmDqIVR5pi4MXyG02oQR757loj8iTz2IHhMeHVhCe4Ytfs1nmxX7voZlrh6SJtIXleCbMdo9JNJ8A%2BsedJNEQEDC%2BBW5qe%2BEE2%2FVjTZvqaLEcibIfrZfvCyESOm8gZ43br9cxi7QlWhKufnoJV7b9MRLGLaBHg8c7UwHAZ5r9IAPnb8LOukNgWQ4lDdF011oAFx%2BwgdgOadupTGu0aF1wOllL9P%2Bd6vecKeApMybMslYbCcx%2Fdrc6fN6ilU5iVR%2Bb1%2B5K4%2Bom%2Bf4o3MUwcPuErcabaLqoE0Nn14arB%2FF6lPqfn6mbhgs%2FbImsGtk0wQePlPVDRfr0NSPAUKcgnAFqHaFd6TUxylurgEJoN2I%2B5yGjuduFf%2Fn3b1tr2UnSZtE1f0Y8aMs3OxaQz4UPPmm%2Fp9ipE%2Bojulg5zkbjbgTd1ZnhhyZvdUBxqAAamF6NHIXUiBenlZi1XJamzP8HWvekXkDGJ8PKY4ZvF8KZ79%2Bmc2CmAEmWCj5JqNevzIfV2W2qYcrafolkDbiaFtDzzopTy3QaEPVTi%2FQYh0UMyDNy53cT0PNaLD%2Fsy9UQOwPXj4GBl0Fvt9Oak9eeqXT8ciDWLT%2FhVQRku5JpQEIAA%3D)  
+
+![7c9cc055a3da120d7830b019f5df4fee.jpg](http://docmind-api-cn-hangzhou.oss-cn-hangzhou.aliyuncs.com/1648345570663959/publicDocStreamStructure/docmind-20260929-1bfa79a83dcc427da50cc83567d37b98/7c9cc055a3da120d7830b019f5df4fee.jpeg?Expires=1790692659&OSSAccessKeyId=STS.NY8oS7EZpQZS3Z77jEK1WyMWk&Signature=bLTxf9sspTqnAQytuYPvyVgPVJU%3D&security-token=CAIS1QJ1q6Ft5B2yfSjIr5qNJOmDqIVR5pi4MXyG02oQR757loj8iTz2IHhMeHVhCe4Ytfs1nmxX7voZlrh6SJtIXleCbMdo9JNJ8A%2BsedJNEQEDC%2BBW5qe%2BEE2%2FVjTZvqaLEcibIfrZfvCyESOm8gZ43br9cxi7QlWhKufnoJV7b9MRLGLaBHg8c7UwHAZ5r9IAPnb8LOukNgWQ4lDdF011oAFx%2BwgdgOadupTGu0aF1wOllL9P%2Bd6vecKeApMybMslYbCcx%2Fdrc6fN6ilU5iVR%2Bb1%2B5K4%2Bom%2Bf4o3MUwcPuErcabaLqoE0Nn14arB%2FF6lPqfn6mbhgs%2FbImsGtk0wQePlPVDRfr0NSPAUKcgnAFqHaFd6TUxylurgEJoN2I%2B5yGjuduFf%2Fn3b1tr2UnSZtE1f0Y8aMs3OxaQz4UPPmm%2Fp9ipE%2Bojulg5zkbjbgTd1ZnhhyZvdUBxqAAamF6NHIXUiBenlZi1XJamzP8HWvekXkDGJ8PKY4ZvF8KZ79%2Bmc2CmAEmWCj5JqNevzIfV2W2qYcrafolkDbiaFtDzzopTy3QaEPVTi%2FQYh0UMyDNy53cT0PNaLD%2Fsy9UQOwPXj4GBl0Fvt9Oak9eeqXT8ciDWLT%2FhVQRku5JpQEIAA%3D)  
+
+刨花板                                                     纤维板  
+
+SOR/2021-148（CANFER）是加拿大针对复合木制品甲醛释放的强制性法规，全称《复合木制品甲醛释放法规》（Formaldehyde Emissions from Composite Wood Products Re g ulations），于 2023年 1月 7日正式生效。它完全对标美国 EPA TSCA Title VI，是出口加拿大市场的必备环保门槛。已获 EPA TSCA Title VI认证的产品，直接认可，无需重复测试。  
+
+# 4.   GECA  
+
+![590cbb02f36a2163e6591dd51e21fbbb.jpg](http://docmind-api-cn-hangzhou.oss-cn-hangzhou.aliyuncs.com/1648345570663959/publicDocStreamStructure/docmind-20260929-1bfa79a83dcc427da50cc83567d37b98/590cbb02f36a2163e6591dd51e21fbbb.jpeg?Expires=1790692659&OSSAccessKeyId=STS.NY8oS7EZpQZS3Z77jEK1WyMWk&Signature=TIJ57Z4uwotrf1W7ax0AXfeIIuc%3D&security-token=CAIS1QJ1q6Ft5B2yfSjIr5qNJOmDqIVR5pi4MXyG02oQR757loj8iTz2IHhMeHVhCe4Ytfs1nmxX7voZlrh6SJtIXleCbMdo9JNJ8A%2BsedJNEQEDC%2BBW5qe%2BEE2%2FVjTZvqaLEcibIfrZfvCyESOm8gZ43br9cxi7QlWhKufnoJV7b9MRLGLaBHg8c7UwHAZ5r9IAPnb8LOukNgWQ4lDdF011oAFx%2BwgdgOadupTGu0aF1wOllL9P%2Bd6vecKeApMybMslYbCcx%2Fdrc6fN6ilU5iVR%2Bb1%2B5K4%2Bom%2Bf4o3MUwcPuErcabaLqoE0Nn14arB%2FF6lPqfn6mbhgs%2FbImsGtk0wQePlPVDRfr0NSPAUKcgnAFqHaFd6TUxylurgEJoN2I%2B5yGjuduFf%2Fn3b1tr2UnSZtE1f0Y8aMs3OxaQz4UPPmm%2Fp9ipE%2Bojulg5zkbjbgTd1ZnhhyZvdUBxqAAamF6NHIXUiBenlZi1XJamzP8HWvekXkDGJ8PKY4ZvF8KZ79%2Bmc2CmAEmWCj5JqNevzIfV2W2qYcrafolkDbiaFtDzzopTy3QaEPVTi%2FQYh0UMyDNy53cT0PNaLD%2Fsy9UQOwPXj4GBl0Fvt9Oak9eeqXT8ciDWLT%2FhVQRku5JpQEIAA%3D)  
+
+澳大利亚“良好环境选择标签”（ GECA， Good Environmental Choice Australia），成立于 2001年，是澳洲唯一符合 ISO 14024国际生态标签标准的 I类生态标签（最高级别生态标签，需第三方独立审核、全生命周期验证）。核心定位是澳洲绿色市场的准入标杆，覆盖产品全生命周期，从原料开采、生产加工，到使用过程、废弃回收，每一个环节都有严苛的环保与健康要求，拒绝“表面环保”，真正实现“全链条可持续”。  
+
+目前，GECA已覆盖 27大类产品，拥有 2000+认证产品，是澳洲政府、企业、消费者最信任的绿色标识。GECA认证覆盖范围广泛，其中，与国内出口企业最相关、需求最高的品类主要包括：  
+
+![0dcb41ceaea2bd4b7ab0e4ad5bbc5c0a.jpg](http://docmind-api-cn-hangzhou.oss-cn-hangzhou.aliyuncs.com/1648345570663959/publicDocStreamStructure/docmind-20260929-1bfa79a83dcc427da50cc83567d37b98/0dcb41ceaea2bd4b7ab0e4ad5bbc5c0a.jpeg?Expires=1790692659&OSSAccessKeyId=STS.NY8oS7EZpQZS3Z77jEK1WyMWk&Signature=vYYhyRYcTtwxbp2E5e%2F5BpEXme8%3D&security-token=CAIS1QJ1q6Ft5B2yfSjIr5qNJOmDqIVR5pi4MXyG02oQR757loj8iTz2IHhMeHVhCe4Ytfs1nmxX7voZlrh6SJtIXleCbMdo9JNJ8A%2BsedJNEQEDC%2BBW5qe%2BEE2%2FVjTZvqaLEcibIfrZfvCyESOm8gZ43br9cxi7QlWhKufnoJV7b9MRLGLaBHg8c7UwHAZ5r9IAPnb8LOukNgWQ4lDdF011oAFx%2BwgdgOadupTGu0aF1wOllL9P%2Bd6vecKeApMybMslYbCcx%2Fdrc6fN6ilU5iVR%2Bb1%2B5K4%2Bom%2Bf4o3MUwcPuErcabaLqoE0Nn14arB%2FF6lPqfn6mbhgs%2FbImsGtk0wQePlPVDRfr0NSPAUKcgnAFqHaFd6TUxylurgEJoN2I%2B5yGjuduFf%2Fn3b1tr2UnSZtE1f0Y8aMs3OxaQz4UPPmm%2Fp9ipE%2Bojulg5zkbjbgTd1ZnhhyZvdUBxqAAamF6NHIXUiBenlZi1XJamzP8HWvekXkDGJ8PKY4ZvF8KZ79%2Bmc2CmAEmWCj5JqNevzIfV2W2qYcrafolkDbiaFtDzzopTy3QaEPVTi%2FQYh0UMyDNy53cT0PNaLD%2Fsy9UQOwPXj4GBl0Fvt9Oak9eeqXT8ciDWLT%2FhVQRku5JpQEIAA%3D)  
+
+目前，国内获得 GECA认证的企业有：  
+
+![b2856eb96c7a9541cbc90e4af008f995.jpeg](http://docmind-api-cn-hangzhou.oss-cn-hangzhou.aliyuncs.com/1648345570663959/publicDocStreamStructure/docmind-20260929-1bfa79a83dcc427da50cc83567d37b98/30.png?Expires=1790692659&OSSAccessKeyId=STS.NY8oS7EZpQZS3Z77jEK1WyMWk&Signature=iT2BdRbZgUL4r2F7YBMkT0xBS24%3D&x-oss-process=image%2Fcrop%2Cx_195%2Cy_1440%2Cw_922%2Ch_165&security-token=CAIS1QJ1q6Ft5B2yfSjIr5qNJOmDqIVR5pi4MXyG02oQR757loj8iTz2IHhMeHVhCe4Ytfs1nmxX7voZlrh6SJtIXleCbMdo9JNJ8A%2BsedJNEQEDC%2BBW5qe%2BEE2%2FVjTZvqaLEcibIfrZfvCyESOm8gZ43br9cxi7QlWhKufnoJV7b9MRLGLaBHg8c7UwHAZ5r9IAPnb8LOukNgWQ4lDdF011oAFx%2BwgdgOadupTGu0aF1wOllL9P%2Bd6vecKeApMybMslYbCcx%2Fdrc6fN6ilU5iVR%2Bb1%2B5K4%2Bom%2Bf4o3MUwcPuErcabaLqoE0Nn14arB%2FF6lPqfn6mbhgs%2FbImsGtk0wQePlPVDRfr0NSPAUKcgnAFqHaFd6TUxylurgEJoN2I%2B5yGjuduFf%2Fn3b1tr2UnSZtE1f0Y8aMs3OxaQz4UPPmm%2Fp9ipE%2Bojulg5zkbjbgTd1ZnhhyZvdUBxqAAamF6NHIXUiBenlZi1XJamzP8HWvekXkDGJ8PKY4ZvF8KZ79%2Bmc2CmAEmWCj5JqNevzIfV2W2qYcrafolkDbiaFtDzzopTy3QaEPVTi%2FQYh0UMyDNy53cT0PNaLD%2Fsy9UQOwPXj4GBl0Fvt9Oak9eeqXT8ciDWLT%2FhVQRku5JpQEIAA%3D)  
+
+# 5.   JIS  
+
+JIS是日本工业标准（Japanese Industrial Standard）的缩写，是日本的国家级标准，相当于中国的国家标准 GB，以推动日本工业标准化，工业产品类型、性能、生产方法、测试方法等全国统一化。  
+
+![0bc205150e5a529d356aace5b2d01dae.jpg](http://docmind-api-cn-hangzhou.oss-cn-hangzhou.aliyuncs.com/1648345570663959/publicDocStreamStructure/docmind-20260929-1bfa79a83dcc427da50cc83567d37b98/0bc205150e5a529d356aace5b2d01dae.jpeg?Expires=1790692659&OSSAccessKeyId=STS.NY8oS7EZpQZS3Z77jEK1WyMWk&Signature=wbD7MuvA3JP02ocDhbZm8PHY%2F6g%3D&security-token=CAIS1QJ1q6Ft5B2yfSjIr5qNJOmDqIVR5pi4MXyG02oQR757loj8iTz2IHhMeHVhCe4Ytfs1nmxX7voZlrh6SJtIXleCbMdo9JNJ8A%2BsedJNEQEDC%2BBW5qe%2BEE2%2FVjTZvqaLEcibIfrZfvCyESOm8gZ43br9cxi7QlWhKufnoJV7b9MRLGLaBHg8c7UwHAZ5r9IAPnb8LOukNgWQ4lDdF011oAFx%2BwgdgOadupTGu0aF1wOllL9P%2Bd6vecKeApMybMslYbCcx%2Fdrc6fN6ilU5iVR%2Bb1%2B5K4%2Bom%2Bf4o3MUwcPuErcabaLqoE0Nn14arB%2FF6lPqfn6mbhgs%2FbImsGtk0wQePlPVDRfr0NSPAUKcgnAFqHaFd6TUxylurgEJoN2I%2B5yGjuduFf%2Fn3b1tr2UnSZtE1f0Y8aMs3OxaQz4UPPmm%2Fp9ipE%2Bojulg5zkbjbgTd1ZnhhyZvdUBxqAAamF6NHIXUiBenlZi1XJamzP8HWvekXkDGJ8PKY4ZvF8KZ79%2Bmc2CmAEmWCj5JqNevzIfV2W2qYcrafolkDbiaFtDzzopTy3QaEPVTi%2FQYh0UMyDNy53cT0PNaLD%2Fsy9UQOwPXj4GBl0Fvt9Oak9eeqXT8ciDWLT%2FhVQRku5JpQEIAA%3D)  
+
+现行 JIS标准超过 10,000个。主要分为土木建筑、一般机械、电子仪器及电器机械、矿山、纸浆及纸、医疗安全用具、信息技术、其他等 19类。常见的人造板产品中，只有密度板(MDF)和刨花板(Particleboard)属于土木建筑材料范畴，需要遵循 JIS认证制度。  
+
+![f699c7f60fbbb6761d789217f0aa8ef8.jpeg](http://docmind-api-cn-hangzhou.oss-cn-hangzhou.aliyuncs.com/1648345570663959/publicDocStreamStructure/docmind-20260929-1bfa79a83dcc427da50cc83567d37b98/31.png?Expires=1790692659&OSSAccessKeyId=STS.NY8oS7EZpQZS3Z77jEK1WyMWk&Signature=CyI58yi37OgJi63MHc5BbehClM0%3D&x-oss-process=image%2Fcrop%2Cx_251%2Cy_1071%2Cw_772%2Ch_381&security-token=CAIS1QJ1q6Ft5B2yfSjIr5qNJOmDqIVR5pi4MXyG02oQR757loj8iTz2IHhMeHVhCe4Ytfs1nmxX7voZlrh6SJtIXleCbMdo9JNJ8A%2BsedJNEQEDC%2BBW5qe%2BEE2%2FVjTZvqaLEcibIfrZfvCyESOm8gZ43br9cxi7QlWhKufnoJV7b9MRLGLaBHg8c7UwHAZ5r9IAPnb8LOukNgWQ4lDdF011oAFx%2BwgdgOadupTGu0aF1wOllL9P%2Bd6vecKeApMybMslYbCcx%2Fdrc6fN6ilU5iVR%2Bb1%2B5K4%2Bom%2Bf4o3MUwcPuErcabaLqoE0Nn14arB%2FF6lPqfn6mbhgs%2FbImsGtk0wQePlPVDRfr0NSPAUKcgnAFqHaFd6TUxylurgEJoN2I%2B5yGjuduFf%2Fn3b1tr2UnSZtE1f0Y8aMs3OxaQz4UPPmm%2Fp9ipE%2Bojulg5zkbjbgTd1ZnhhyZvdUBxqAAamF6NHIXUiBenlZi1XJamzP8HWvekXkDGJ8PKY4ZvF8KZ79%2Bmc2CmAEmWCj5JqNevzIfV2W2qYcrafolkDbiaFtDzzopTy3QaEPVTi%2FQYh0UMyDNy53cT0PNaLD%2Fsy9UQOwPXj4GBl0Fvt9Oak9eeqXT8ciDWLT%2FhVQRku5JpQEIAA%3D)  
+
+认证流程：  
+
+![5049d46f3e54ff875b1b06f7d1e10048.jpg](http://docmind-api-cn-hangzhou.oss-cn-hangzhou.aliyuncs.com/1648345570663959/publicDocStreamStructure/docmind-20260929-1bfa79a83dcc427da50cc83567d37b98/5049d46f3e54ff875b1b06f7d1e10048.jpeg?Expires=1790692657&OSSAccessKeyId=STS.NY8oS7EZpQZS3Z77jEK1WyMWk&Signature=mi12IUXH3UeNt%2F3bGJ0CpN7CQD8%3D&security-token=CAIS1QJ1q6Ft5B2yfSjIr5qNJOmDqIVR5pi4MXyG02oQR757loj8iTz2IHhMeHVhCe4Ytfs1nmxX7voZlrh6SJtIXleCbMdo9JNJ8A%2BsedJNEQEDC%2BBW5qe%2BEE2%2FVjTZvqaLEcibIfrZfvCyESOm8gZ43br9cxi7QlWhKufnoJV7b9MRLGLaBHg8c7UwHAZ5r9IAPnb8LOukNgWQ4lDdF011oAFx%2BwgdgOadupTGu0aF1wOllL9P%2Bd6vecKeApMybMslYbCcx%2Fdrc6fN6ilU5iVR%2Bb1%2B5K4%2Bom%2Bf4o3MUwcPuErcabaLqoE0Nn14arB%2FF6lPqfn6mbhgs%2FbImsGtk0wQePlPVDRfr0NSPAUKcgnAFqHaFd6TUxylurgEJoN2I%2B5yGjuduFf%2Fn3b1tr2UnSZtE1f0Y8aMs3OxaQz4UPPmm%2Fp9ipE%2Bojulg5zkbjbgTd1ZnhhyZvdUBxqAAamF6NHIXUiBenlZi1XJamzP8HWvekXkDGJ8PKY4ZvF8KZ79%2Bmc2CmAEmWCj5JqNevzIfV2W2qYcrafolkDbiaFtDzzopTy3QaEPVTi%2FQYh0UMyDNy53cT0PNaLD%2Fsy9UQOwPXj4GBl0Fvt9Oak9eeqXT8ciDWLT%2FhVQRku5JpQEIAA%3D)  
+
+# 6.   REACH  
+
+2023年 7月 14日，欧盟委员会发布了法规(EU)2023/1464，正式修订 REACH法规附件 XVII，新增第 77条关于甲醛及甲醛释放物的限制，法规于 2026年 8月 6日起生效。  
+
+•家具及木制品甲醛释放限值：0.062 mg/m³  
+
+•其他物品(纺织品、塑料等)：0.080 mg/m³  
+
+•道路车辆内部空气：0.062 mg/m³（2027年 8月 6日起）  
+
+法规的附录 14新增了室内物品及车辆内部甲醛释放量的测试条件，若无法按照该条件进行检测，则需要与规定测试要求的实验结果建立相关性。  
+
+# 林扬东方专业提供 REACH法规甲醛检测与合规性服务：  
+
+🟥覆盖各类法规包含的消费品  
+
+🟥严格遵循 REACH附录 14统一测试条件  
+
+🟥出具国际认可的检测报告与证书  
+
+🟥助您产品顺利进入欧盟市场，降低贸易风险  
+
+# PARTNERS合作伙伴  
+
+# 1.合作伙伴与全球权威机构共建可持续未来  
+
+长期与 FSC、PEFC、WWF、SA、MPA、Double Helix、KBS、FFG等国际权威机构深度合作，共同推动可持续发展与低碳循环。合作伙伴覆盖全球主流认证体系及第三方权威认证机构，为客户的供应链提供国际公认的信任背书。  
+
+![50f292307972ce2cc65217d16e64de19.jpeg](http://docmind-api-cn-hangzhou.oss-cn-hangzhou.aliyuncs.com/1648345570663959/publicDocStreamStructure/docmind-20260929-1bfa79a83dcc427da50cc83567d37b98/33.png?Expires=1790692658&OSSAccessKeyId=STS.NY8oS7EZpQZS3Z77jEK1WyMWk&Signature=L%2B9Vsl2C4AwQYZc8UstZVzUpe0s%3D&x-oss-process=image%2Fcrop%2Cx_192%2Cy_644%2Cw_1004%2Ch_923&security-token=CAIS1QJ1q6Ft5B2yfSjIr5qNJOmDqIVR5pi4MXyG02oQR757loj8iTz2IHhMeHVhCe4Ytfs1nmxX7voZlrh6SJtIXleCbMdo9JNJ8A%2BsedJNEQEDC%2BBW5qe%2BEE2%2FVjTZvqaLEcibIfrZfvCyESOm8gZ43br9cxi7QlWhKufnoJV7b9MRLGLaBHg8c7UwHAZ5r9IAPnb8LOukNgWQ4lDdF011oAFx%2BwgdgOadupTGu0aF1wOllL9P%2Bd6vecKeApMybMslYbCcx%2Fdrc6fN6ilU5iVR%2Bb1%2B5K4%2Bom%2Bf4o3MUwcPuErcabaLqoE0Nn14arB%2FF6lPqfn6mbhgs%2FbImsGtk0wQePlPVDRfr0NSPAUKcgnAFqHaFd6TUxylurgEJoN2I%2B5yGjuduFf%2Fn3b1tr2UnSZtE1f0Y8aMs3OxaQz4UPPmm%2Fp9ipE%2Bojulg5zkbjbgTd1ZnhhyZvdUBxqAAamF6NHIXUiBenlZi1XJamzP8HWvekXkDGJ8PKY4ZvF8KZ79%2Bmc2CmAEmWCj5JqNevzIfV2W2qYcrafolkDbiaFtDzzopTy3QaEPVTi%2FQYh0UMyDNy53cT0PNaLD%2Fsy9UQOwPXj4GBl0Fvt9Oak9eeqXT8ciDWLT%2FhVQRku5JpQEIAA%3D)  
+
+| MPAIEberswalde|for	tuturegenerations||
+| ---|---|---|
+| https://www.mpaew.de/|https://futuregenerations.com.au/||  
+
+# 2.服务客户  
+
+![8bd1bf2d4b9dd44b619874330a971737.jpeg](http://docmind-api-cn-hangzhou.oss-cn-hangzhou.aliyuncs.com/1648345570663959/publicDocStreamStructure/docmind-20260929-1bfa79a83dcc427da50cc83567d37b98/34.png?Expires=1790692658&OSSAccessKeyId=STS.NY8oS7EZpQZS3Z77jEK1WyMWk&Signature=OSjOAvPJ0PPerD5Amu3pKKO%2FE8Y%3D&x-oss-process=image%2Fcrop%2Cx_92%2Cy_838%2Cw_1170%2Ch_358&security-token=CAIS1QJ1q6Ft5B2yfSjIr5qNJOmDqIVR5pi4MXyG02oQR757loj8iTz2IHhMeHVhCe4Ytfs1nmxX7voZlrh6SJtIXleCbMdo9JNJ8A%2BsedJNEQEDC%2BBW5qe%2BEE2%2FVjTZvqaLEcibIfrZfvCyESOm8gZ43br9cxi7QlWhKufnoJV7b9MRLGLaBHg8c7UwHAZ5r9IAPnb8LOukNgWQ4lDdF011oAFx%2BwgdgOadupTGu0aF1wOllL9P%2Bd6vecKeApMybMslYbCcx%2Fdrc6fN6ilU5iVR%2Bb1%2B5K4%2Bom%2Bf4o3MUwcPuErcabaLqoE0Nn14arB%2FF6lPqfn6mbhgs%2FbImsGtk0wQePlPVDRfr0NSPAUKcgnAFqHaFd6TUxylurgEJoN2I%2B5yGjuduFf%2Fn3b1tr2UnSZtE1f0Y8aMs3OxaQz4UPPmm%2Fp9ipE%2Bojulg5zkbjbgTd1ZnhhyZvdUBxqAAamF6NHIXUiBenlZi1XJamzP8HWvekXkDGJ8PKY4ZvF8KZ79%2Bmc2CmAEmWCj5JqNevzIfV2W2qYcrafolkDbiaFtDzzopTy3QaEPVTi%2FQYh0UMyDNy53cT0PNaLD%2Fsy9UQOwPXj4GBl0Fvt9Oak9eeqXT8ciDWLT%2FhVQRku5JpQEIAA%3D)  
+
+Contacts联系林扬  
+
+![4f820fbbea55a1ded222b6009c7c7cfc.jpg](http://docmind-api-cn-hangzhou.oss-cn-hangzhou.aliyuncs.com/1648345570663959/publicDocStreamStructure/docmind-20260929-1bfa79a83dcc427da50cc83567d37b98/4f820fbbea55a1ded222b6009c7c7cfc.jpeg?Expires=1790692657&OSSAccessKeyId=STS.NY8oS7EZpQZS3Z77jEK1WyMWk&Signature=lWOj9%2BqEj6BG40AjDY%2BFfzeztpk%3D&security-token=CAIS1QJ1q6Ft5B2yfSjIr5qNJOmDqIVR5pi4MXyG02oQR757loj8iTz2IHhMeHVhCe4Ytfs1nmxX7voZlrh6SJtIXleCbMdo9JNJ8A%2BsedJNEQEDC%2BBW5qe%2BEE2%2FVjTZvqaLEcibIfrZfvCyESOm8gZ43br9cxi7QlWhKufnoJV7b9MRLGLaBHg8c7UwHAZ5r9IAPnb8LOukNgWQ4lDdF011oAFx%2BwgdgOadupTGu0aF1wOllL9P%2Bd6vecKeApMybMslYbCcx%2Fdrc6fN6ilU5iVR%2Bb1%2B5K4%2Bom%2Bf4o3MUwcPuErcabaLqoE0Nn14arB%2FF6lPqfn6mbhgs%2FbImsGtk0wQePlPVDRfr0NSPAUKcgnAFqHaFd6TUxylurgEJoN2I%2B5yGjuduFf%2Fn3b1tr2UnSZtE1f0Y8aMs3OxaQz4UPPmm%2Fp9ipE%2Bojulg5zkbjbgTd1ZnhhyZvdUBxqAAamF6NHIXUiBenlZi1XJamzP8HWvekXkDGJ8PKY4ZvF8KZ79%2Bmc2CmAEmWCj5JqNevzIfV2W2qYcrafolkDbiaFtDzzopTy3QaEPVTi%2FQYh0UMyDNy53cT0PNaLD%2Fsy9UQOwPXj4GBl0Fvt9Oak9eeqXT8ciDWLT%2FhVQRku5JpQEIAA%3D)  
+
+East Inflink(Beij ing) Science& Technology Co., Ltd  
+
+Tel:+86(0) 010 5094 3499  
+
+Tel:+86(0) 185 1451 5612  
+
+Email: east@inflink.cn  
+
+Add: C733, Building 33, No. 99 Kechuang14th Street, BDA Zone, Beij ing,100176  
+

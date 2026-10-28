@@ -1,0 +1,112 @@
+.ali-player-frame {
+  isolation: isolate;
+  overflow: hidden;
+  position: relative;
+}
+
+.ali-player-mount,
+.ali-player-mount .prism-player {
+  height: 100%;
+  width: 100%;
+}
+
+.course-user-watermark {
+  animation: course-user-watermark-flight 23s linear infinite;
+  color: rgb(255 255 255 / 62%);
+  font-size: 11px;
+  font-weight: 600;
+  left: 3%;
+  letter-spacing: 0.04em;
+  pointer-events: none;
+  position: absolute;
+  text-shadow: 0 1px 3px rgb(0 0 0 / 90%), 0 0 5px rgb(0 0 0 / 65%);
+  top: 8%;
+  user-select: none;
+  white-space: nowrap;
+  z-index: 40;
+}
+
+.ali-player-status,
+.ali-player-error {
+  background: rgb(0 0 0 / 72%);
+  border-radius: 0.375rem;
+  color: white;
+  font-size: 0.875rem;
+  left: 50%;
+  padding: 0.5rem 0.75rem;
+  pointer-events: none;
+  position: absolute;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 50;
+}
+
+.ali-player-error {
+  background: rgb(127 29 29 / 90%);
+}
+
+@keyframes course-user-watermark-flight {
+  0% {
+    left: 3%;
+    top: 8%;
+  }
+
+  24% {
+    left: 56%;
+    top: 18%;
+  }
+
+  51% {
+    left: 54%;
+    top: 68%;
+  }
+
+  76% {
+    left: 4%;
+    top: 68%;
+  }
+
+  100% {
+    left: 3%;
+    top: 8%;
+  }
+}
+
+@media (max-width: 640px) {
+  .course-user-watermark {
+    font-size: 9px;
+  }
+
+  @keyframes course-user-watermark-flight {
+    0% {
+      left: 3%;
+      top: 8%;
+    }
+
+    24% {
+      left: 45%;
+      top: 18%;
+    }
+
+    51% {
+      left: 43%;
+      top: 68%;
+    }
+
+    76% {
+      left: 3%;
+      top: 68%;
+    }
+
+    100% {
+      left: 3%;
+      top: 8%;
+    }
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .course-user-watermark {
+    animation-duration: 60s;
+  }
+}

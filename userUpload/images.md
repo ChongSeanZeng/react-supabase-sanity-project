@@ -1,0 +1,43 @@
+# 用户上传的图片
+
+格式：- 时间  文件名  URL
+
+- 2026-09-29 10:37:29  media-png-d180808d-ccac-4d4d-a51e-333eff7fa04e  https://material-image.wanwang.xin/1785116144825093/WS20260929103722000001/446713b7-f907-49e8-a59c-11d6b9531224.png
+- 2026-09-29 11:07:00  client-logos.png  /assets/client-logos.png  [Logo]  Word服务客户Logo合集图，用于Partners客户区
+- 2026-09-29 11:09:00  fsc-license.png  /assets/fsc-license.png  [资质]  FSC宣传许可证书图（N002971）
+- 2026-09-29 11:20:00  milestone-timeline.jpg  已弃用  [其他]  Word历程图，清晰度不足，改用代码动画时间轴
+- 2026-09-29 11:20:00  qualifications.png  已弃用  [资质]  Word资质授权拼图原图，已被6张独立证书实拍图替换
+- 2026-09-29 12:37:00  logo.png  /assets/logo.png  [Logo]  公司官方Logo（LInk 林扬绿创圆形标），用于Header/Footer/浏览器图标
+- 2026-09-29 13:05:00  showcase-1.png  /assets/showcase-1.png  [团队]  团队海外项目合影，首屏轮播图1
+- 2026-09-29 13:05:00  showcase-2.jpg  /assets/showcase-2.jpg  [团队]  FSC中国绿色供应链对接会合影，首屏轮播图2
+- 2026-09-29 13:05:00  showcase-3.jpg  /assets/showcase-3.jpg  [素材]  对接会现场握手交流，首屏轮播图3
+- 2026-09-29 13:05:00  showcase-4.png  /assets/showcase-4.png  [素材]  林地核查与坐标绘制拼图，首屏轮播图4
+- 2026-09-29 13:36:00  forestry-talk.png  /assets/forestry-talk.png  [素材]  可持续木制家具项目主题分享实拍，林业咨询轮播图1
+- 2026-09-29 12:31:37  media-png-56f4e018-e869-4565-afcc-0eda8f487ce9  https://material-image.wanwang.xin/1785116144825093/WS20260929103722000001/bbfd93eb-17b9-4ea4-9b4b-5ed528f0ccc0.png
+- 2026-09-29 12:36:24  media-png-46da7bfe-7446-4e5c-93d4-46ab02d417de  https://material-image.wanwang.xin/1785116144825093/WS20260929103722000001/4410f385-703a-469a-bbcb-9809b08958f7.png
+- 2026-09-29 13:01:55  media-png-d017014d-cddf-4ab9-87de-e2a6a60560c3  https://material-image.wanwang.xin/1785116144825093/WS20260929103722000001/6a6fb089-4def-43c4-ab61-8224405b845f.png
+- 2026-09-29 13:01:55  media-jpeg-100f1b2f-4e6c-4743-ba09-9dc34439c817  https://material-image.wanwang.xin/1785116144825093/WS20260929103722000001/73fc7e77-c2ee-42db-ad2a-7c7c6ad9ea4c.jpg
+- 2026-09-29 13:01:55  media-jpeg-5a531036-d6a8-49ef-b9f6-f0df117d6b9d  https://material-image.wanwang.xin/1785116144825093/WS20260929103722000001/3755a6d0-1ab6-48ba-811d-e050647421b0.jpg
+- 2026-09-29 13:01:55  media-png-14fabd48-8e51-4de4-9183-0269591dcbdb  https://material-image.wanwang.xin/1785116144825093/WS20260929103722000001/647141e3-6bdd-47bb-9a3f-bde929324e4c.png
+- 2026-09-29 13:35:55  media-png-e32d7309-4fb7-4743-bcd2-36cf3be4f9f4  https://material-image.wanwang.xin/1785116144825093/WS20260929103722000001/768d5d04-2b9c-49eb-ab7c-b838acb03d1e.png
+- 2026-09-29 13:43:47  media-jpeg-0d050419-91dc-4ae4-9696-b1723d456d09  /assets/forestry-1.jpg  [素材]  行业大会现场演示交易码系统实拍，林业咨询轮播图1
+- 2026-09-29 13:43:47  media-png-4cd9e325-e9b1-4bda-8981-2d89ba373903  /assets/forestry-2.png  [团队]  项目团队大会舞台点赞合影，林业咨询轮播图2
+- 2026-09-29 13:43:47  media-png-e6362e9a-7706-4e91-a69b-8cd8ece8319a  /assets/forestry-talk.png  [素材]  可持续木制家具项目分享实拍，与既有forestry-talk同图复用，林业咨询轮播图3
+- 2026-09-29 13:43:47  media-jpeg-5ec49270-276f-48f4-95e9-04dfd2406975  /assets/forestry-4.jpg  [素材]  DDS追溯体系构建主题演讲实拍，林业咨询轮播图4
+- 2026-09-29 13:43:47  media-jpeg-fc3587e6-24c6-480e-873e-815de8978daa  /assets/forestry-5.jpg  [素材]  活动现场签到处接待实拍，林业咨询轮播图5
+- 2026-09-29 14:04:16  media-jpeg-80fb0fec-e562-42d6-9ce9-82620bca76bb  /assets/verify-1.jpg  [素材]  桉树人工林采伐地现场核查实拍，符合性验证轮播图1
+- 2026-09-29 14:04:16  media-jpeg-b787e4f0-3758-44b6-916d-9aa0a02a172b  /assets/verify-2.jpg  [素材]  人造板工厂生产现场抽样验证实拍，符合性验证轮播图2
+- 2026-09-29 14:04:16  media-jpeg-056c0172-4ba6-487e-8a81-85135fe7bb2b  /assets/verify-3.jpg  [素材]  回收木材原料堆场来源核查实拍，符合性验证轮播图3
+- 2026-09-29 14:04:16  media-jpeg-fa7eae48-10b4-45fb-80d9-a09a07224cf9  /assets/verify-4.jpg  [素材]  山地林地坐标绘制与文件核对实拍，符合性验证轮播图4
+- 2026-09-29 14:04:16  media-png-66dc620f-9923-4dc8-b177-9c292777b9a8  已弃用  [参考截图]  符合性验证页红框位置示意，仅用于定位轮播图插入点
+- 2026-09-29 14:16:47  media-jpeg-d14e25d4-bb5b-46d1-bbbf-6aad3f48522f  /assets/cert-1.jpg  [资质]  国家级高新技术企业证书实拍，资质墙图1
+- 2026-09-29 14:16:47  media-png-b9703f19-d931-4270-9920-e8dbb7daa2a6  /assets/cert-2.png  [资质]  CARB/EPA业务授权证书实拍，资质墙图2
+- 2026-09-29 14:16:47  media-png-7d4dd59a-6019-4f30-9f7c-ef3b36abf1ca  /assets/cert-3.png  [资质]  CE业务授权证书实拍，资质墙图3
+- 2026-09-29 14:16:47  media-png-a2f7d324-e205-4219-abdd-0a9eb2c20f4e  /assets/cert-4.png  [资质]  VCS业务授权证书实拍，资质墙图4
+- 2026-09-29 14:16:47  media-png-fc859b05-baaf-4388-8bb5-3d7dde434132  /assets/cert-5.png  [资质]  木链计划绿色低碳战略合作伙伴牌匾实拍，资质墙图5
+- 2026-09-29 14:16:47  media-png-cc174c27-ad58-4643-8158-082a9a162441  /assets/cert-6.png  [资质]  中国木材与木制品流通协会科学技术奖证书实拍，资质墙图6
+- 2026-09-29 14:43:23  media-jpeg-6fe263bc-c296-465c-b9b8-bb2eca70baf6  /assets/training-1.jpg  [素材]  FSC审核员培训课程现场实拍，培训页轮播图1
+- 2026-09-29 14:43:23  media-jpeg-a359b5f4-b74d-4745-8d75-dd2ab02c8d4a  /assets/training-2.jpg  [素材]  认证机构合作小班研讨课堂实拍，培训页轮播图2
+- 2026-09-29 14:43:23  media-jpeg-732fde09-a3c3-447d-a33c-d33358d780f0  /assets/training-3.jpg  [素材]  企业内训课堂讲解EUDR法规实拍，培训页轮播图3
+- 2026-09-29 14:43:23  media-jpeg-7de68eb6-bef6-422a-85d4-148572b01087  /assets/training-4.jpg  [素材]  EUDR核心内容解读公开课实拍，培训页轮播图4
+- 2026-09-29 14:43:23  media-jpeg-d7617c27-2d37-4cae-ae14-ce2326288146  /assets/training-5.jpg  [素材]  学员分组审核策划练习实拍，培训页轮播图5
