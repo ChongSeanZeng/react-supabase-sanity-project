@@ -16,6 +16,8 @@ interface AuthContextValue {
   user: User | null
   role: UserRole | null
   disabled: boolean
+  isPasswordSetupRequired: boolean
+  isPasswordRecovery: boolean
   loading: boolean
   error: string | null
   signInWithEmail: (email: string, password: string) => Promise<void>
@@ -31,6 +33,8 @@ export function AuthProvider({ children }: { children: ReactNode }) {
   const [session, setSession] = useState<Session | null>(null)
   const [role, setRole] = useState<UserRole | null>(null)
   const [disabled, setDisabled] = useState(false)
+  const [isPasswordSetupRequired, setIsPasswordSetupRequired] = useState(false)
+  const [isPasswordRecovery, setIsPasswordRecovery] = useState(false)
   const [loading, setLoading] = useState(true)
   const [error, setError] = useState<string | null>(null)
 
@@ -38,7 +42,7 @@ export function AuthProvider({ children }: { children: ReactNode }) {
     if (!supabase) return
     const { data, error: profileError } = await supabase
       .from("profiles")
-      .select("role, disabled_at")
+      .select("role, disabled_at, password_setup_required")
       .eq("id", userId)
       .single()
 
@@ -50,6 +54,7 @@ export function AuthProvider({ children }: { children: ReactNode }) {
     }
     setRole(data.role)
     setDisabled(Boolean(data.disabled_at))
+    setIsPasswordSetupRequired(Boolean(data.password_setup_required))
   }, [])
 
   useEffect(() => {
@@ -59,15 +64,19 @@ export function AuthProvider({ children }: { children: ReactNode }) {
     }
 
     let active = true
-    const { data: authListener } = supabase.auth.onAuthStateChange((_event, nextSession) => {
+    const { data: authListener } = supabase.auth.onAuthStateChange((event, nextSession) => {
       setSession(nextSession)
       setError(null)
+      if (event === "PASSWORD_RECOVERY") setIsPasswordRecovery(true)
+      else if (event === "SIGNED_IN" || event === "SIGNED_OUT") setIsPasswordRecovery(false)
       if (!nextSession) {
+        setIsPasswordSetupRequired(false)
         setRole(null)
         setDisabled(false)
         setLoading(false)
         return
       }
+      setLoading(true)
       setDisabled(false)
       window.setTimeout(() => {
         if (active) void loadRole(nextSession.user.id).finally(() => setLoading(false))
@@ -113,11 +122,43 @@ export function AuthProvider({ children }: { children: ReactNode }) {
 
   const updatePassword = useCallback(async (password: string) => {
     if (!supabase) throw new Error("Supabase 尚未配置，请联系管理员。")
-    const { error: updateError } = await supabase.auth.updateUser({
-      password,
-    })
-    if (updateError) throw updateError
-  }, [])
+    if (isPasswordSetupRequired) {
+      const { data, error: completionError } = await supabase.functions.invoke(
+        "complete-student-invitation",
+        { body: { password } },
+      )
+      if (completionError) {
+        let responseMessage: string | null = null
+        const context = "context" in completionError ? completionError.context : null
+        if (context instanceof Response) {
+          try {
+            const responseBody: unknown = await context.clone().json()
+            if (
+              responseBody
+              && typeof responseBody === "object"
+              && "error" in responseBody
+              && typeof responseBody.error === "string"
+            ) {
+              responseMessage = responseBody.error
+            }
+          } catch {
+            // Use the Functions SDK error when the response is not JSON.
+          }
+        }
+        throw new Error(responseMessage ?? completionError.message)
+      }
+      if (data?.completed !== true) {
+        throw new Error(typeof data?.error === "string" ? data.error : "无法完成邀请密码设置。")
+      }
+      setIsPasswordSetupRequired(false)
+    } else {
+      const { error: updateError } = await supabase.auth.updateUser({
+        password,
+      })
+      if (updateError) throw updateError
+    }
+    setIsPasswordRecovery(false)
+  }, [isPasswordSetupRequired])
 
   const verifyCode = useCallback(async (phone: string, code: string) => {
     if (!supabase) throw new Error("Supabase 尚未配置，请联系管理员。")
@@ -142,6 +183,8 @@ export function AuthProvider({ children }: { children: ReactNode }) {
         user: session?.user ?? null,
         role,
         disabled,
+        isPasswordSetupRequired,
+        isPasswordRecovery,
         loading,
         error: error ?? (supabaseConfigured ? null : "请配置 Supabase URL 与 publishable key。"),
         signInWithEmail,

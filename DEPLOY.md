@@ -107,31 +107,36 @@ Configure SMTP and set the deployed site's `/login` URL under
 Deploy the invite function and configure its server environment:
 
 ```powershell
-bunx supabase@latest functions deploy invite-student
-bunx supabase@latest secrets set 'APP_SITE_URL=https://your-site-domain' 'APP_ALLOWED_ORIGINS=https://your-site-domain'
+bun x supabase@latest db push
+bun x supabase@latest functions deploy invite-student
+bun x supabase@latest functions deploy complete-student-invitation
+bun x supabase@latest secrets set 'APP_SITE_URL=https://your-site-domain' 'APP_ALLOWED_ORIGINS=https://your-site-domain'
 ```
 
 The function checks the caller's Supabase session and `profiles.role` before
 using the server-only `SUPABASE_SERVICE_ROLE_KEY`. Email invitations are sent
 through Supabase Auth SMTP. Phone invitations create an unconfirmed phone user;
-the learner then signs in with an OTP, which requires the Send SMS Hook below
-to be deployed and configured. Creating the phone account does not itself send
-an SMS.
+the learner receives an SMS invitation link with their phone number prefilled,
+then requests an OTP to sign in. The invitation SMS uses a separate approved
+Aliyun template from the OTP SMS.
 Set `APP_ALLOWED_ORIGINS` to a comma-separated list of exact site origins when
 the app has more than one domain (for example production and preview URLs).
 For local testing, include `http://localhost:5173` in that list.
 Never expose the service role key to the browser. Invitees follow the Supabase
-email link to `/login`; while signed in, they can use **设置或更改登录密码**
-to set their password and then sign in normally. Pending/activated status and
-email addresses are shown in the admin learner list.
+email link to `/login` and must set a password before accessing the course.
+The `complete-student-invitation` function validates the invited learner's
+session, sets the password with the service role, and only then clears the
+database access gate. Phone learners continue to use SMS verification codes
+without a password. Pending/activated status and email addresses are shown in
+the admin learner list.
 
 To enable learner profile editing and account deactivation, apply the
 `20261022090000_student_account_management.sql` migration and deploy the
 management function:
 
 ```powershell
-bunx supabase@latest db push
-bunx supabase@latest functions deploy manage-student
+bun x supabase@latest db push
+bun x supabase@latest functions deploy manage-student
 ```
 
 Admins can edit a learner's name and login email/phone, or deactivate and
@@ -144,16 +149,20 @@ before using the server-only service role key.
 Phone login uses a Supabase Send SMS Hook to deliver OTPs through Aliyun:
 
 1. In the Aliyun SMS console, activate SMS, configure an approved SMS signature
-   and an approved template whose verification-code placeholder is `${code}`.
+   and two approved templates: an OTP template with the verification-code
+   placeholder `${code}`, and an invitation template with a link placeholder
+   `${link}`. Confirm Aliyun permits the invitation URL in the approved
+   template, including the site's `/login?phone=...` query string.
    Create a RAM user/access key limited to the SMS send action. Keep its secret
    out of browser variables and source control.
 2. Deploy the included Edge Function. From the repository root, set the
    function secrets in the Supabase Dashboard under **Edge Functions →
    Secrets**: `SEND_SMS_HOOK_SECRETS` (the hook signing secret),
    `ALIYUN_ACCESS_KEY_ID`, `ALIYUN_ACCESS_KEY_SECRET`,
-   `ALIYUN_SMS_SIGN_NAME`, `ALIYUN_SMS_TEMPLATE_CODE`, and optionally
-   `ALIYUN_SMS_ENDPOINT` (defaults to `dysmsapi.aliyuncs.com`; choose the
-   endpoint documented for your Aliyun SMS product/region).
+   `ALIYUN_SMS_SIGN_NAME`, `ALIYUN_SMS_TEMPLATE_CODE` (OTP template),
+   `ALIYUN_SMS_INVITE_TEMPLATE_CODE` (phone invitation template), and
+   optionally `ALIYUN_SMS_ENDPOINT` (defaults to `dysmsapi.aliyuncs.com`; choose
+   the endpoint documented for your Aliyun SMS product/region).
 3. In **Authentication → Hooks**, add an HTTP **Send SMS** hook pointing to
    `https://<project-ref>.supabase.co/functions/v1/send-sms-hook`. Generate a
    webhook signing secret, save it as `SEND_SMS_HOOK_SECRETS` above, and enable
@@ -163,7 +172,7 @@ Phone login uses a Supabase Send SMS Hook to deliver OTPs through Aliyun:
    Supabase Auth Hook signature itself:
 
    ```powershell
-   bunx supabase@latest functions deploy send-sms-hook --no-verify-jwt
+   bun x supabase@latest functions deploy send-sms-hook --no-verify-jwt
    ```
 
 5. In **Authentication → Hooks → Send SMS**, choose the deployed HTTP function,
@@ -180,10 +189,14 @@ Phone login uses a Supabase Send SMS Hook to deliver OTPs through Aliyun:
    records if a message fails.
 
 The HTTP function is at `supabase/functions/send-sms-hook/index.ts`. It sends
-the OTP as the Aliyun template parameter `{ "code": "<OTP>" }`. Mainland China
-and international destinations may require different Aliyun SMS products,
-endpoints, signatures, templates, and destination allowlists. Confirm the
-account's permitted region/product in Aliyun before production use.
+the OTP as the Aliyun template parameter `{ "code": "<OTP>" }`. The
+`invite-student` function sends phone invitations using the separate template
+parameter `{ "link": "<site URL with phone prefilled>" }`; if Aliyun rejects
+the send, it removes the newly created phone account so the administrator can
+correct the configuration and retry. Mainland China and international
+destinations may require different Aliyun SMS products, endpoints, signatures,
+templates, and destination allowlists. Confirm the account's permitted
+region/product in Aliyun before production use.
 
 To create the requested phone-based accounts after the Aliyun SMS hook is
 configured, the first administrator account must be bootstrapped by a project

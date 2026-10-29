@@ -6,6 +6,7 @@ import { PhoneLogin } from "@/components/learning/PhoneLogin"
 import { useAuth } from "@/components/learning/AuthProvider"
 import { supabase } from "@/lib/supabase"
 import { isValidInternationalPhoneNumber, normalizePhoneNumber } from "@/lib/phone"
+import { useLanguage } from "@/i18n"
 
 interface ProfileRow {
   id: string
@@ -52,6 +53,7 @@ interface CertificateRow {
 
 function AdminDashboard() {
   const { user, signOut } = useAuth()
+  const { language } = useLanguage()
   const [profiles, setProfiles] = useState<ProfileRow[]>([])
   const [attempts, setAttempts] = useState<AttemptSummary[]>([])
   const [selectedAttempt, setSelectedAttempt] = useState<AttemptRow | null>(null)
@@ -298,8 +300,10 @@ function AdminDashboard() {
         return
       }
       setNotice(data.method === "phone"
-        ? `手机号 ${phone} 的学员账号已创建。学员可使用该手机号接收验证码并登录。`
-        : `Supabase 已接受发往 ${email} 的邀请请求。若未收到邮件，请检查垃圾邮件并确认 Supabase Auth SMTP 配置。`)
+        ? language === "en"
+          ? `An SMS invitation was sent to ${phone}. The link opens the phone sign-in page with the number prefilled.`
+          : `已向手机号 ${phone} 发送短信邀请。学员点击链接后，页面会预填手机号，再点击发送验证码登录。`
+        : `Supabase 已接受发往 ${email} 的邀请请求。学员点击邮件链接后需先设置登录密码。若未收到邮件，请检查垃圾邮件并确认 Supabase Auth SMTP 配置。`)
       setInviteEmail("")
       setInvitePhone("+86")
       setInviteName("")
@@ -452,7 +456,11 @@ function AdminDashboard() {
           <button className="self-end rounded-lg bg-forest px-5 py-2.5 text-sm font-semibold text-white disabled:opacity-60" disabled={inviting} type="submit">
             {inviting ? "正在发送…" : "邀请学员"}
           </button>
-          <p className="text-xs leading-5 text-inksoft md:col-span-4">邮箱和手机号填写其中一项。邮箱学员通过邀请邮件激活；手机号学员可在账号创建后使用短信验证码登录。</p>
+          <p className="text-xs leading-5 text-inksoft md:col-span-4">
+            {language === "en"
+              ? "Enter either an email or a phone number. Email invitees must set a password first; phone invitees receive an SMS link and sign in with a verification code."
+              : "邮箱和手机号填写其中一项。邮箱学员点击邀请邮件链接后必须先设置密码；手机号学员会收到短信链接，并使用短信验证码登录。"}
+          </p>
         </form>
         <div className="mt-4 grid gap-3 rounded-xl border border-line bg-white p-4 md:grid-cols-[minmax(220px,1fr)_auto_auto]">
           <label className="text-sm font-medium text-forest" htmlFor="student-search">
@@ -686,6 +694,7 @@ function AdminDashboard() {
 
 export default function Admin() {
   const { user, role } = useAuth()
+  const { t } = useLanguage()
   return (
     <>
       <PageMeta title="管理员登录 | 林扬东方课程" description="林扬东方在线课程管理员入口。" />
@@ -693,8 +702,8 @@ export default function Admin() {
         <main className="mx-auto max-w-lg px-5 py-16 md:py-24">
           <div className="rounded-2xl border border-line bg-white p-7 shadow-sm md:p-10">
             <p className="text-xs font-bold uppercase tracking-[0.18em] text-moss">Admin access</p>
-            <h1 className="mt-3 text-3xl font-bold text-forest">管理员入口</h1>
-            <p className="mt-3 text-sm leading-7 text-inksoft">管理员可用邮箱密码或已授权手机号登录。账号还必须由 Supabase 管理员授予管理员角色。</p>
+            <h1 className="mt-3 text-3xl font-bold text-forest">{t("管理员入口")}</h1>
+            <p className="mt-3 text-sm leading-7 text-inksoft">{t("管理员可用邮箱密码或已授权手机号登录。账号还必须由 Supabase 管理员授予管理员角色。")}</p>
             <div className="mt-7"><PhoneLogin admin /></div>
           </div>
         </main>

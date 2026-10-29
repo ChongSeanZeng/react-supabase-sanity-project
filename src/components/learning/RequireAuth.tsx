@@ -4,7 +4,7 @@ import { useLanguage } from "@/i18n"
 import { localizedPath } from "@/lib/localized-path"
 
 export function RequireAuth({ children, role }: { children: React.ReactNode; role?: "admin" }) {
-  const { user, role: currentRole, disabled, loading, error, signOut } = useAuth()
+  const { user, role: currentRole, disabled, isPasswordSetupRequired, loading, error, signOut } = useAuth()
   const location = useLocation()
   const { language } = useLanguage()
 
@@ -24,6 +24,9 @@ export function RequireAuth({ children, role }: { children: React.ReactNode; rol
         <button className="mt-4 rounded-lg border border-line px-4 py-2 text-sm font-semibold text-forest" onClick={() => void signOut()} type="button">退出登录</button>
       </main>
     )
+  }
+  if (isPasswordSetupRequired) {
+    return <Navigate to={localizedPath("/login", language)} replace state={{ from: location.pathname }} />
   }
   if (role && currentRole !== role) {
     return <main className="mx-auto max-w-3xl px-5 py-20 text-center text-red-700">当前账号没有管理员权限。</main>

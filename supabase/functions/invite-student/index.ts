@@ -1,4 +1,5 @@
 import { createClient } from "npm:@supabase/supabase-js@2"
+import { sendAliyunSms } from "../_shared/aliyun-sms.ts"
 
 interface InviteRequest {
   email?: unknown
@@ -88,6 +89,37 @@ Deno.serve(async (request: Request) => {
     console.error("Student invite function is missing required server configuration.")
     return jsonResponse({ error: "邀请服务尚未配置，请联系系统管理员。" }, 503, origin)
   }
+  let siteUrl: URL
+  try {
+    siteUrl = new URL(appSiteUrl)
+  } catch {
+    console.error("Student invite function has an invalid APP_SITE_URL.")
+    return jsonResponse({ error: "邀请服务站点地址配置无效，请联系系统管理员。" }, 503, origin)
+  }
+
+  let smsConfig: {
+    accessKeyId: string
+    accessKeySecret: string
+    signName: string
+    templateCode: string
+    endpoint: string
+  } | null = null
+  if (phone) {
+    const accessKeyId = Deno.env.get("ALIYUN_ACCESS_KEY_ID")
+    const accessKeySecret = Deno.env.get("ALIYUN_ACCESS_KEY_SECRET")
+    const signName = Deno.env.get("ALIYUN_SMS_SIGN_NAME")
+    const templateCode = Deno.env.get("ALIYUN_SMS_INVITE_TEMPLATE_CODE")
+    const endpoint = Deno.env.get("ALIYUN_SMS_ENDPOINT") ?? "dysmsapi.aliyuncs.com"
+    if (!accessKeyId || !accessKeySecret || !signName || !templateCode) {
+      console.error("Phone invitation is missing Aliyun SMS configuration.")
+      return jsonResponse({ error: "手机号短信邀请尚未配置，请联系系统管理员。" }, 503, origin)
+    }
+    if (!/^[A-Za-z0-9.-]+$/.test(endpoint) || !endpoint.endsWith(".aliyuncs.com")) {
+      console.error("Phone invitation has an invalid Aliyun SMS endpoint.")
+      return jsonResponse({ error: "手机号短信邀请服务配置无效，请联系系统管理员。" }, 503, origin)
+    }
+    smsConfig = { accessKeyId, accessKeySecret, signName, templateCode, endpoint }
+  }
 
   const adminClient = createClient(supabaseUrl, serviceRoleKey, {
     auth: { autoRefreshToken: false, persistSession: false },
@@ -112,8 +144,11 @@ Deno.serve(async (request: Request) => {
 
   if (email) {
     const { error: inviteError } = await adminClient.auth.admin.inviteUserByEmail(email, {
-      data: displayName ? { display_name: displayName } : {},
-      redirectTo: `${appSiteUrl.replace(/\/$/, "")}/login`,
+      data: {
+        ...(displayName ? { display_name: displayName } : {}),
+        requires_password_setup: true,
+      },
+      redirectTo: new URL("/login", siteUrl).toString(),
     })
     if (inviteError) {
       console.error("Supabase rejected a learner email invitation.", {
@@ -130,7 +165,7 @@ Deno.serve(async (request: Request) => {
     return jsonResponse({ invited: true, method: "email" }, 200, origin)
   }
 
-  const { error: createError } = await adminClient.auth.admin.createUser({
+  const { data: createData, error: createError } = await adminClient.auth.admin.createUser({
     phone,
     phone_confirm: false,
     user_metadata: displayName ? { display_name: displayName } : {},
@@ -146,6 +181,29 @@ Deno.serve(async (request: Request) => {
     }, createError.status && createError.status >= 400 && createError.status < 600
       ? createError.status
       : 400, origin)
+  }
+
+  const invitationUrl = new URL("/login", siteUrl)
+  invitationUrl.searchParams.set("phone", phone)
+  try {
+    if (!smsConfig) throw new Error("Phone invitation SMS configuration is missing.")
+    await sendAliyunSms({
+      ...smsConfig,
+      phone,
+      templateParam: { link: invitationUrl.toString() },
+    })
+  } catch (smsError) {
+    const { error: deleteError } = await adminClient.auth.admin.deleteUser(createData.user.id)
+    if (deleteError) {
+      console.error("Unable to roll back phone learner account after invitation SMS failure.", deleteError.message)
+      return jsonResponse({
+        error: "学员账号已创建，但邀请短信发送失败且账号清理失败。请联系系统管理员处理。",
+      }, 502, origin)
+    }
+    console.error("Unable to send phone learner invitation SMS.", smsError)
+    return jsonResponse({
+      error: "邀请短信发送失败，学员账号已回滚。请检查短信服务配置后重试。",
+    }, 502, origin)
   }
 
   return jsonResponse({ invited: true, method: "phone" }, 200, origin)
