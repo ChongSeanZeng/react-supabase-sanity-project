@@ -22,7 +22,7 @@ begin
     new.email,
     nullif(new.raw_user_meta_data ->> 'display_name', ''),
     new.confirmed_at,
-    new.raw_user_meta_data ->> 'requires_password_setup' = 'true'
+    coalesce(new.raw_user_meta_data ->> 'requires_password_setup' = 'true', false)
   )
   on conflict (id) do update
     set phone = excluded.phone,
