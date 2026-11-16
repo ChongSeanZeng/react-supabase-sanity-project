@@ -48,9 +48,14 @@ Deno.serve(async (request: Request) => {
     return jsonError("Invalid SMS hook signature.", 401)
   }
 
-  const phone = event.user?.phone
+  const rawPhone = event.user?.phone
+  const phone = typeof rawPhone === "string" ? rawPhone.replace(/^\+/, "") : ""
   const otp = event.sms?.otp
-  if (!phone || !/^\+[1-9]\d{6,14}$/.test(phone) || !otp || !/^\d{6}$/.test(otp)) {
+  if (
+    !/^[1-9]\d{1,14}$/.test(phone)
+    || typeof otp !== "string"
+    || !/^\d{6}$/.test(otp)
+  ) {
     return jsonError("Invalid phone number or one-time code.", 400)
   }
 

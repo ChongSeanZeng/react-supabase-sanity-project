@@ -167,7 +167,7 @@ Deno.serve(async (request: Request) => {
 
   const { data: createData, error: createError } = await adminClient.auth.admin.createUser({
     phone,
-    phone_confirm: false,
+    phone_confirm: true,
     user_metadata: displayName ? { display_name: displayName } : {},
   })
   if (createError) {

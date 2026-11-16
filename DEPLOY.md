@@ -115,10 +115,13 @@ bun x supabase@latest secrets set 'APP_SITE_URL=https://your-site-domain' 'APP_A
 
 The function checks the caller's Supabase session and `profiles.role` before
 using the server-only `SUPABASE_SERVICE_ROLE_KEY`. Email invitations are sent
-through Supabase Auth SMTP. Phone invitations create an unconfirmed phone user;
-the learner receives the approved invitation SMS without a URL, opens the site
-and enters their phone number to request an OTP. The invitation SMS uses a
-separate approved Aliyun template from the OTP SMS. Set
+through Supabase Auth SMTP. Phone invitations create a phone-confirmed Auth
+user so OTP login works while public signups remain disabled; the learner still
+needs to receive and enter an OTP to sign in. The Auth confirmation flag is set
+at invitation time, before the learner proves phone ownership with OTP. The
+learner receives the approved invitation SMS without a URL, opens the site and
+enters their phone number to request an OTP. The invitation SMS uses a separate
+approved Aliyun template from the OTP SMS. Set
 `ALIYUN_SMS_INVITE_TEMPLATE_CODE` to the code for the approved template whose
 content is `尊敬的学员您好，欢迎使用验证码自助登录林扬东方官网。`.
 Set `APP_ALLOWED_ORIGINS` to a comma-separated list of exact site origins when
@@ -180,15 +183,12 @@ Phone login uses a Supabase Send SMS Hook to deliver OTPs through Aliyun:
 5. In **Authentication → Hooks → Send SMS**, choose the deployed HTTP function,
    paste its URL, and save the same webhook secret in the hook configuration and
    `SEND_SMS_HOOK_SECRETS`. Enable the hook before testing.
-6. Enable Phone sign-in in **Authentication → Providers → Phone**. If the
-   Dashboard still insists on a built-in provider key, do not enter an Aliyun
-   key into that unrelated field: first save the Send SMS Hook, then reload the
-   provider page and check the current Supabase project/plan UI. A hook overrides
-   SMS delivery, but a Dashboard flow that requires a built-in provider may
-   still require one of Supabase's supported provider configurations. Check the
-   Supabase Auth logs for the exact configuration error. Test with an E.164
-   phone number and check both Edge Function logs and Aliyun SMS delivery
-   records if a message fails.
+6. Enable Phone sign-in in **Authentication → Providers → Phone**. When the
+   Send SMS Hook is enabled, the built-in SMS provider settings are disabled;
+   this is expected because the hook replaces the built-in sender. Do not enter
+   Aliyun credentials into a built-in provider's fields. Test with an E.164
+   phone number and check Supabase Auth logs first, then Edge Function logs and
+   Aliyun SMS delivery records if a message fails.
 
 The HTTP function is at `supabase/functions/send-sms-hook/index.ts`. It sends
 the OTP as the Aliyun template parameter `{ "code": "<OTP>" }`. The
@@ -198,6 +198,8 @@ administrator can correct the configuration and retry. Mainland China and
 international destinations may require different Aliyun SMS products,
 endpoints, signatures, templates, and destination allowlists. Confirm the
 account's permitted region/product in Aliyun before production use.
+Supabase normalizes the phone number in Send SMS Hook payloads without a
+leading `+`; the function accepts that format and forwards the digits to Aliyun.
 
 To create the requested phone-based accounts after the Aliyun SMS hook is
 configured, the first administrator account must be bootstrapped by a project
