@@ -183,14 +183,12 @@ Deno.serve(async (request: Request) => {
       : 400, origin)
   }
 
-  const invitationUrl = new URL("/login", siteUrl)
-  invitationUrl.searchParams.set("phone", phone)
   try {
     if (!smsConfig) throw new Error("Phone invitation SMS configuration is missing.")
     await sendAliyunSms({
       ...smsConfig,
       phone,
-      templateParam: { link: invitationUrl.toString() },
+      templateParam: {},
     })
   } catch (smsError) {
     const { error: deleteError } = await adminClient.auth.admin.deleteUser(createData.user.id)

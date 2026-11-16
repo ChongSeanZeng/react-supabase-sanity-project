@@ -54,9 +54,11 @@ export async function sendAliyunSms({
     SignatureNonce: crypto.randomUUID(),
     SignatureVersion: "1.0",
     TemplateCode: templateCode,
-    TemplateParam: JSON.stringify(templateParam),
     Timestamp: new Date().toISOString().replace(/\.\d{3}Z$/, "Z"),
     Version: "2017-05-25",
+  }
+  if (Object.keys(templateParam).length > 0) {
+    parameters.TemplateParam = JSON.stringify(templateParam)
   }
   parameters.Signature = await signAliyunParameters(parameters, accessKeySecret)
 

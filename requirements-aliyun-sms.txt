@@ -1,0 +1,4 @@
+alibabacloud_dysmsapi20170525
+alibabacloud_tea_openapi
+alibabacloud_tea_util
+python-dotenv
