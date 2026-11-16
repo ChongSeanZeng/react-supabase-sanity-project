@@ -116,9 +116,11 @@ bun x supabase@latest secrets set 'APP_SITE_URL=https://your-site-domain' 'APP_A
 The function checks the caller's Supabase session and `profiles.role` before
 using the server-only `SUPABASE_SERVICE_ROLE_KEY`. Email invitations are sent
 through Supabase Auth SMTP. Phone invitations create an unconfirmed phone user;
-the learner receives an SMS invitation link with their phone number prefilled,
-then requests an OTP to sign in. The invitation SMS uses a separate approved
-Aliyun template from the OTP SMS.
+the learner receives the approved invitation SMS without a URL, opens the site
+and enters their phone number to request an OTP. The invitation SMS uses a
+separate approved Aliyun template from the OTP SMS. Set
+`ALIYUN_SMS_INVITE_TEMPLATE_CODE` to the code for the approved template whose
+content is `尊敬的学员您好，欢迎使用验证码自助登录林扬东方官网。`.
 Set `APP_ALLOWED_ORIGINS` to a comma-separated list of exact site origins when
 the app has more than one domain (for example production and preview URLs).
 For local testing, include `http://localhost:5173` in that list.
@@ -150,9 +152,9 @@ Phone login uses a Supabase Send SMS Hook to deliver OTPs through Aliyun:
 
 1. In the Aliyun SMS console, activate SMS, configure an approved SMS signature
    and two approved templates: an OTP template with the verification-code
-   placeholder `${code}`, and an invitation template with a link placeholder
-   `${link}`. Confirm Aliyun permits the invitation URL in the approved
-   template, including the site's `/login?phone=...` query string.
+   placeholder `${code}`, and an invitation template with the content
+   `尊敬的学员您好，欢迎使用验证码自助登录林扬东方官网。`. The invitation template
+   contains no URL or variables.
    Create a RAM user/access key limited to the SMS send action. Keep its secret
    out of browser variables and source control.
 2. Deploy the included Edge Function. From the repository root, set the
@@ -190,13 +192,12 @@ Phone login uses a Supabase Send SMS Hook to deliver OTPs through Aliyun:
 
 The HTTP function is at `supabase/functions/send-sms-hook/index.ts`. It sends
 the OTP as the Aliyun template parameter `{ "code": "<OTP>" }`. The
-`invite-student` function sends phone invitations using the separate template
-parameter `{ "link": "<site URL with phone prefilled>" }`; if Aliyun rejects
-the send, it removes the newly created phone account so the administrator can
-correct the configuration and retry. Mainland China and international
-destinations may require different Aliyun SMS products, endpoints, signatures,
-templates, and destination allowlists. Confirm the account's permitted
-region/product in Aliyun before production use.
+`invite-student` function sends phone invitations with no template parameters;
+if Aliyun rejects the send, it removes the newly created phone account so the
+administrator can correct the configuration and retry. Mainland China and
+international destinations may require different Aliyun SMS products,
+endpoints, signatures, templates, and destination allowlists. Confirm the
+account's permitted region/product in Aliyun before production use.
 
 To create the requested phone-based accounts after the Aliyun SMS hook is
 configured, the first administrator account must be bootstrapped by a project
