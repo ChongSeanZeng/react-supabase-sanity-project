@@ -69,7 +69,10 @@ Deno.serve(async (request: Request) => {
       templateCode,
       templateParam: { code: otp },
     })
-    return new Response(null, { status: 200 })
+    return new Response(null, {
+      status: 200,
+      headers: { "Content-Type": "application/json" },
+    })
   } catch (error) {
     console.error("Aliyun SMS request failed.", error)
     return jsonError("The SMS provider could not send the verification code.", 502)

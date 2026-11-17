@@ -13,7 +13,6 @@ interface EudrCertificate {
   reportValidUntil: string
   productType: string
   hsCode: string
-  treeSpecies: string[]
 }
 
 interface CertificateSearch {
@@ -24,8 +23,12 @@ interface CertificateSearch {
 const inputClass =
   "w-full rounded-card border border-line bg-white px-4 py-3 text-[15px] text-ink placeholder:text-inksoft/60 outline-none transition-colors focus:border-moss focus:ring-2 focus:ring-sprout/30"
 
+function searchTerm(value: string) {
+  return value.trim().replace(/[*?\\]/g, " ").trim()
+}
+
 function searchPattern(value: string) {
-  const term = value.trim().replace(/[*?\\]/g, " ").trim()
+  const term = searchTerm(value)
   return term ? `*${term}*` : ""
 }
 
@@ -87,8 +90,16 @@ export function EudrCertificateSearch() {
     setActiveSearch(null)
     const companyTerm = company.trim().slice(0, 100)
     const referenceTerm = reference.trim().slice(0, 100)
+    const companySearchTerm = searchTerm(companyTerm)
+    const companyLength = Array.from(companySearchTerm).length
     if (!companyTerm && !referenceTerm) {
       setError(t("请输入公司名称或 DDS reference 编号"))
+      setSearched(false)
+      setRecords([])
+      return
+    }
+    if (companyTerm && companyLength < 10 && !referenceTerm) {
+      setError(t("公司名称需至少输入 10 个字符，或输入完整 DDS reference 编号"))
       setSearched(false)
       setRecords([])
       return
@@ -100,9 +111,8 @@ export function EudrCertificateSearch() {
       return
     }
 
-    const companyPattern = companyTerm ? searchPattern(companyTerm) : ""
-    const referencePattern = referenceTerm ? searchPattern(referenceTerm) : ""
-    if (!companyPattern && !referencePattern) {
+    const companyPattern = companyLength >= 10 ? searchPattern(companySearchTerm) : ""
+    if (!companyPattern && !referenceTerm) {
       setError(t("请输入公司名称或 DDS reference 编号"))
       setSearched(false)
       setRecords([])
@@ -120,9 +130,9 @@ export function EudrCertificateSearch() {
         filters.push("reportHolder match $company")
         params.company = companyPattern
       }
-      if (referencePattern) {
-        filters.push("ddsReference match $reference")
-        params.reference = referencePattern
+      if (referenceTerm) {
+        filters.push("lower(ddsReference) == lower($reference)")
+        params.reference = referenceTerm
       }
 
       const query = `*[_type == "eudrCertificate" && (${filters.join(" || ")})] | order(_updatedAt desc) {
@@ -132,8 +142,7 @@ export function EudrCertificateSearch() {
         verificationDate,
         reportValidUntil,
         productType,
-        hsCode,
-        treeSpecies
+        hsCode
       }`
       const result = await sanityClient.fetch<EudrCertificate[]>(query, params)
       setRecords(result)
@@ -161,7 +170,6 @@ export function EudrCertificateSearch() {
     "报告有效期结束日期",
     "产品类型",
     "HS Code（前 4 位，可多个）",
-    "树种",
   ]
 
   return (
@@ -170,7 +178,7 @@ export function EudrCertificateSearch() {
         <SectionHead
           eyebrow="EUDR"
           title="EUDR 验证信息查询"
-          desc="输入编号或持有者名称开始查询。支持模糊匹配，不区分大小写。查询结果实时读取数据库，数据更新后无需刷新页面即可获取最新记录。"
+          desc="输入完整 DDS reference 编号精确查询，或输入至少 10 个字符的公司名称进行模糊查询。查询结果实时读取数据库，数据更新后无需刷新页面即可获取最新记录。"
         />
 
         <form onSubmit={handleSearch} className="mt-8 rounded-card border border-line bg-white p-5 md:p-6">
@@ -185,7 +193,7 @@ export function EudrCertificateSearch() {
                 value={company}
                 onChange={(event) => setCompany(event.target.value)}
                 maxLength={100}
-                placeholder={t("输入报告持有人 / 公司名称")}
+                placeholder={t("输入至少 10 个字符的公司名称")}
               />
             </div>
             <div>
@@ -272,7 +280,6 @@ export function EudrCertificateSearch() {
                         </td>
                         <td className="whitespace-pre-line px-4 py-4 text-ink">{record.productType}</td>
                         <td className="whitespace-pre-line px-4 py-4 text-ink">{record.hsCode}</td>
-                        <td className="px-4 py-4 text-ink">{record.treeSpecies?.join("、")}</td>
                       </tr>
                     )
                   })}
