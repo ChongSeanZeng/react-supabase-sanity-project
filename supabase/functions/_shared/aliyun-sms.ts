@@ -8,6 +8,21 @@ interface AliyunSmsOptions {
   templateParam: Record<string, string>
 }
 
+export function getAliyunSmsSignName() {
+  const encodedSignName = Deno.env.get("ALIYUN_SMS_SIGN_NAME_BASE64")
+  if (encodedSignName === undefined) return Deno.env.get("ALIYUN_SMS_SIGN_NAME")
+
+  try {
+    const bytes = Uint8Array.from(atob(encodedSignName), (character) =>
+      character.charCodeAt(0)
+    )
+    return new TextDecoder("utf-8", { fatal: true }).decode(bytes)
+  } catch {
+    console.error("Aliyun SMS signature must be valid Base64-encoded UTF-8.")
+    return undefined
+  }
+}
+
 function encodeRfc3986(value: string) {
   return encodeURIComponent(value).replace(/[!'()*]/g, (character) =>
     `%${character.charCodeAt(0).toString(16).toUpperCase()}`,
@@ -68,10 +83,26 @@ export async function sendAliyunSms({
     body: new URLSearchParams(parameters),
   })
   const result: unknown = await response.json()
-  const resultCode = result && typeof result === "object" && "Code" in result
-    ? result.Code
+  const resultObject = result && typeof result === "object" ? result : undefined
+  const resultCode = resultObject && "Code" in resultObject
+    && typeof resultObject.Code === "string"
+    ? resultObject.Code
+    : undefined
+  const resultMessage = resultObject && "Message" in resultObject
+    && typeof resultObject.Message === "string"
+    ? resultObject.Message
+    : undefined
+  const requestId = resultObject && "RequestId" in resultObject
+    && typeof resultObject.RequestId === "string"
+    ? resultObject.RequestId
     : undefined
   if (!response.ok || resultCode !== "OK") {
-    throw new Error(`Aliyun SMS request was rejected (${resultCode ?? response.status}).`)
+    const details = [
+      `HTTP ${response.status}`,
+      `Code ${resultCode ?? "missing"}`,
+      resultMessage ? `Message: ${resultMessage}` : undefined,
+      requestId ? `RequestId: ${requestId}` : undefined,
+    ].filter(Boolean).join("; ")
+    throw new Error(`Aliyun SMS request was rejected (${details}).`)
   }
 }

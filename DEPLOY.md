@@ -164,7 +164,9 @@ Phone login uses a Supabase Send SMS Hook to deliver OTPs through Aliyun:
    function secrets in the Supabase Dashboard under **Edge Functions →
    Secrets**: `SEND_SMS_HOOK_SECRETS` (the hook signing secret),
    `ALIYUN_ACCESS_KEY_ID`, `ALIYUN_ACCESS_KEY_SECRET`,
-   `ALIYUN_SMS_SIGN_NAME`, `ALIYUN_SMS_TEMPLATE_CODE` (OTP template),
+   `ALIYUN_SMS_SIGN_NAME_BASE64` (UTF-8 Base64 of the approved signature;
+   preferred for Chinese signatures), `ALIYUN_SMS_SIGN_NAME` (legacy fallback),
+   `ALIYUN_SMS_TEMPLATE_CODE` (OTP template),
    `ALIYUN_SMS_INVITE_TEMPLATE_CODE` (phone invitation template), and
    optionally `ALIYUN_SMS_ENDPOINT` (defaults to `dysmsapi.aliyuncs.com`; choose
    the endpoint documented for your Aliyun SMS product/region).
@@ -188,7 +190,9 @@ Phone login uses a Supabase Send SMS Hook to deliver OTPs through Aliyun:
    this is expected because the hook replaces the built-in sender. Do not enter
    Aliyun credentials into a built-in provider's fields. Test with an E.164
    phone number and check Supabase Auth logs first, then Edge Function logs and
-   Aliyun SMS delivery records if a message fails.
+   Aliyun SMS delivery records if a message fails. The Edge Function log
+   includes Aliyun's response code, message, and request ID for rejected sends;
+   never share access keys or OTP values when reporting logs.
 
 The HTTP function is at `supabase/functions/send-sms-hook/index.ts`. It sends
 the OTP as the Aliyun template parameter `{ "code": "<OTP>" }`. The
@@ -200,6 +204,9 @@ endpoints, signatures, templates, and destination allowlists. Confirm the
 account's permitted region/product in Aliyun before production use.
 Supabase normalizes the phone number in Send SMS Hook payloads without a
 leading `+`; the function accepts that format and forwards the digits to Aliyun.
+For a Chinese signature, create the Base64 secret in PowerShell with
+`[Convert]::ToBase64String([Text.Encoding]::UTF8.GetBytes('林扬东方北京'))`.
+Both SMS functions decode `ALIYUN_SMS_SIGN_NAME_BASE64` as UTF-8 before sending.
 
 To create the requested phone-based accounts after the Aliyun SMS hook is
 configured, the first administrator account must be bootstrapped by a project

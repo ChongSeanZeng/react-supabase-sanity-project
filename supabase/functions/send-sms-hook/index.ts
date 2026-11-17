@@ -1,5 +1,5 @@
 import { Webhook } from "https://esm.sh/standardwebhooks@1.0.0"
-import { sendAliyunSms } from "../_shared/aliyun-sms.ts"
+import { getAliyunSmsSignName, sendAliyunSms } from "../_shared/aliyun-sms.ts"
 
 interface SmsHookEvent {
   user?: { phone?: string }
@@ -16,7 +16,7 @@ Deno.serve(async (request: Request) => {
   const hookSecrets = Deno.env.get("SEND_SMS_HOOK_SECRETS")
   const accessKeyId = Deno.env.get("ALIYUN_ACCESS_KEY_ID")
   const accessKeySecret = Deno.env.get("ALIYUN_ACCESS_KEY_SECRET")
-  const signName = Deno.env.get("ALIYUN_SMS_SIGN_NAME")
+  const signName = getAliyunSmsSignName()
   const templateCode = Deno.env.get("ALIYUN_SMS_TEMPLATE_CODE")
   const endpoint = Deno.env.get("ALIYUN_SMS_ENDPOINT") ?? "dysmsapi.aliyuncs.com"
   if (!hookSecrets || !accessKeyId || !accessKeySecret || !signName || !templateCode) {
