@@ -29,13 +29,13 @@ export const eudrCertificate = defineType({
     defineField({
       name: "verificationDate",
       title: "现场验证时间 / On-site verification date",
-      type: "date",
+      type: "string",
       fieldset: "verificationDetails",
       validation: (rule) => rule.required(),
     }),
     defineField({
       name: "reportValidUntil",
-      title: "报告有效期至 / Report valid until",
+      title: "报告有效期结束日期 / Report validity end date",
       type: "date",
       fieldset: "verificationDetails",
       validation: (rule) => rule.required(),
@@ -49,10 +49,11 @@ export const eudrCertificate = defineType({
     }),
     defineField({
       name: "hsCode",
-      title: "HS Code（前 4 位）/ First 4 digits",
-      type: "string",
+      title: "HS Code（前 4 位，可多个）/ First 4 digits, multiple allowed",
+      type: "text",
+      rows: 2,
       fieldset: "verificationDetails",
-      validation: (rule) => rule.required().regex(/^\d{4}$/),
+      validation: (rule) => rule.required(),
     }),
     defineField({
       name: "treeSpecies",
@@ -60,15 +61,6 @@ export const eudrCertificate = defineType({
       type: "array",
       of: [{ type: "string" }],
       fieldset: "verificationDetails",
-      validation: (rule) => rule.min(1).required(),
-    }),
-    defineField({
-      name: "conclusion",
-      title: "结论 / Conclusion",
-      type: "text",
-      rows: 2,
-      fieldset: "verificationDetails",
-      validation: (rule) => rule.required(),
     }),
   ],
   preview: {

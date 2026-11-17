@@ -65,9 +65,9 @@ dataset must permit public reads and the deployed origin must be allowed in
 Sanity CORS settings. Do not expose `SANITY_API_TOKEN` through a `VITE_` variable.
 
 Each record includes the DDS reference number, report holder/company, on-site
-verification date, report validity end date, product type, the first four HS
-Code digits, tree species, and conclusion. Visitors can search by company name
-or DDS reference; when both are provided, a match on either field is returned.
+verification date(s), report validity end date, product type, HS Code, and
+optional tree species. Visitors can search by company name or DDS reference;
+when both are provided, a match on either field is returned.
 
 ## FSC CoC online course
 

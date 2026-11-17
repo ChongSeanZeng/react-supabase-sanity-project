@@ -14,7 +14,6 @@ interface EudrCertificate {
   productType: string
   hsCode: string
   treeSpecies: string[]
-  conclusion: string
 }
 
 interface CertificateSearch {
@@ -134,8 +133,7 @@ export function EudrCertificateSearch() {
         reportValidUntil,
         productType,
         hsCode,
-        treeSpecies,
-        conclusion
+        treeSpecies
       }`
       const result = await sanityClient.fetch<EudrCertificate[]>(query, params)
       setRecords(result)
@@ -160,11 +158,10 @@ export function EudrCertificateSearch() {
     "DDS reference 编号",
     "报告持有人",
     "现场验证时间",
-    "报告有效期",
+    "报告有效期结束日期",
     "产品类型",
-    "HS Code（前 4 位）",
+    "HS Code（前 4 位，可多个）",
     "树种",
-    "结论",
   ]
 
   return (
@@ -261,8 +258,8 @@ export function EudrCertificateSearch() {
                     return (
                       <tr key={record._id} className="border-b border-line/70 last:border-0">
                         <td className="whitespace-nowrap px-4 py-4 font-medium text-forest">{record.ddsReference}</td>
-                        <td className="px-4 py-4 text-ink">{record.reportHolder}</td>
-                        <td className="whitespace-nowrap px-4 py-4 text-ink">{formatDate(record.verificationDate)}</td>
+                        <td className="whitespace-pre-line px-4 py-4 text-ink">{record.reportHolder}</td>
+                        <td className="whitespace-pre-line px-4 py-4 text-ink">{record.verificationDate}</td>
                         <td className="whitespace-nowrap px-4 py-4 text-ink">
                           {formatDate(record.reportValidUntil)}
                           <span
@@ -273,10 +270,9 @@ export function EudrCertificateSearch() {
                             {expired ? t("已过期") : t("有效")}
                           </span>
                         </td>
-                        <td className="px-4 py-4 text-ink">{record.productType}</td>
-                        <td className="whitespace-nowrap px-4 py-4 text-ink">{record.hsCode}</td>
-                        <td className="px-4 py-4 text-ink">{record.treeSpecies.join("、")}</td>
-                        <td className="min-w-48 px-4 py-4 text-ink">{record.conclusion}</td>
+                        <td className="whitespace-pre-line px-4 py-4 text-ink">{record.productType}</td>
+                        <td className="whitespace-pre-line px-4 py-4 text-ink">{record.hsCode}</td>
+                        <td className="px-4 py-4 text-ink">{record.treeSpecies?.join("、")}</td>
                       </tr>
                     )
                   })}
