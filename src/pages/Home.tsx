@@ -51,6 +51,32 @@ const services = [
   path: "/sustainability"
 }];
 
+const articleCollections = [
+  {
+    label: "FSC合集",
+    url: "https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzU2Mzg0MzgwMw==&action=getalbum&album_id=2229693676774031363#wechat_redirect",
+  },
+  {
+    label: "EUDR合集",
+    url: "https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzU2Mzg0MzgwMw==&action=getalbum&album_id=3015236515329490944#wechat_redirect",
+  },
+  {
+    label: "认证合集",
+    url: "https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzU2Mzg0MzgwMw==&action=getalbum&album_id=2229693676690145283#wechat_redirect",
+  },
+  {
+    label: "培训合集",
+    url: "https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzU2Mzg0MzgwMw==&action=getalbum&album_id=2350078757618794497#wechat_redirect",
+  },
+  {
+    label: "CE合集",
+    url: "https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzU2Mzg0MzgwMw==&action=getalbum&album_id=2950185416365457412#wechat_redirect",
+  },
+  {
+    label: "供应链合集",
+    url: "https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzU2Mzg0MzgwMw==&action=getalbum&album_id=2931365981081059331#wechat_redirect",
+  },
+];
 
 const advantages = [
 {
@@ -138,24 +164,39 @@ export default function Home() {
           )}
         </div>
         <Reveal delay={160}>
-          <a
-            href="https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzU2Mzg0MzgwMw==&action=getalbum&album_id=4730107550820761601"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="group mt-6 flex flex-col gap-5 rounded-card border border-line bg-mist/50 p-6 transition-all duration-300 hover:border-moss hover:shadow-[0_12px_28px_rgba(27,67,50,0.10)] sm:flex-row sm:items-center sm:gap-8 md:px-10"
-          >
-            <FaNewspaper aria-hidden="true" className="shrink-0 text-xl text-moss" />
-            <div className="flex-1">
-              <h3 className="font-bold text-forest">{t("了解更多林扬观点")}</h3>
-              <p className="mt-1 text-sm leading-relaxed text-inksoft">
-                {t("合规解读、认证动态与行业观察，全部收录在林扬观点专栏，点击查看新闻列表。")}
-              </p>
+          <div className="mt-6 rounded-card border border-line bg-mist/50 p-6 transition-all duration-300 hover:border-moss hover:shadow-[0_12px_28px_rgba(27,67,50,0.10)] md:px-10">
+            <div className="flex flex-col gap-5 sm:flex-row sm:items-center sm:gap-8">
+              <FaNewspaper aria-hidden="true" className="shrink-0 text-xl text-moss" />
+              <div className="flex-1">
+                <h3 className="font-bold text-forest">{t("了解更多林扬观点")}</h3>
+                <p className="mt-1 text-sm leading-relaxed text-inksoft">
+                  {t("合规解读、认证动态与行业观察，全部收录在林扬观点专栏，点击查看新闻列表。")}
+                </p>
+              </div>
+              <a
+                href="https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzU2Mzg0MzgwMw==&action=getalbum&album_id=4730107550820761601"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="group inline-flex shrink-0 items-center gap-2 self-start rounded-card bg-forest px-6 py-3 text-sm font-semibold text-white transition-colors hover:bg-moss sm:self-auto"
+              >
+                {t("查看新闻列表")}
+                <FaArrowRight aria-hidden="true" className="text-xs transition-transform group-hover:translate-x-1" />
+              </a>
             </div>
-            <span className="inline-flex shrink-0 items-center gap-2 self-start rounded-card bg-forest px-6 py-3 text-sm font-semibold text-white transition-colors group-hover:bg-moss sm:self-auto">
-              {t("查看新闻列表")}
-              <FaArrowRight aria-hidden="true" className="text-xs transition-transform group-hover:translate-x-1" />
-            </span>
-          </a>
+            <div className="mt-5 grid grid-cols-2 gap-3 border-t border-line pt-5 sm:grid-cols-3 lg:grid-cols-6">
+              {articleCollections.map((collection) => (
+                <a
+                  key={collection.label}
+                  href={collection.url}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="rounded-card border border-line bg-white px-3 py-3 text-center text-sm font-medium text-forest transition-colors hover:border-moss hover:text-moss"
+                >
+                  {t(collection.label)}
+                </a>
+              ))}
+            </div>
+          </div>
         </Reveal>
       </section>
 

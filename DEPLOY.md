@@ -155,9 +155,15 @@ Phone login uses a Supabase Send SMS Hook to deliver OTPs through Aliyun:
 
 1. In the Aliyun SMS console, activate SMS, configure an approved SMS signature
    and two approved templates: an OTP template with the verification-code
-   placeholder `${code}`, and an invitation template with the content
-   `尊敬的学员您好，欢迎使用验证码自助登录林扬东方官网。`. The invitation template
-   contains no URL or variables.
+   placeholder `${code}`, and an invitation template with this fixed link:
+
+   ```text
+   学员您好，林扬东方课程学习网址为：https://www.eastinflink.cn/courses，欢迎使用验证码自助登录。
+   ```
+
+   Submit the invitation template for Aliyun review. After approval, set its
+   template code as `ALIYUN_SMS_INVITE_TEMPLATE_CODE` in Supabase Edge Function
+   Secrets. The invitation template has no variables.
    Create a RAM user/access key limited to the SMS send action. Keep its secret
    out of browser variables and source control.
 2. Deploy the included Edge Function. From the repository root, set the
