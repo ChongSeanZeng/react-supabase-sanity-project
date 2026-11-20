@@ -1,4 +1,3 @@
-import { useState } from "react";
 import { LocalizedLink as Link } from "@/components/common/LocalizedLink";
 import { PageMeta } from "@/components/common/PageMeta";
 import { Reveal, CountUp } from "@/components/generated/Reveal";
@@ -112,7 +111,6 @@ const stats = [
 
 export default function Home() {
   const { t } = useLanguage();
-  const [showArticleCollections, setShowArticleCollections] = useState(true);
 
   return (
     <>
@@ -178,33 +176,27 @@ export default function Home() {
               </div>
               <button
                 type="button"
-                aria-expanded={showArticleCollections}
                 aria-controls="article-collections"
-                onClick={() => setShowArticleCollections((show) => !show)}
+                onClick={() => document.getElementById("article-collections")?.scrollIntoView({ behavior: "smooth", block: "nearest" })}
                 className="group inline-flex shrink-0 items-center gap-2 self-start rounded-card bg-forest px-6 py-3 text-sm font-semibold text-white transition-colors hover:bg-moss sm:self-auto"
               >
-                {t(showArticleCollections ? "收起文章" : "查看更多文章")}
-                <FaChevronDown
-                  aria-hidden="true"
-                  className={`text-xs transition-transform ${showArticleCollections ? "rotate-180" : "group-hover:translate-y-0.5"}`}
-                />
+                {t("查看更多文章")}
+                <FaChevronDown aria-hidden="true" className="text-xs transition-transform group-hover:translate-y-0.5" />
               </button>
             </div>
-            {showArticleCollections && (
-              <div id="article-collections" className="mt-5 grid grid-cols-2 gap-3 border-t border-line pt-5 sm:grid-cols-3 lg:grid-cols-6">
-                {articleCollections.map((collection) => (
-                  <a
-                    key={collection.label}
-                    href={collection.url}
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="rounded-card border border-line bg-white px-3 py-3 text-center text-sm font-medium text-forest transition-colors hover:border-moss hover:text-moss"
-                  >
-                    {t(collection.label)}
-                  </a>
-                ))}
-              </div>
-            )}
+            <div id="article-collections" className="mt-5 grid grid-cols-2 gap-3 border-t border-line pt-5 sm:grid-cols-3 lg:grid-cols-6">
+              {articleCollections.map((collection) => (
+                <a
+                  key={collection.label}
+                  href={collection.url}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="rounded-card border border-line bg-white px-3 py-3 text-center text-sm font-medium text-forest transition-colors hover:border-moss hover:text-moss"
+                >
+                  {t(collection.label)}
+                </a>
+              ))}
+            </div>
           </div>
         </Reveal>
       </section>
